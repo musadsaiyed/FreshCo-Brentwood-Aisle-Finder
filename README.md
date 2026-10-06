@@ -24,7 +24,7 @@
 
 **Brentwood Aisle Finder** helps store workers locate products without memorizing every shelf or searching through long product lists. Enter a product name, brand, or UPC and immediately see matching products and their **suggested aisle or store section**.
 
-The project currently includes **1,742 product records** from a collected product-listing snapshot. The database is **not a live inventory feed**, and the classifications are intended to be checked against the physical store layout.
+The project currently includes **1,742 verified-snapshot product records** from a collected product-listing snapshot. The database is **not a live inventory feed**, and the classifications are intended to be checked against the physical store layout.
 
 ## Features
 
@@ -176,3 +176,18 @@ This version intentionally has **no Verify section, correction dropdowns, or cor
 ## Branding and independence
 
 The website displays a FreshCo logo sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FreshCo_logo.svg) for store identification. **This is an unofficial independent project, not affiliated with, sponsored by, or endorsed by FreshCo or Sobeys.** FreshCo is a trademark of its respective owner. The logo loads from Wikimedia Commons, so internet access is required for it to display.
+
+
+## Aisle 2 international frozen product-family guides
+
+The website includes **12 manually added product-family guides** for Deep frozen parathas, naan and roti, frozen vegetable burger patties, Ashoka frozen foods, frozen rasmalai, kaju katli, and similar sweets. These are **location guides, not verified FreshCo product SKUs**. No UPC, size, price, image, product URL, or inventory status is invented. The original 1,742 catalog records are preserved. When verified catalog records become available, replace these guides with individual product records and deduplicate.
+
+### Brentwood bakery and naan placement
+
+- **Bakery:** roti, sandwich bread, burger/hot dog buns, rolls, tortillas, pita, bagels, baguettes and other bread products, including the Deep Roti product-family guide.
+- **Aisle 2:** naan, including the Deep Frozen Naan product-family guide.
+- These are store-specific placements; generic product-family guides are not verified individual SKUs.
+
+### Expanded bakery classification
+
+Bread, buns, bakery rolls, tortillas, pita, bagels and related bread products in the existing catalog are mapped to **Bakery**. Naan and paratha remain in **Aisle 2**. Tortilla chips, breaded meats, spring rolls and egg rolls are excluded from the bakery rule.

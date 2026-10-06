@@ -1,4 +1,4 @@
-product_id,upc,name,brand,department,category,subcategory,aisle,assignment_reason,confidence
+﻿product_id,upc,name,brand,department,category,subcategory,aisle,assignment_reason,confidence
 1336024,814668003156,KFI Vegan Cooking Sauce Coconut Curry 395 ml,KFI,,,,other,No reliable aisle rule matched,review
 1336019,814668003071,KFI Vegan Cooking Sauce Tikka Masala 395 ml,KFI,,,,other,No reliable aisle rule matched,review
 72157,062600500496,Aveeno Baby Daily Lotion Fragrance Free 227 ml,Aveeno Baby,Baby,Baby Bath & Skin Care,Baby Lotions & Creams,7,Baby food and supplies,high
@@ -107,7 +107,7 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 582325,013562000401,Annie's Organic Baked Graham Snacks Honey Bunny 213 g,Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 423845,055742551853,Best Buy Peanut Free Cookies Cream Filled Chocolate Fudge 600 g,Best Buy,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
 423846,055742551846,Best Buy Peanut Free Cookies Cream Filled Vanilla 600 g,Best Buy,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
-1009537,627985001077,Chalo! Frozen Naan Garlic 10 x 100 g,Chalo,Bread & Bakery,"Wraps, Pita & Flatbread",Naan & Roti,other,Fresh/refrigerated or separate store section,medium
+1009537,627985001077,Chalo! Frozen Naan Garlic 10 x 100 g,Chalo,Bread & Bakery,"Wraps, Pita & Flatbread",Naan & Roti,2,Naan: Aisle 2,store-confirmed
 643006,066721026569,Chips Ahoy Cookies Triple Chocolate Chunks 251 g,Chips Ahoy,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
 643421,066721006233,Chips Ahoy! Original Cookies Soft Chunky 290 g,Chips Ahoy!,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
 642954,066721026392,Christie Chips Ahoy! Cadbury Caramilk Chewy Cookies Family Size 453 g,Chips Ahoy!,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
@@ -123,7 +123,7 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 506149,066721025456,Christie Oreo Chocolate Sandwich Cookies Mega Stuf 374 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
 642952,066721026637,Christie Oreo Sandwich Cookies Birthday Cake 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
 949506,066721009067,Christie Oreo Sandwich Cookies Fudge Covered 224 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
-850103,068820136132,Compliments Garlic Bread 284 g (frozen),Compliments,Bread & Bakery,Bread,"Garlic, Raisin & Specialty Bread",other,Fresh/refrigerated or separate store section,medium
+850103,068820136132,Compliments Garlic Bread 284 g (frozen),Compliments,Bread & Bakery,Bread,"Garlic, Raisin & Specialty Bread",bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
 26402,055742575248,Compliments Pie 8-Inch Cherry 680 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Pastries & Danishes,other,Fresh/refrigerated or separate store section,medium
 26416,055742575194,Compliments Pie Apple 8-Inch 750 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Pastries & Danishes,other,Fresh/refrigerated or separate store section,medium
 25686,055742575224,Compliments Pie Apple Crumble 8-Inch 680 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Pastries & Danishes,other,Fresh/refrigerated or separate store section,medium
@@ -131,12 +131,12 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 26441,055742575255,Compliments Pie Pecan 8-Inch 580 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Pies,other,Fresh/refrigerated or separate store section,medium
 25691,055742575187,Compliments Pie Pumpkin 8 Inch 650 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Pastries & Danishes,other,Fresh/refrigerated or separate store section,medium
 25689,055742575217,Compliments Pie Rhubarb Strawberry 680 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Pastries & Danishes,other,Fresh/refrigerated or separate store section,medium
-253209,068820122807,Compliments Tortillas Original 10-Inch 610 g,Compliments,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,other,Fresh/refrigerated or separate store section,medium
-253211,068820122166,Compliments Tortillas Original 7-Inch 340 g,Compliments,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,other,Fresh/refrigerated or separate store section,medium
-253214,068820120568,Compliments Tortillas Whole Grain Wheat Flour 7-Inch 340 g,Compliments,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,6,"Baking, canned goods, soups or crackers",medium
-660747,068820132417,Compliments Two-Bite® Cinnamon Rolls 370 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Buns & Dinner Rolls,other,Fresh/refrigerated or separate store section,medium
-419408,627265011628,Crispy Original Roti Wrap 7-inch 15 Pack 750 g,Crispy,Bread & Bakery,"Wraps, Pita & Flatbread",Pita,other,Fresh/refrigerated or separate store section,medium
-419416,627265011635,Crispy Whole Wheat Roti Wrap 7-inch 15 Pack 750 g,Crispy,Bread & Bakery,"Wraps, Pita & Flatbread",Pita,other,Fresh/refrigerated or separate store section,medium
+253209,068820122807,Compliments Tortillas Original 10-Inch 610 g,Compliments,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+253211,068820122166,Compliments Tortillas Original 7-Inch 340 g,Compliments,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+253214,068820120568,Compliments Tortillas Whole Grain Wheat Flour 7-Inch 340 g,Compliments,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+660747,068820132417,Compliments Two-Bite® Cinnamon Rolls 370 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Buns & Dinner Rolls,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+419408,627265011628,Crispy Original Roti Wrap 7-inch 15 Pack 750 g,Crispy,Bread & Bakery,"Wraps, Pita & Flatbread",Pita,bakery,Roti and roti wraps: Bakery section,store-confirmed
+419416,627265011635,Crispy Whole Wheat Roti Wrap 7-inch 15 Pack 750 g,Crispy,Bread & Bakery,"Wraps, Pita & Flatbread",Pita,bakery,Roti and roti wraps: Bakery section,store-confirmed
 374619,056833000113,Dads Original Oatmeal Cookies 8 Individually Wrapped Packs 300 g,Dads,Bread & Bakery,Desserts & Pastries,Bakery Cookies,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 672219,063348005960,Dare Bear Paws Peanut-Free Cookies Birthday Cake 168 g,Dare,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
 540120,063348006974,Dare Bear Paws Peanut-Free Cookies Rainbow Chip 6 Pack 240 g,Dare,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
@@ -149,13 +149,13 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 655038,055653170051,Dare Ultimate Peanut-Free Cookies Coconut Creme 290 g,Dare Ultimate,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
 659120,055653170150,Dare Ultimate Peanut-Free Cookies Lemon Crème 290 g,Dare Ultimate,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
 654578,055653170259,Dare Ultimate Peanut-Free Cookies Maple Crème 300 g,Dare Ultimate,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
-334096,068721300151,Dempster's Signature Burger Buns Classic 8 Pack 616 g,Dempster's,Bread & Bakery,Buns & Dinner Rolls,Hamburger Buns,other,Fresh/refrigerated or separate store section,medium
-692315,068721620921,Dempster's Signature The Gold Burger Buns 8 Pack,Dempster's,Bread & Bakery,Buns & Dinner Rolls,Hamburger Buns,other,Fresh/refrigerated or separate store section,medium
-888299,068721009191,Dempster’s Burrito Tortillas White Extra Large 600 g,Dempster’s,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,other,Fresh/refrigerated or separate store section,medium
-935843,068721620952,Dempster’s Signature Pull-Aparts Rolls Brioche 420 g,Dempster's,Bread & Bakery,Buns & Dinner Rolls,Hamburger Buns,other,Fresh/refrigerated or separate store section,medium
-331110,068721038092,Dempster’s Tortillas 100% Whole Wheat Medium 340 g,Dempster's,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,other,Fresh/refrigerated or separate store section,medium
-174386,068721038412,Dempster’s Tortillas Ancient Grains 7-Inch 272 g,Dempster's,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,other,Fresh/refrigerated or separate store section,medium
-331109,068721038085,Dempster’s Tortillas Original 7-Inch 340 g,Dempster's,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,other,Fresh/refrigerated or separate store section,medium
+334096,068721300151,Dempster's Signature Burger Buns Classic 8 Pack 616 g,Dempster's,Bread & Bakery,Buns & Dinner Rolls,Hamburger Buns,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+692315,068721620921,Dempster's Signature The Gold Burger Buns 8 Pack,Dempster's,Bread & Bakery,Buns & Dinner Rolls,Hamburger Buns,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+888299,068721009191,Dempster’s Burrito Tortillas White Extra Large 600 g,Dempster’s,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+935843,068721620952,Dempster’s Signature Pull-Aparts Rolls Brioche 420 g,Dempster's,Bread & Bakery,Buns & Dinner Rolls,Hamburger Buns,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+331110,068721038092,Dempster’s Tortillas 100% Whole Wheat Medium 340 g,Dempster's,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+174386,068721038412,Dempster’s Tortillas Ancient Grains 7-Inch 272 g,Dempster's,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+331109,068721038085,Dempster’s Tortillas Original 7-Inch 340 g,Dempster's,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
 673238,066721005861,Fudgee-O Sandwich Cookies Chocolatey Creme Filled 303 g,Fudgee-O,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
 6879,066721028310,Fudgee-O Sandwich Cookies Chocolatey Creme Filled 488 g,Fudgee-O,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
 673288,066721005885,Fudgee-O Sandwich Cookies Double Stuf Creme Filled 303 g,Fudgee-O,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
@@ -172,7 +172,7 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 1381657,064042007311,Leclerc Celebration Wafer Coated Milk Chocolate Vanilla 240 g,Leclerc,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
 458233,047495210217,Nature's Bakery Glucose & lactose Free Whole Wheat Fig Bar Blueberry 340 g,Nature's Bakery,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
 463891,058300427232,Old El Paso Soft Tortilla Bowls Flour 8 Bowls 189 g,Old El Paso,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-998815,058300004983,Old El Paso Tortillas Soft Large 334 g,Old El Paso,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,other,Fresh/refrigerated or separate store section,medium
+998815,058300004983,Old El Paso Tortillas Soft Large 334 g,Old El Paso,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
 1379435,066721029980,Oreo Cakesters Soft Snack Cakes Double Chocolate 285 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
 6880,066721028129,Oreo Gluten Free Sandwich Cookies Double Stuf Chocolate 353 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
 6688,066721028105,Oreo Original Sandwich Cookies Chocolate Family Size 439 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
@@ -189,20 +189,20 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 643000,066721026590,Oreo Sandwich Cookies Original Chocolate 270 g,Cross Brand,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
 329574,066721028990,Oreo Sandwich Cookies Thins Chocolate 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
 7122,813002020330,Promise Gluten Free Loaf Multigrain 480 g (frozen),Promise Gluten Free,Bread & Bakery,Bread,Wheat & Grain Bread,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-965480,813002020132,Promise Gluten-Free Tortillas Original 168 g,Promise Gluten Free,Bread & Bakery,Bread,Wheat & Grain Bread,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
+965480,813002020132,Promise Gluten-Free Tortillas Original 168 g,Promise Gluten Free,Bread & Bakery,Bread,Wheat & Grain Bread,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
 552238,813002020842,Promise Gluten-Free Vegan Rustic White Cob Loaf 400 g (frozen),Promise Gluten Free,Bread & Bakery,Bread,Wheat & Grain Bread,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 351442,068656017032,Surati Coconut Cookies 340 g,Surati,Bread & Bakery,Desserts & Pastries,International Foods,other,Fresh/refrigerated or separate store section,medium
-1284275,061497231568,Tia Rosa Tortillas White Flour 275 g,Tia Rosa,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,6,"Baking, canned goods, soups or crackers",medium
-32549,061497699610,Tia Rosa Tortillas Yellow Corn 320 g,Tia Rosa,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,other,Fresh/refrigerated or separate store section,medium
+1284275,061497231568,Tia Rosa Tortillas White Flour 275 g,Tia Rosa,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+32549,061497699610,Tia Rosa Tortillas Yellow Corn 320 g,Tia Rosa,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
 429159,882875554006,Top Dessert Frozen Carrot Cake 500 g,Top Dessert,Bread & Bakery,Desserts & Pastries,Cakes & Cupcakes,other,Fresh/refrigerated or separate store section,medium
 652971,060737052116,Vachon Passion Flaky Pastries Apple Raspberry 6 Pack 305 g,Vachon,Bread & Bakery,Desserts & Pastries,Pastries & Danishes,other,Fresh/refrigerated or separate store section,medium
-697406,068721302124,Villaggio Artesano White Bread 540 g,Villaggio,Bread & Bakery,Bread,White Bread,other,Fresh/refrigerated or separate store section,medium
-528895,068721003625,Villaggio Bread 100% Whole Wheat Italian Style 510 g,Villaggio,Bread & Bakery,Bread,Wheat & Grain Bread,other,Fresh/refrigerated or separate store section,medium
-1322287,055617551254,Villaggio Bread Rustico Sourdough 550 g,Villaggio,Bread & Bakery,Bread,Wheat & Grain Bread,other,Fresh/refrigerated or separate store section,medium
-489185,068721203520,Villaggio Hamburger Buns Toscana Extra Soft 8 x 66 g,Villaggio,Bread & Bakery,Buns & Dinner Rolls,Hamburger Buns,other,Fresh/refrigerated or separate store section,medium
-332444,055617055127,Villaggio Rustico Bread Harvest Multigrain 550 g,Villaggio,Bread & Bakery,Bread,Wheat & Grain Bread,other,Fresh/refrigerated or separate store section,medium
-489200,068721203537,Villaggio Sausage Buns Extra Soft Toscana 6 x 71 g,Villaggio,Bread & Bakery,Buns & Dinner Rolls,Hot Dog Buns,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-511662,068721103547,Villaggio White Bread Italian Style 510 g,Villaggio,Bread & Bakery,Bread,White Bread,other,Fresh/refrigerated or separate store section,medium
+697406,068721302124,Villaggio Artesano White Bread 540 g,Villaggio,Bread & Bakery,Bread,White Bread,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+528895,068721003625,Villaggio Bread 100% Whole Wheat Italian Style 510 g,Villaggio,Bread & Bakery,Bread,Wheat & Grain Bread,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+1322287,055617551254,Villaggio Bread Rustico Sourdough 550 g,Villaggio,Bread & Bakery,Bread,Wheat & Grain Bread,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+489185,068721203520,Villaggio Hamburger Buns Toscana Extra Soft 8 x 66 g,Villaggio,Bread & Bakery,Buns & Dinner Rolls,Hamburger Buns,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+332444,055617055127,Villaggio Rustico Bread Harvest Multigrain 550 g,Villaggio,Bread & Bakery,Bread,Wheat & Grain Bread,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+489200,068721203537,Villaggio Sausage Buns Extra Soft Toscana 6 x 71 g,Villaggio,Bread & Bakery,Buns & Dinner Rolls,Hot Dog Buns,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+511662,068721103547,Villaggio White Bread Italian Style 510 g,Villaggio,Bread & Bakery,Bread,White Bread,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
 329548,067312004423,Voortman Cookies Blueberry Turnovers 300 g,Voortman,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
 6768,067312051342,Voortman Mini Cookies Iced Oatmeal 142 g,Voortman,Bread & Bakery,Desserts & Pastries,Bakery Cookies,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 6119,067312051328,Voortman No Sugar Added Mini Wafers Vanilla 184 g,Voortman,Bread & Bakery,Desserts & Pastries,Bakery Cookies,6,"Baking, canned goods, soups or crackers",medium
@@ -665,8 +665,8 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 408966,055742552492,Best Buy Frozen Vegetables Mixed 750 g,Best Buy,Frozen,Frozen Fruits & Vegetables,Frozen Vegetable Mixes,3,"Frozen meals, pizza, sides or vegetables",medium
 407944,055742552539,Best Buy Frozen Vegetables Peas And Carrots 750 g,Best Buy,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,other,Frozen product needs aisle 2/3/4 verification,review
 1006375,057000013035,CRAVE Frozen Fried Rice Jerk Chicken 300 g,Crave,Frozen,"Frozen Meals, Entrees & Sides",Frozen Pasta Dinners,3,"CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",high
-653113,696685100014,Carbonaut Plant Based Frozen White Bread 544 g,Carbonaut,Frozen,Frozen Bread & Breakfast,Frozen Bread & Buns,other,Frozen product needs aisle 2/3/4 verification,review
-653114,696685100021,Carbonaut Plant Based Seeded Bread Multigrain 544 g (frozen),Carbonaut,Frozen,Frozen Bread & Breakfast,Frozen Bread & Buns,other,Frozen product needs aisle 2/3/4 verification,review
+653113,696685100014,Carbonaut Plant Based Frozen White Bread 544 g,Carbonaut,Frozen,Frozen Bread & Breakfast,Frozen Bread & Buns,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
+653114,696685100021,Carbonaut Plant Based Seeded Bread Multigrain 544 g (frozen),Carbonaut,Frozen,Frozen Bread & Breakfast,Frozen Bread & Buns,bakery,"Brentwood bakery: breads, buns, rolls, tortillas, pita and roti",high
 358894,061763060335,Catch Of The Day Frozen Tilapia Filets 750 g,Catch Of The Day,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 313649,061763061141,Catch of the Day Frozen Pink Salmon Fillets 680 g,Catch Of The Day,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 756991,062942002771,Chapman's Frozen Yogurt Three Of A Kind Vanilla 2 L,Chapman's,Frozen,Ice Cream & Treats,"Frozen Yogurt, Gelato & Sorbet",4,"Ice cream, fruit, yogurt or juice",medium
@@ -1742,3 +1742,15 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 24675,057700018057,Sour Patch Kids Candy Original 315 g,SOUR PATCH KIDS,Snacks & Candy,Candy & Chocolate,Candy,9,"Snack, candy or soft drink",medium
 111854,061522980010,SunRype Fruit To Go Vegan 100% Fruit Snack Apple Strawberry 14 g,SunRype,Snacks & Candy,Fruit Flavoured Snacks,,9,"Snack, candy or soft drink",medium
 111662,061522990019,SunRype Fruit To Go Vegan 100% Fruit Snack Apple Wildberry 14 g,SunRype,Snacks & Candy,Fruit Flavoured Snacks,,9,"Snack, candy or soft drink",medium
+guide-intl-001,,Deep Frozen Paratha (assorted varieties),Deep,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-002,,Deep Frozen Naan (assorted varieties),Deep,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,Frozen naan: Aisle 2,location-guide
+guide-intl-003,,Deep Frozen Vegetable Burger Patties,Deep,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-004,,Deep Frozen Indian Snacks and Samosas,Deep,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-005,,Deep Frozen Indian Meals (assorted varieties),Deep,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-006,,Ashoka Frozen Paratha and Flatbreads,Ashoka,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-007,,Ashoka Frozen Indian Meals,Ashoka,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-008,,Ashoka Frozen Snacks and Samosas,Ashoka,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-009,,Frozen Rasmalai (assorted brands),,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-010,,Frozen Kaju Katli (assorted brands),,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-011,,Frozen Indian Sweets (assorted varieties),,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
+guide-intl-012,,Deep Roti (assorted varieties),Deep,Frozen International Foods,Product family guide — SKU not verified,Frozen Indian Foods,bakery,Roti: Bakery section,location-guide
