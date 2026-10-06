@@ -70,37 +70,6 @@ The location rules reflect a **user-supplied layout**, not an official planogram
 
 **Important exceptions:** CRAVE-brand prepared meals and comparable frozen dinners are assigned to **Aisle 3**; frozen fish, squid, calamari, shrimp and similar frozen seafood are assigned to **Aisle 2**. Fresh seafood belongs to **Meat**. Yogurt and lassi remain in **Aisle 4**. Product-specific placement may still need verification.
 
-## Getting started
-
-### Option A — Publish to GitHub Pages (recommended)
-
-1. Create a **public** repository named `FreshCo-Brentwood-Aisle-Finder` on GitHub.
-2. Upload the four files in this project directly to the repository's **root directory** (not inside an extra folder).
-3. Commit your changes to the `main` branch.
-4. Open **Settings → Pages → Build and deployment**.
-5. Set **Source** to `Deploy from a branch`, **Branch** to `main`, and folder to `/ (root)`; click **Save**.
-6. Wait for the Pages deployment to finish, then open the URL displayed in the Pages settings.
-
-For the account `musadsaiyed` and the repository name above, the expected URL is:
-
-```text
-https://musadsaiyed.github.io/FreshCo-Brentwood-Aisle-Finder/
-```
-
-> The URL only works after GitHub Pages is successfully enabled. Replace the account or repository portion if your setup is different.
-
-### Option B — Run locally
-
-From the folder containing `index.html` and `products.json`, run:
-
-```bash
-python -m http.server 8000
-```
-
-Then open **http://localhost:8000** in your browser. You can also use the VS Code **Live Server** extension.
-
-**Do not open `index.html` directly with `file://`**: browsers may block the JavaScript request to `products.json`.
-
 ## Project structure
 
 ```text
