@@ -1921,9 +1921,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/423846_EA_ml_front_VOILA_721690abbd0ce20b7873b9a76c8aa7f1793cc045.JPG",
     "url": "https://www.freshco.com/products/best-buy-peanut-free-cookies-cream-filled-vanilla-600-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2245,9 +2245,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/26402_EA_ml_primary_front_na_062425_VOILA_caf73ce9711084394c612a60fc3edc7654866be0.JPG",
     "url": "https://www.freshco.com/products/compliments-pie-8-inch-cherry-680-g-(frozen)",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen pies and desserts in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2263,9 +2263,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/26416_EA_ml_primary_front_091823_VOILA_d1d328c255732dd50c67effc2c9349703beed5c3.JPG",
     "url": "https://www.freshco.com/products/compliments-pie-apple-8-inch-750-g-(frozen)-",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen pies and desserts in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2281,9 +2281,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/25686_EA_ml_primary_front_na_062425_VOILA_8f9b1d0b5f926bb1700b1755f98ce1af0ec69201.JPG",
     "url": "https://www.freshco.com/products/compliments-pie-apple-crumble-8-inch-680-g-(frozen)",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen pies and desserts in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2299,9 +2299,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/26428_EA_ml_primary_front_091823_VOILA_88cf2728fb217577270b6a5f1c5d7160a08e1536.JPG",
     "url": "https://www.freshco.com/products/compliments-pie-blueberry-8-inch-680-g-(frozen)-",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen pies and desserts in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2317,9 +2317,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/26441_EA_ml_primary_front_101623_VOILA_3a3e558c1ff0b11f71ca3d86e45b76e02d614dc2.JPG",
     "url": "https://www.freshco.com/products/compliments-pie-pecan-8-inch-580-g-(frozen)",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen pies and desserts in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2335,9 +2335,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/25691_EA_ml_primary_front_na_051225,jpg_VOILA_1c156638909d94f13a8d640d918df60f35c3cfdf.JPG",
     "url": "https://www.freshco.com/products/compliments-pie-pumpkin-8-inch-650-g-(frozen)",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen pies and desserts in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2353,9 +2353,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/25689_EA_ml_primary_front_na_073025_VOILA_2d4d4e084422f53057b65507d7a9e69fbd36f45b.JPG",
     "url": "https://www.freshco.com/products/compliments-pie-rhubarb-strawberry-680-g-(frozen)",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen pies and desserts in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2479,9 +2479,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081857393_VOILA_4373c8334ba864b872b4d785a8659f34e021cd4a.JPG",
     "url": "https://www.freshco.com/products/dads-original-oatmeal-cookies-8-individually-wrapped-packs-300-g",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2497,9 +2497,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/672219_EA_en_primary_front_NA_080123_VOILA_8574bf0fc117a091fb7260370bda7c5307c2a61d.JPG",
     "url": "https://www.freshco.com/products/dare-bear-paws-peanut-free-cookies-birthday-cake-168-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2515,9 +2515,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/540120_EA_en_primary_front_NA_073123_VOILA_836bf696448a6be057a20e7bbef994b5dde74411.JPG",
     "url": "https://www.freshco.com/products/dare-bear-paws-peanut-free-cookies-rainbow-chip-6-pack-240-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2533,9 +2533,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000083197382_VOILA_7cdbb29a2b1239ae80a0ff0f0cae3e7450e794d5.JPG",
     "url": "https://www.freshco.com/products/dare-bear-paws-peanut-free-soft-cookies-brownie-14-pouches-490-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2587,9 +2587,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1375886_EA_ml_primary_front_NA_092326_VOILA_d44c181893c369e11e46eb208e669fdaca4f405f.JPG",
     "url": "https://www.freshco.com/products/dare-bear-paws-soft-cookies-banana-bread-14-pouches-490-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2605,9 +2605,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000084301591_VOILA_3c878cfa01ae12abcd30ceed885e9353256b13f5.JPG",
     "url": "https://www.freshco.com/products/dare-bear-paws-soft-vanilla-cookies-with-sprinkles-barbie-14-x-28-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2641,9 +2641,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081076729_VOILA_bf939c2dc7778efea16bc466ab4e2424fc2a33bf.JPG",
     "url": "https://www.freshco.com/products/dare-ultimate-peanut-free-cookies-coconut-creme-290-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2659,9 +2659,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/659120_EA_en_primary_front_NA_072023_VOILA_adb771d3a6ebe5ef40ad74269a13d2bc0ea77d8d.JPG",
     "url": "https://www.freshco.com/products/dare-ultimate-peanut-free-cookies-lemon-crème-290-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2677,9 +2677,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/654578_EA_en_primary_front_na_081926_VOILA_3a8b314262b8db554a632b5e8915070552f85984.JPG",
     "url": "https://www.freshco.com/products/dare-ultimate-peanut-free-cookies-maple-crème-300-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2821,9 +2821,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/673238_EA_ml_primary_front_na_031926_VOILA_d00b62e76ab12728519bab0121f45f81979d81f3.JPG",
     "url": "https://www.freshco.com/products/fudgee-o-sandwich-cookies-chocolatey-creme-filled-303-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2839,9 +2839,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000084822419_VOILA_35b9fe7ad8946e3f114ae3a75d21bc0f4050bec5.JPG",
     "url": "https://www.freshco.com/products/fudgee-o-sandwich-cookies-chocolatey-creme-filled-488-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2857,9 +2857,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/673288_EA_ml_primary_front_na_030626_VOILA_571ce79931baefd1e8cb2c7d90963b2b7db65189.JPG",
     "url": "https://www.freshco.com/products/fudgee-o-sandwich-cookies-double-stuf-creme-filled-303-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2875,9 +2875,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000014649490_VOILA_c0c1ec0b7e2848a24f35c83d2a52376aacfb83cb.JPG",
     "url": "https://www.freshco.com/products/golden--punjabi-biscuits-gur-1.13-kg",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2893,9 +2893,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000040548934_VOILA_729b52215525069d7649bb4337a97267e99b8186.JPG",
     "url": "https://www.freshco.com/products/golden-punjabi-biscuits-original-1.13-kg",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2911,9 +2911,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/620655_EA_primary_VOILA_d76e640cfdceb19e2e3406e7ef60dad26940dca6.JPG",
     "url": "https://www.freshco.com/products/golden-punjabi-biscuits-sooji-1.1-kg",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -2983,9 +2983,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000079806299_VOILA_a90ba15bfd72d6371a640845401153b6d314697a.JPG",
     "url": "https://www.freshco.com/products/leclerc-celebration-cream-cookies-maple-leaf-350-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -3091,9 +3091,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/463891_EA_ml_primary_front_na_010423_VOILA_0bdc30d4d83be2c420da8db873f17a1c3215ceda.JPG",
     "url": "https://www.freshco.com/products/old-el-paso-soft-tortilla-bowls-flour-8-bowls-189-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": "bakery",
+    "assignment_reason": "Fresh bread and wraps in Bakery",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -3451,9 +3451,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000040774527_VOILA_575cd30ea7ce0047ce9c9ebab4e1a0c40fe06668.JPG",
     "url": "https://www.freshco.com/products/surati-coconut-cookies-340-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -3523,9 +3523,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/652971_EA_ml_primary_front_na_013124_VOILA_3ede98d60a01fa36e483b93cfc87bbee77374d82.JPG",
     "url": "https://www.freshco.com/products/vachon-passion-flaky-pastries-apple-raspberry-6-pack-305-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "bakery",
+    "assignment_reason": "Bakery bread and pastries",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -3667,9 +3667,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000002321776_VOILA_20930155f70a4b9e420456d850d65d34593de71c.JPG",
     "url": "https://www.freshco.com/products/voortman-cookies-blueberry-turnovers-300-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -3685,9 +3685,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/6768_EA_primary_VOILA_d703d93700133311da3f8f532ffaadc2fdf3690b.JPG",
     "url": "https://www.freshco.com/products/voortman-mini-cookies-iced-oatmeal-142-g",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Packaged snack cookies in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -7717,9 +7717,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/065400000739_ml_1_VOILA_2fc7d34b3acc7f1618730812fb4615799da6ecf6.JPG",
     "url": "https://www.freshco.com/products/7up-soft-drink-lemon---lime-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7735,9 +7736,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/065400000746_ml_1_VOILA_ff55092c3eb4d98e12728f937119fc9036c6efb6.JPG",
     "url": "https://www.freshco.com/products/7up-soft-drink-zero-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7753,9 +7755,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/059531001604_en_front_VOILA_8acc093f3bfb98cd5ca3c09025ec64018266838e.JPG",
     "url": "https://www.freshco.com/products/a-w-soft-drink-diet-root-beer-2-l--(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7771,9 +7774,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/059531000607_en_front_VOILA_0adfb7b64eca28255a874b3a01728d3589c40fc8.JPG",
     "url": "https://www.freshco.com/products/a-w-soft-drink-root-beer-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7789,9 +7793,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/059531002823_en_front_VOILA_7310cf2238393173a6e2fd0de363bbac7f8a9a6b.JPG",
     "url": "https://www.freshco.com/products/a-w-soft-drink-root-beer-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7807,9 +7812,10 @@
     "in_stock": true,
     "image_url": "",
     "url": "https://www.freshco.com/products/alani-nu-energy-dream-float-drink-355-ml",
-    "aisle": "other",
+    "aisle": "drinks",
     "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "confidence": "review",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7825,9 +7831,10 @@
     "in_stock": true,
     "image_url": "",
     "url": "https://www.freshco.com/products/alani-nu-orange-kiss-energy-drink-355-ml",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7843,9 +7850,10 @@
     "in_stock": true,
     "image_url": "",
     "url": "https://www.freshco.com/products/alani-nu-pink-slush-energy-drink-355-ml",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7861,9 +7869,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081824449_VOILA_0cf96b42249926a4aa88405dc2806eba0809f435.JPG",
     "url": "https://www.freshco.com/products/body-armor-sports-drink-fruit-punch-473-ml-(bottle)",
-    "aisle": 4,
-    "assignment_reason": "Ice cream, fruit, yogurt or juice",
-    "confidence": "medium"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7879,9 +7888,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/149378_EA_en_primary_front_122123_VOILA_5ea53e068076f5ddf7c50046fb9ff93d5fd3aea1.JPG",
     "url": "https://www.freshco.com/products/body-armor-sports-drink-orange-mango-473-ml-(bottle)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7897,9 +7907,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/146198_EA_en_primary_front_122123_VOILA_2039470799d5ba6c4dd998a2f13058f24a311a83.JPG",
     "url": "https://www.freshco.com/products/body-armor-sports-drink-strawberry-banana-473-ml-(bottle)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7915,9 +7926,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/867810_EA_en_primary_front_NA_092625_VOILA_d0d2b4f557556879106a23e6b08dee6f2d19e239.JPG",
     "url": "https://www.freshco.com/products/canada-dry-diet-soft-drink-ginger-ale-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7933,9 +7945,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/693775_EA_en_primary_front_NA_061824_VOILA_09cab5242540863d4c0af4033c6034d43cd72b70.JPG",
     "url": "https://www.freshco.com/products/canada-dry-mini-soft-drink-club-soda-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7951,9 +7964,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/271859_EA_ml_primary_front_na_042325_VOILA_8a8cf521500490073917978c292ead40504fff93.JPG",
     "url": "https://www.freshco.com/products/canada-dry-mini-soft-drink-ginger-ale-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7969,9 +7983,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/697625_EA_en_primary_front_na_090125_VOILA_48a324d76f297431e435e162a967e80775338abb.JPG",
     "url": "https://www.freshco.com/products/canada-dry-soft-drink-ginger-ale-cranberry-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -7987,9 +8002,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/160327_EA_en_primary_front_NA_061224_VOILA_ae8a34d3f1aadb71ac41e0f66d3dc012dd82c98f.JPG",
     "url": "https://www.freshco.com/products/canada-dry-soft-drink-ginger-beer-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8005,9 +8021,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/5040_EA_ml_na_alt_front_061625_VOILA_28e2573eb3e5351dab989b8590127f98af0f41df.JPG",
     "url": "https://www.freshco.com/products/canada-dry-soft-drink-zero-ginger-ale-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8023,9 +8040,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/5121_CS_en_primary_front_na_030926_VOILA_0a90729ce0f6fc7c267769b86c688512d57a39a4.JPG",
     "url": "https://www.freshco.com/products/canada-dry-zero-sugar-soft-drink-ginger-ale-12-x-355-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8041,9 +8059,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000014100000000109978915_VOILA_cccf472c7074cda3f08a3922c0d50f720d95dc49.JPG",
     "url": "https://www.freshco.com/products/canada-dry-zero-sugar-soft-drink-ginger-ale-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8059,9 +8078,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000066047239_VOILA_7185ff4f4554217d25216c8cafc6858a54b5c03b.JPG",
     "url": "https://www.freshco.com/products/chubby-soft-drink-go-bananas-250-ml-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8077,9 +8097,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/067000109843_en_front_VOILA_8977561390a2c7f49d5e2de230b1c3254edfe079.JPG",
     "url": "https://www.freshco.com/products/coca-cola-diet-coke-soft-drink-mini-sleek-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8095,9 +8116,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1439418_EA_en_primary_front_na_090326_VOILA_eb2b03dee53310aadfe7adb710366f97275fe263.JPG",
     "url": "https://www.freshco.com/products/coca-cola-soft-drink-vanilla-6-x-710-ml-(bottles)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8113,9 +8135,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055742335217_503214_VOILA_301d9a297b11e1b0357d175f7c88e368a589f3c3.JPG",
     "url": "https://www.freshco.com/products/compliments-diet-soft-drink-lemon-lime-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8131,9 +8154,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/503215_EA_ml_front_VOILA_5f217ced337a9e379f514e9afcae0ef3191da45a.JPG",
     "url": "https://www.freshco.com/products/compliments-soft-drink-black-cherry-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8149,9 +8173,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/245138_EA_ml_primary_front_VOILA_049f1c3f7e5bc0728fd14d41ed0f87c26b8294a6.JPG",
     "url": "https://www.freshco.com/products/compliments-soft-drink-cream-soda-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8167,9 +8192,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000079250273_VOILA_7dbf307120ca1bad3febde07b1ab015935c3c827.JPG",
     "url": "https://www.freshco.com/products/compliments-soft-drink-grape-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8185,9 +8211,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000079255225_VOILA_56c66056667e47fa9dffe3fb22cfeef152011c10.JPG",
     "url": "https://www.freshco.com/products/compliments-soft-drink-root-beer-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8203,9 +8230,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/056000003084_ml_1_VOILA_b596d58cf0aec417bf4c49a2e5589473ec20f96e.JPG",
     "url": "https://www.freshco.com/products/crush-soft-drink-cream-soda-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8221,9 +8249,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/056000000908_ml_1_VOILA_509bef05015068041f99a4b13d2fe683bff91f25.JPG",
     "url": "https://www.freshco.com/products/crush-soft-drink-orange-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8293,9 +8322,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/054900000608_ml_1_VOILA_f7c752f363c2e5d5f68b18c3f17704e8c01278f3.JPG",
     "url": "https://www.freshco.com/products/dr-pepper-soft-drink-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8311,9 +8341,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081867643_VOILA_fca6f0febb5ecd75c1fb67c8315c6ab52665e870.JPG",
     "url": "https://www.freshco.com/products/fanta-naturally-flavoured-sparkling-beverage-orange-6-×-222-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8329,9 +8360,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000078209590_VOILA_73ca3517ce1cc3c60642b7d6ff08d5b4c865290f.JPG",
     "url": "https://www.freshco.com/products/fanta-soft-drink-orange-12-x-355-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8347,9 +8379,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000061698330_VOILA_5446856cf0ec2e5ed7313341162a1b241c1032eb.JPG",
     "url": "https://www.freshco.com/products/fanta-soft-drink-orange-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8365,9 +8398,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1321091_EA_en_primary_front_NA_062725_VOILA_b21a75cfc9b8579935923973e32d108493b0fd79.JPG",
     "url": "https://www.freshco.com/products/fanta-sparkling-beverage-pineapple-2-l-(bottle)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8383,9 +8417,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000072082710_VOILA_44fcff268683fe7ca3f9588a1db11561056169b0.JPG",
     "url": "https://www.freshco.com/products/gatorade-g-zero-glacier-cherry-drink-6-x-591-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8401,9 +8436,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/953095_EA_ml_primary_front_011524_VOILA_4e598fe410e8b58cb7d127bd654840c72d06ed7c.JPG",
     "url": "https://www.freshco.com/products/gatorade-perform-sports-drink-fruit-punch-8-x-355-ml-(bottles)",
-    "aisle": 4,
-    "assignment_reason": "Ice cream, fruit, yogurt or juice",
-    "confidence": "medium"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8419,9 +8455,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/235462_EA_ml_primary_front_110222_VS_VOILA_a20c04ce97fb4a9bc2f0635a0271c55145e7dd5d.JPG",
     "url": "https://www.freshco.com/products/gatorade-sports-drink-4-flavour-24-x-591-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8437,9 +8474,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055577420515_ml_1_VOILA_d8273fba8e0c94027f386b423674a5966fb30eb6.JPG",
     "url": "https://www.freshco.com/products/gatorade-sports-drink-cool-blue-raspberry-6-x-591-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8455,9 +8493,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/235502_EA_en_primary_front_110222_VS_VOILA_f1ab72d2943b4c2be5fcdb32f53d40ac55595ef5.JPG",
     "url": "https://www.freshco.com/products/gatorade-sports-drink-g2-club-pack-24-x-591-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8473,9 +8512,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/057271555418_ml_front_VOILA_92d19fecd3efe79a90793e0c334e3fd3db6ef752.JPG",
     "url": "https://www.freshco.com/products/gatorade-sports-drink-glacier-cherry-6-x-591-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8491,9 +8531,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055577420522_ml_1_VOILA_d44c17b485c895329e092ad4dfe6ea6cc717c3fa.JPG",
     "url": "https://www.freshco.com/products/gatorade-sports-drink-lemon-lime-6-x-591-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8509,9 +8550,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055577420508_ml_1_VOILA_a431bf5f120ad1b5cf867e1b25d6a58d217f22a6.JPG",
     "url": "https://www.freshco.com/products/gatorade-sports-drink-orange-6-x-591-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8527,9 +8569,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/335116_EA_en_primary_front_NA_012324_VOILA_019f869cd955172c2b5d6e8d4ede1cda00c975a3.JPG",
     "url": "https://www.freshco.com/products/gatorade-zero-drink-mix-powder-orange-10-pack-30-g",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 9,
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -8545,9 +8587,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/057271164122_512718_VOILA_a90fb056c092f440b7bae11bfae30bafc1f6f2a3.JPG",
     "url": "https://www.freshco.com/products/gatorade-zero-sport-drink-glacier-freeze-6-x-591-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8563,9 +8606,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000073703765_VOILA_034002aae67701e0ed01a257d56980bf253ad4dd.JPG",
     "url": "https://www.freshco.com/products/gatorade-zero-sports-drink-apple-burst-8-x-355-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8581,9 +8625,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/057271162647_ml_1_VOILA_fc8d503b633ccc618be01e80c58c95153afccc76.JPG",
     "url": "https://www.freshco.com/products/gatorade-zero-sports-drink-berry-6-x-591-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8599,9 +8644,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/656214_EA_ml_primary_front_NA_VOILA_3d89e93b790513430b343dbd1bc458a097399ba1.JPG",
     "url": "https://www.freshco.com/products/gatorade-zero-sports-drink-grape-6-x-591-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8617,9 +8663,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000073703585_VOILA_28eeb3c2ca39a33c1f5021f7cb5b95df53dd7d02.JPG",
     "url": "https://www.freshco.com/products/gatorade-zero-sports-drink-watermelon-splash-8-x-355-ml-(bottles)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8635,9 +8682,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000053803121_VOILA_2c49bd89a1e3314047613af50057dc282e8b7b0e.JPG",
     "url": "https://www.freshco.com/products/glucerna-meal-replacement-supplement-vanilla-6-x-237-ml-(bottles)",
-    "aisle": "other",
+    "aisle": "drinks",
     "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "confidence": "review",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8689,9 +8737,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1308736_EA_ml_na_na_alt5_081925_VOILA_8dad7c8665916556b8d7342b89b2e430a2523751.JPG",
     "url": "https://www.freshco.com/products/maison-perrier-sparkling-water-beverage-forever-passion-fruit-1-l",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8797,9 +8846,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1308691_EA_en_primary_front_NA_101724_VOILA_76b8443ecf2a8260f3b5f385fa6384c8bd4beb32.JPG",
     "url": "https://www.freshco.com/products/monster-energy-drink---juice-rio-punch-473-ml",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8815,9 +8865,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/268291_EA_ml_primary_front_na.png_VOILA_95de2ccf97790709662c524c214014cdd3dbbd3b.JPG",
     "url": "https://www.freshco.com/products/monster-energy-drink-4-x-473-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8833,9 +8884,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/429540_EA_ml_primary_front_na_VOILA_287ac8efc10c23eca37c199358195a0397abeb40.JPG",
     "url": "https://www.freshco.com/products/monster-energy-drink-green-473-ml-(can)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8851,9 +8903,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/070847034063_ml_VOILA_0d8457154b81ddcc7807ac05ce33360e17438886.JPG",
     "url": "https://www.freshco.com/products/monster-energy-drink-mango-loco-punch-4-x-473-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8869,9 +8922,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/934287_EA_ml_primary_front_na_VOILA_8a96c43ada9f700bffd671367804124df9b63223.JPG",
     "url": "https://www.freshco.com/products/monster-energy-drink-punch-mango-loco-473-ml-(can)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8887,9 +8941,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/7458_EA_ml_primary_front_NA_022823_VOILA_8a44bfa0cb1aace356770a198f9582e886b699d5.JPG",
     "url": "https://www.freshco.com/products/monster-energy-drink-zero-sugar-ultra-peachy-keen-473-ml-(can)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8905,9 +8960,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081221081_VOILA_5c4648d7f985d51faa25cee81381a7b47f2461ad.JPG",
     "url": "https://www.freshco.com/products/monster-punch-energy-drink-viking-berry-473-ml-(can)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8923,9 +8979,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/269585_EA_ml_primary_front_na_VOILA_23fff48b21189a7bd9385298814d1c90be9332b5.JPG",
     "url": "https://www.freshco.com/products/monster-zero-sugar-energy-drink-473-ml-(can)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8941,9 +8998,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1367563_EA_ml_primary_front_na_111725_VOILA_252a69b0969154aaa947c4a4e82b1f8ea77c31b4.JPG",
     "url": "https://www.freshco.com/products/monster-zero-sugar-energy-drink-ultra-blue-hawaiian-473-ml-(can)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8959,9 +9017,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000074367660_VOILA_123dd60138ae33e5efec32d54fb77d7852d7bf76.JPG",
     "url": "https://www.freshco.com/products/monster-zero-sugar-energy-drink-ultra-fantasy-ruby-red-473-ml-(can)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8977,9 +9036,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/069000020081_VOILA_72ec147d10f34881ac4003a100129c4e99309a84.JPG",
     "url": "https://www.freshco.com/products/mountain-dew-soft-drink-citrus-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -8995,9 +9055,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/069000040553_en_1_VOILA_f28ab90ffbc5694d2ae70ee28ef5f8878962b722.JPG",
     "url": "https://www.freshco.com/products/mug-soft-drink-root-beer-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9031,9 +9092,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000040876594_VOILA_d8c382bde9df82b1af44ce4355414615f79348b3.JPG",
     "url": "https://www.freshco.com/products/ocean-spray-diet-beverage-cranberry-cherry-1.89-l",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Shelf-stable juice/drinks in Aisle 5",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -9049,9 +9110,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000040876280_VOILA_88fc66fc18e9fa2f9e562206f208e71689a999fb.JPG",
     "url": "https://www.freshco.com/products/ocean-spray-juice-diet-beverage-cranberry-1.89-l-(bottle)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Shelf-stable juice/drinks in Aisle 5",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -9103,9 +9164,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/997745_EA_en_primary_front_na_061225_VOILA_d38fa492006d8e7312f1fa137cab372d49a1d894.JPG",
     "url": "https://www.freshco.com/products/pepsi-caffeine-free-diet-soft-drink-12-x-355-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9121,9 +9183,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/997595_EA_en_primary_front_na_061225_VOILA_c88112820144ba806c7a66bd362117326603eb4e.JPG",
     "url": "https://www.freshco.com/products/pepsi-diet-soft-drink-12-x-355-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9139,9 +9202,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/997533_EA_ml_primary_front_na_062725_VOILA_903d3efa97b145b3d3979f9cf974304594e27e7d.JPG",
     "url": "https://www.freshco.com/products/pepsi-diet-soft-drink-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9157,9 +9221,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/069000149041_ml_1_VOILA_8022cbfa68d546542d32a21de3fb999c2b2223a6.JPG",
     "url": "https://www.freshco.com/products/pepsi-diet-soft-drink-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9175,9 +9240,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/997535_EA_ml_primary_front_na_062725_VOILA_8edeef27853f9c8c35daece5f6ff718c0ee740cf.JPG",
     "url": "https://www.freshco.com/products/pepsi-diet-soft-drink-caffeine-free-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9193,9 +9259,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/069000149362_ml_1_VOILA_acc917f7047777c1e8bea14f9de376c159a9c482.JPG",
     "url": "https://www.freshco.com/products/pepsi-mini-soft-drink-zero-sugar-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9211,9 +9278,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/997532_EA_ml_primary_front_na_062725_VOILA_ef5c9124408a153221d13451c21f40abd1dab657.JPG",
     "url": "https://www.freshco.com/products/pepsi-soft-drink-2-l-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9229,9 +9297,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/325782_EA_ml_front_110222_VS_VOILA_a62ace40877792327a83fda9b3c4656458760a57.JPG",
     "url": "https://www.freshco.com/products/pepsi-soft-drink-24-x-355-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9247,9 +9316,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/180936_CS_en_primary_front_na_073025_VOILA_454d41b87e0349e1d63f6f9e4ce96ec4e3a59f11.JPG",
     "url": "https://www.freshco.com/products/pepsi-soft-drink-zero-sugar-12-x-355-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9265,9 +9335,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/22537_CS_en_primary_front_na_073025_VOILA_349ef7e95582597270908ae1108d7e783120ad49.JPG",
     "url": "https://www.freshco.com/products/pepsi-zero-sugar-soft-drink-wild-cherry-12-x-355-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9283,9 +9354,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/481932_EA_en_primary_front_na_081326_VOILA_264c464fd8425f3189971bc991b68e432128d709.JPG",
     "url": "https://www.freshco.com/products/powerade-sports-drink-fruit-punch-710-ml-(bottle)",
-    "aisle": 4,
-    "assignment_reason": "Ice cream, fruit, yogurt or juice",
-    "confidence": "medium"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9301,9 +9373,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/481933_EA_en_primary_front_na_112125_VOILA_a0bccc2a3552a977e5cbf127cd1b26449a46bdb9.JPG",
     "url": "https://www.freshco.com/products/powerade-sports-drink-grape-710-ml-(bottle)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9319,9 +9392,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000082903347_VOILA_c0558f7a3088ad8bfa48420c729701e08f96e3ca.JPG",
     "url": "https://www.freshco.com/products/powerade-sports-drink-melon-pineapple-710-ml-(bottle)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9337,9 +9411,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/481941_EA_en_primary_front_na_081326_VOILA_95ee41aa72361e9409974ed87aee0c1a8bbc9dde.JPG",
     "url": "https://www.freshco.com/products/powerade-sports-drink-mixed-berry-710-ml-(bottle)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9355,9 +9430,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/9885_EA_primary_VOILA_987a7b5665e5df24cc9c1c2aa210942e29d58e0f.JPG",
     "url": "https://www.freshco.com/products/powerade-zero-sugar-sports-drink-fruit-punch-710-ml-(bottle)",
-    "aisle": 4,
-    "assignment_reason": "Ice cream, fruit, yogurt or juice",
-    "confidence": "medium"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9373,9 +9449,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/31507_EA_ml_primary_front_na_081026_VOILA_77296863021b4b3527817f5051dec29efa7b5e91.JPG",
     "url": "https://www.freshco.com/products/red-bull-energy-drink-the-red-edition-watermelon-250-ml-(can)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9391,9 +9468,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/903014_CAR_en_primary_front_na_102925_VOILA_2670f5b09a2b52b67eda9a7b2e1835b42447292a.JPG",
     "url": "https://www.freshco.com/products/san-pellegrino-italian-sparkling-drink-limonata-6-x-330-ml-(cans)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9409,9 +9487,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/332688_CAR_en_primary_front_NA_100324_VOILA_2563e6cee20d9b96cc5ad762a0f1c53f577ee999.JPG",
     "url": "https://www.freshco.com/products/san-pellegrino-sparkling-beverage-light-blood-orange-6-x-330-ml-(cans)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9427,9 +9506,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/332690_CAR_en_primary_front_NA_100324_VOILA_a465693983b01010778e1373a20768ad5d67f97f.JPG",
     "url": "https://www.freshco.com/products/san-pellegrino-sparkling-beverage-light-pomegranate---orange-6-x-330-ml-(cans)",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "drinks",
+    "assignment_reason": "Soft drinks and sports beverages in Aisle 9",
+    "confidence": "high",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9445,9 +9525,10 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/840926_EA_ml_primary_front_NA_072222_VOILA_296d68d7267be4916d83b8e2ae5046b20efc7791.JPG",
     "url": "https://www.freshco.com/products/sperri-plant-based-meal-replacement-vanilla-maple-330-ml",
-    "aisle": "other",
+    "aisle": "drinks",
     "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "confidence": "review",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9463,9 +9544,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000078947161_VOILA_9f7f3d5516db324d9a403f1edfafa76992af666a.JPG",
     "url": "https://www.freshco.com/products/sprite-mini-soft-drink-lemon---lime-6-x-222-ml-(cans)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -9481,9 +9563,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/958031_EA_ml_primary_front_NA_010323_VOILA_13edf97aa5b610c4db0dbd15587b3c4f74989f30.JPG",
     "url": "https://www.freshco.com/products/best-buy-frozen-spring-rolls-chicken-600-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -11947,9 +12029,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055742552539_407944_VOILA_7f851876f235c49954e226c31e15bb2dd73c077b.JPG",
     "url": "https://www.freshco.com/products/best-buy-frozen-vegetables-peas-and-carrots-750-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen vegetables in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12019,9 +12101,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000004430664_VOILA_4bb8bd767d96de281d393ef730dad08ade69b2a6.JPG",
     "url": "https://www.freshco.com/products/catch-of-the-day-frozen-tilapia-filets-750-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12037,9 +12119,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/313649_EA_ml_primary_front_na_061626_VOILA_035819035809a90676f59d0ca1de9cf79b4edacc.JPG",
     "url": "https://www.freshco.com/products/catch-of-the-day-frozen-pink-salmon-fillets-680-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12271,9 +12353,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055742533408_VOILA_4abd7094d542d1a59ee6ac1a9455f1a3a5bd1f10.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-blueberries-600-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 4,
+    "assignment_reason": "Brentwood rule: frozen berries and fruit in Aisle 4",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12289,9 +12371,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/503609_EA_ml_primary_front_na_073025_VS_VOILA_bf931721391b124964367b5cfeadbf03be8f6a6f.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-breaded-chicken-burger-fully-cooked-1.47-kg",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12307,9 +12389,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/656876_EA_ml_primary_front_na_022825_VOILA_3abf7ddff0499951eae64806c1d76c08d62d61d3.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-breaded-spicy-chicken-wings-800-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12343,9 +12425,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055742530520_1_VOILA_4e59ca339ce153fdfb4e8a2832c6165aface5f2b.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-cheese-sticks-cheddar-bacon-325-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12361,9 +12443,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/476978_EA_ml_primary_front_081122_VOILA_ebd4390163fcb6c0281f418da0854fc5799c999c.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-chicken-balls-with-sweet---sour-sauce-700-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12379,9 +12461,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/421966_EA_ml_primary_front_na_073025_VS_VOILA_6c106bd37d22af23938ed38f3a1687e98964d95e.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-chicken-strips-fully-cooked-1.5-kg",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12397,9 +12479,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/522222_EA_ml_primary_front_120523_VOILA_96f2e27433cf283d1e7fa478ca89a8906c219a25.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-chicken-wings-buffalo-style-800-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12415,9 +12497,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/522224_EA_ml_primary_front_120523_VOILA_2f6ca647553822d85f99943e9f032802850b285b.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-chicken-wings-smoky-bbq-800-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12433,9 +12515,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055742501452_224085_VOILA_c5c16a2c6c805bd6893a441891e93cdafc37ea24.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-chopped-spinach-500-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen vegetables in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12469,9 +12551,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/6207_EA_ml_primary_front_112624_VOILA_fef62d4a5e8cb8b7ea3a8ba590613717e7331308.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-haddock-fillets-battered-575-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12541,9 +12623,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/749930_EA_ml_primary_front_010924_VOILA_5ce685fb36ff463b0eb80560a87cc33054d7a264.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-loins-pacific-pink-wild-salmon-227-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12577,9 +12659,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/229489_EA_ml_primary_front_020425_VOILA_23262097a69b909f3bb8af15429a457e73f9e724.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-waffles-cinnamon-toast-8-pack-280-g-",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Brentwood rule: frozen waffles in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12595,9 +12677,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/229490_EA_ml_primary_front_020425_VOILA_18451918fce5b60070307b0ceefd519d2df4276b.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-waffles-original-8-pack-280-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Brentwood rule: frozen waffles in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12847,9 +12929,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/610712_EA_ml_Primary_Front_NA_VOILA_37ecaf8f59f46c2807ccc86ffc3575f6d0786b8e.JPG",
     "url": "https://www.freshco.com/products/eight-treasures-frozen-whole-uncooked-pompano-800-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12865,9 +12947,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/433995_EA_ml_primary_Front_NA_011222_VOILA_08d944706e18f5ad0be6634988a15ded07770631.JPG",
     "url": "https://www.freshco.com/products/eight-treasures-frozen-whole-uncooked-tilapia-1.36-kg",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12901,9 +12983,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000028384451_VOILA_2fa1ef5f5d1d125752b1de4de233c79677ba0c55.JPG",
     "url": "https://www.freshco.com/products/green-giant-cut-broccoli-valley-selections-500-g-(frozen)",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen vegetables in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12919,9 +13001,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000008146681_VOILA_8e013d33e563f240036e783127ccb317d823f476.JPG",
     "url": "https://www.freshco.com/products/green-giant-frozen-cut-green-beans-750-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen vegetables in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13243,9 +13325,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/893204_EA_en_primary_front_073124_VOILA_d793f9c6de9568a972e71659e329e89b1311fc07.JPG",
     "url": "https://www.freshco.com/products/high-liner-family-favourites-frozen-fillets-english-style-battered-500-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13261,9 +13343,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/402883_EA_en_primary_front_na_051624_VOILA_a4368d2b248c009017c6496b4546c1fef71184b0.JPG",
     "url": "https://www.freshco.com/products/high-liner-frozen-breaded-seasoned-pollock-fillets-lemon-peppercorn-500-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13279,9 +13361,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/892395_EA_en_primary_front_na_051524_VOILA_e3128ca69a64ffd75cc37235a5e79469f253a8b6.JPG",
     "url": "https://www.freshco.com/products/high-liner-frozen-minced-fish-fillets-tempura-battered-700-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13297,9 +13379,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/473075_EA_en_primary_front_na_051624_VOILA_55d21f475dc5d71b31c2d7476a5b98cd99353cfd.JPG",
     "url": "https://www.freshco.com/products/high-liner-frozen-pan-seared-haddock-fillet-traditional-500-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13315,9 +13397,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/892535_EA_en_primary_front_073124_VOILA_6778e17acbf6fba3c9016c31a0289d0313385370.JPG",
     "url": "https://www.freshco.com/products/high-liner-frozen-signature-cuts-haddock-fish-sticks-crispy-breaded-350-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13405,9 +13487,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/959276_EA_en_primary_front_na_060326_VOILA_58e0535048f36829218bc52c1b64c70f8655f146.JPG",
     "url": "https://www.freshco.com/products/janes-frozen-chicken-boneless-bites-buffalo-710-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13423,9 +13505,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/959490_EA_en_primary_front_na_051122_VOILA_7b7f084d44661decc330be6586f2d99dc826269f.JPG",
     "url": "https://www.freshco.com/products/janes-frozen-chicken-wings-classic-bbq-754-g-",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13441,9 +13523,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/959423_EA_en_primary_front_na_051122_VOILA_d41ee0ae8f61349b99d6e5d805849390ac686703.JPG",
     "url": "https://www.freshco.com/products/janes-frozen-chicken-wings-sea-salt---pepper-754-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13459,9 +13541,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/959422_EA_en_primary_front_na_051122_VOILA_2407b8bd7a62717a7f0122d356c17d6dc1c01e05.JPG",
     "url": "https://www.freshco.com/products/janes-frozen-fully-cooked-chicken-wings-buffalo-754-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13477,9 +13559,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1359427_EA_en_primary_front_NA_112725_VOILA_153e7c8871783179f01e67f6d8edcc640a5b8e44.JPG",
     "url": "https://www.freshco.com/products/janes-frozen-haddock-beer-battered-450-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13495,9 +13577,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/15388_EA_alt_VOILA_334101641c4ad5ac515f94643bdd648e2f89d05d.JPG",
     "url": "https://www.freshco.com/products/janes-frozen-tempura-battered-breaded-pollock-fish-uncooked-510-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13513,9 +13595,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000041453330_VOILA_2c33bc58926466361d8b1083789dfcc07ae7f0bf.JPG",
     "url": "https://www.freshco.com/products/krinos-cheese-fillo-twisters-1-kg-(frozen)",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13963,9 +14045,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1353076_EA_en_primary_front_na_102725_VOILA_18d5da6f0192abb01584ad672890e47fcf760186.JPG",
     "url": "https://www.freshco.com/products/pintys--breast-chunks,-seasoned,-breaded,-uncooked,-17--meat-protein-chicken-730-g",
-    "aisle": "other",
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13999,9 +14081,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/6301_EA_ml_6404510201_VOILA_016bf7f34a37c3841a7095db82c09f4a5a5ed580.JPG",
     "url": "https://www.freshco.com/products/shoal-water-seafoods-boned-salted-cod-454-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -14611,9 +14693,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000025009734_VOILA_b399cb76b9610b10da7ff80baba38dcf3a14352d.JPG",
     "url": "https://www.freshco.com/products/grace-island-soda-ginger-beer-330-ml-(bottle)",
-    "aisle": 9,
+    "aisle": "drinks",
     "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -14809,9 +14892,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000024474891_VOILA_6c1b4ad85f969fb0dd87913218672aa490c26daa.JPG",
     "url": "https://www.freshco.com/products/jarritos-soft-drink-cola-370-ml-(bottle)",
-    "aisle": 2,
+    "aisle": "drinks",
     "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -14827,9 +14911,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000013617933_VOILA_7c847c6c37ce81d503e76930be36312e8b1db3e5.JPG",
     "url": "https://www.freshco.com/products/jarritos-soft-drink-lime-370-ml-(bottle)",
-    "aisle": 2,
+    "aisle": "drinks",
     "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -14845,9 +14930,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000003645492_VOILA_47594defa8b7fa05579251d926c0acc3086064ff.JPG",
     "url": "https://www.freshco.com/products/jarritos-soft-drink-mandarine-370-ml-(bottle)",
-    "aisle": 2,
+    "aisle": "drinks",
     "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -14863,9 +14949,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000001702952_VOILA_c15ef3fe236e54e334071bbbf3e5f32098c69a16.JPG",
     "url": "https://www.freshco.com/products/jarritos-soft-drink-pineapple-370-ml-(bottle)",
-    "aisle": 2,
+    "aisle": "drinks",
     "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -14881,9 +14968,10 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000024242955_VOILA_840d15921a2000faa089d57b58532d38f6f55ca6.JPG",
     "url": "https://www.freshco.com/products/jarritos-soft-drink-strawberry-fruit-370-ml-(bottle)",
-    "aisle": 2,
+    "aisle": "drinks",
     "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "confidence": "medium",
+    "reason": "Brentwood: pop, soda, bottled/sparkling water, sports and energy drinks in Drinks section"
   },
   {
     "store_id": "8962",
@@ -15799,9 +15887,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000005001638_VOILA_46e99cfbd7469ed98f61849fa0fbfaa5c946ca87.JPG",
     "url": "https://www.freshco.com/products/arm---hammer-pet-fresh-carpet-deodorizer-700-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 8,
+    "assignment_reason": "Household cleaners in Aisle 8",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -15889,9 +15977,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/177416_EA_ml_primary_front_NA_112823_VOILA_fed37947a6e9d3737f2c4493c96363e2528ba498.JPG",
     "url": "https://www.freshco.com/products/clr-remover-calcium-lime-rust-828-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 8,
+    "assignment_reason": "Household cleaners in Aisle 8",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -15925,9 +16013,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/233159_EA_ml_primary_front_NA_VOILA_7154b5c78ec4d8c980642ab53fffc93fc5b292a2.JPG",
     "url": "https://www.freshco.com/products/compliments-cellulose-scour-sponge-2-pack",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 8,
+    "assignment_reason": "Household cleaners in Aisle 8",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -15943,9 +16031,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000078283768_VOILA_2c377f876ed51ce4e8aef99148c3e464cf9d38ea.JPG",
     "url": "https://www.freshco.com/products/compliments-containers-small-twist-lock-round-3-count",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -15961,9 +16049,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/698334_EA_ml_Primary_Front_NA_VOILA_046d72c4df3e06085c9bc3caa7ad262a172db759.JPG",
     "url": "https://www.freshco.com/products/compliments-containers-square-small-4-pack",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -15979,9 +16067,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/358931_EA_ml_primary_front_VOILA_38584e5b0947f6b2beddef40dd0ee6a81dacd76c.JPG",
     "url": "https://www.freshco.com/products/compliments-disinfecting-wipes-fresh-scent-35-sheets",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 8,
+    "assignment_reason": "Household cleaners in Aisle 8",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -15997,9 +16085,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/358933_EA_ml_primary_front_VOILA_37f39a4b90324866945b8dc020ca88c66291a14b.JPG",
     "url": "https://www.freshco.com/products/compliments-disinfecting-wipes-lemon-scent-35-sheets",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 8,
+    "assignment_reason": "Household cleaners in Aisle 8",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16069,9 +16157,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/439007_EA_ml_primary_front_VOILA_9ccdf6cb44cfe9dc414ea32e7d6fe1dff22fc8db.JPG",
     "url": "https://www.freshco.com/products/compliments-premium-dinner-napkins-2-ply-100-sheets",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16087,9 +16175,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055742509366_VOILA_e62cbd09abad4c3fbcfe5cdae9cccbdae2de9d8b.JPG",
     "url": "https://www.freshco.com/products/compliments-sandwich-bags-resealable-100-ea",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16105,9 +16193,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055742509373_1_VOILA_2a0ccfbe3724e97d10a06b422d4592b6f8e72f57.JPG",
     "url": "https://www.freshco.com/products/compliments-snack-bags-resealable-75-count",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16123,9 +16211,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/698640_EA_ml_Primary_Front_NA_VOILA_b37c956a9c97377177da2af4a36a51bcfcdc83d7.JPG",
     "url": "https://www.freshco.com/products/compliments-square-medium-containers-3-count",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16141,9 +16229,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/367233_EA_ml_primary_front_060123_VOILA_bea35a265e11094277fedcdeb76cb64651c02952.JPG",
     "url": "https://www.freshco.com/products/compliments-toilet-paper-green-care-2-ply-12-rolls-x-242-sheets",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16159,9 +16247,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/4770_EA_ml_primary_front_060123_VOILA_e1c02bc2574f0c0d259848a0b679dc257a7728ab.JPG",
     "url": "https://www.freshco.com/products/compliments-toilet-paper-satiny-soft-2-ply-12-rolls-x-242-sheets",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16195,9 +16283,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/357345_EA_en_primary_front_na_022825_VOILA_63a751e2a29e6b6cea58c11b842d5074158c3b20.JPG",
     "url": "https://www.freshco.com/products/cottonelle-fresh-care-flushable-wet-wipes-2-packs-x-42-wipes-",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16789,9 +16877,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/965313_ea_en_primary_front_na_060822_VOILA_fa40d0674ebb5791953268bc3e6a86843a682bde.JPG",
     "url": "https://www.freshco.com/products/lysol-disinfecting-wipes-spring-waterfall-75-count",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 8,
+    "assignment_reason": "Household cleaners in Aisle 8",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16969,9 +17057,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000034907846_VOILA_a47aec5367a92c50ddee78f20a6d135dcc088c2d.JPG",
     "url": "https://www.freshco.com/products/purex-toilet-paper-2-ply-12-double-rolls-x-242-sheets-",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -16987,9 +17075,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000034990574_VOILA_cd76a06eff724aeabd932de20621d9cd63ad8a7d.JPG",
     "url": "https://www.freshco.com/products/purex-toilet-paper-2-ply-12-triple-rolls-x-363-sheets",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17005,9 +17093,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/414160_EA_ml_front_110222_VS_VOILA_6a3e38b4e966984b98687d8d4e00ec27e1bb95e0.JPG",
     "url": "https://www.freshco.com/products/purex-toilet-paper-2-ply-30-jumbo-rolls-x-202-sheets-",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17023,9 +17111,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000014100000000055436752_VOILA_9fcf042ae2240d16c1ed6e7d6bebbb89b875b5ed.JPG",
     "url": "https://www.freshco.com/products/purex-toilet-paper-2-ply-8-double-rolls-x-242-sheets",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17041,9 +17129,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000053760543_VOILA_19d6ae87e5c3f7e51a1e45e12cc5d89259cb1f4f.JPG",
     "url": "https://www.freshco.com/products/purex-toilet-paper-ultraluxe-2-ply-8-triple-rolls-x-198-sheets-",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17059,9 +17147,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/950040_EA_ml_primary_front_050922_VOILA_c05534874ac70ab9747f0c3e3559973ce96c5873.JPG",
     "url": "https://www.freshco.com/products/purex-toliet-paper-ultra-3-ply-8-triple-rolls-x-198-sheets",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17473,9 +17561,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/457315_EA_ml_primary_front_NA_010626_VOILA_d3001d667e0f6b55420ce7709be6613feb81d589.JPG",
     "url": "https://www.freshco.com/products/ziploc-freezer-bags-grip--n-seal-technology-large-mega-pack-60-count",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17491,9 +17579,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/152448_EA_ml_primary_front_NA_100526_VOILA_7e84515d7f8b3489b74ca625e85fb7230e629755.JPG",
     "url": "https://www.freshco.com/products/ziploc-freezer-bags-seal-top-medium-22-count",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17509,9 +17597,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/067140700719_494623_VOILA_301d0e238c5141dbb2cafb467e5ba06c7b267422.JPG",
     "url": "https://www.freshco.com/products/ziploc-sandwich-bags-easy-open-tabs-180-bags",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17527,9 +17615,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1430172_EA_ml_primary_front_na_070926_VOILA_a324d8a73933edd7ea573b5ffec0609ffdd92e9a.JPG",
     "url": "https://www.freshco.com/products/ziploc-sandwich-bags-extra-large-60-bags",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17545,9 +17633,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1430577_EA_en_primary_front_na_072426_VOILA_0856c928844e20ae504b3ca0a5f0fe3c1547eb08.JPG",
     "url": "https://www.freshco.com/products/ziploc-storage-bags-heavy-duty-large-10-bags",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -17563,9 +17651,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/152470_EA_ml_primary_front_na_081525_VOILA_60ee7c93e9722e31a557deeb3e8f4f54296caf45.JPG",
     "url": "https://www.freshco.com/products/ziploc-storage-bags-with-new-grip--n-seal-technology-large-19-bags",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 7,
+    "assignment_reason": "Food storage bags, containers and paper products in Aisle 7",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -18769,9 +18857,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1383170_EA_ml_primary_front_na_052126_VOILA_b3d7a0e71a86a5b87d1f8a0a95792a3108228a18.JPG",
     "url": "https://www.freshco.com/products/ben-s-original-bistro-express-rice-side-coconut-sticky-240-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 1,
+    "assignment_reason": "Rice in Aisle 1",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -18787,9 +18875,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000082410355_VOILA_a9b8e52cb4442180e613b1df5b1da3801510a496.JPG",
     "url": "https://www.freshco.com/products/ben-s-original-bistro-express-rice-side-dish-brown-jasmine-rice-240-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 1,
+    "assignment_reason": "Rice in Aisle 1",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -18805,9 +18893,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/10293_EA_ml_primary_front_na_120423_VOILA_23190fc633933100dfe5dd7d754e6c678bd41432.JPG",
     "url": "https://www.freshco.com/products/ben-s-original-converted-rice-side-dish-long-grain-parboiled-2.2-kg",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 1,
+    "assignment_reason": "Rice in Aisle 1",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -18823,9 +18911,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/10343_EA_ml_primary_front_na_120423_VOILA_768819427085ecc14fdc0b97cef247b41797173c.JPG",
     "url": "https://www.freshco.com/products/ben-s-original-rice-side-dish-whole-grain-brown-2.2-kg",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 1,
+    "assignment_reason": "Rice in Aisle 1",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -18895,9 +18983,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1304626_EA_en_primary_front_na_030926_VOILA_98f33ac13cf8098c7dbe5dc41ebeca3dc394778c.JPG",
     "url": "https://www.freshco.com/products/cheerios-cereal-fruity-311-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Hot/cold breakfast cereals grouped in Aisle 5 (check store)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -18913,9 +19001,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/811250_EA_en_primary_front_na_030426_VOILA_9444a20cb32cb805371d4390f04fd11743f91ca0.JPG",
     "url": "https://www.freshco.com/products/cheerios-cereal-original-whole-grains-family-size-570-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Hot/cold breakfast cereals grouped in Aisle 5 (check store)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -18949,9 +19037,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1118477_EA_en_primary_front_na_070824_VOILA_3001da6337b412b03d12181bcc393f36c5295c0f.JPG",
     "url": "https://www.freshco.com/products/christie-toppables-crackers-family-size-454-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -18967,9 +19055,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081127292_VOILA_4fcfa83c8d87faba13999fd4d99373857ddae963.JPG",
     "url": "https://www.freshco.com/products/cinnamon-toast-crunch-cereal-whole-grains-family-size-591-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Hot/cold breakfast cereals grouped in Aisle 5 (check store)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -19471,9 +19559,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/378870_EA_en_primary_front_na_082126_VOILA_677869b0b93f869697fa7b948ab36d7113a38634.JPG",
     "url": "https://www.freshco.com/products/dare-breton-crackers-veggie-bites-200-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -19489,9 +19577,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/363163_EA_en_pirmary_front_na_082426_VOILA_92ae6057786a1b560bcdfb63448a1c7d3b6778a1.JPG",
     "url": "https://www.freshco.com/products/dare-breton-gluten-free-crackers-herb---garlic-135-g",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -19507,9 +19595,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/363162_EA_en_primary_front_na_082426_VOILA_9bdde5f44144b65e4da109f8761091af806a7af2.JPG",
     "url": "https://www.freshco.com/products/dare-breton-gluten-free-crackers-original-with-flax-135-g",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -19525,9 +19613,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1309924_EA_en_primary_front_012125_VOILA_011d42f9b9100b099cedced3218e105212efc9ce.JPG",
     "url": "https://www.freshco.com/products/dare-breton-simple-goodness-crackers-sea-salt---olive-oil-180-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -19867,9 +19955,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081706082_VOILA_8fed085aac7fe795caf44e61f7b5e5eb5c8d8322.JPG",
     "url": "https://www.freshco.com/products/kashi-granola-cacao-and-cashew-butter-311-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Hot/cold breakfast cereals grouped in Aisle 5 (check store)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -19885,9 +19973,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/963740_EA_en_primary_front_NA_012523_VOILA_c19a0747835ba2e811ed867d299811df6b7414cb.JPG",
     "url": "https://www.freshco.com/products/kellogg-cereal-corn-flakes-600-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Hot/cold breakfast cereals grouped in Aisle 5 (check store)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -19903,9 +19991,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/209099_EA_ml_primary_front_NA_062723_VOILA_69f67fb3d286f96bbfaba864b3a8a5fb59e83e50.JPG",
     "url": "https://www.freshco.com/products/kellogg-s-cereal-all-bran-buds---psyllium-500-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Hot/cold breakfast cereals grouped in Aisle 5 (check store)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -19921,9 +20009,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1304934_EA_en_primary_front_NA_052826_VOILA_40a3b2446d124a5f89f6e07b3582c7f6f5fe90c3.JPG",
     "url": "https://www.freshco.com/products/kellogg-s-cereal-raisin-bran-1.01-kg",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Hot/cold breakfast cereals grouped in Aisle 5 (check store)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20155,9 +20243,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/304008_EA_ml_primary_front_na_061225_VOILA_23536aa9667edab1297505c6cc9d02ba3339144f.JPG",
     "url": "https://www.freshco.com/products/minute-rice-fried-rice-fully-cooked-2-x-125-g-",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 1,
+    "assignment_reason": "Rice in Aisle 1",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20191,9 +20279,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000035710332_VOILA_fde22be7b6a8cb695c14decfba8c43893c128da5.JPG",
     "url": "https://www.freshco.com/products/minute-rice-whole-grain-brown-rice-1.2-kg",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 1,
+    "assignment_reason": "Rice in Aisle 1",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20263,9 +20351,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1417077_EA_en_primary_front_na_061726_VOILA_3e647cf690f8ebb7a7b8437c344cd9900605ad64.JPG",
     "url": "https://www.freshco.com/products/nestle-nesquik-cereal-521-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 5,
+    "assignment_reason": "Hot/cold breakfast cereals grouped in Aisle 5 (check store)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20371,9 +20459,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000064592150_VOILA_b81a4169af2d8854f1aa3d109fbd7dc0803d53cc.JPG",
     "url": "https://www.freshco.com/products/pepperidge-farm-goldfish-crackers-flavour-blasted-salt---vinegar-180-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20443,9 +20531,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/811407_EA_en_primary_front_na_011326_VOILA_21962ff29bc7a9d3ec33bba1d8e2400eae14560e.JPG",
     "url": "https://www.freshco.com/products/reese-s-puffs-cereal-peanut-butter-chocolate-whole-grains-326-g",
-    "aisle": 9,
-    "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "aisle": 5,
+    "assignment_reason": "Hot/cold breakfast cereals grouped in Aisle 5 (check store)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20479,9 +20567,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/20194_EA_en_primary_front_na_032326_VOILA_180cb42ce92e4c33788d4fff72ebf1466f3d9b36.JPG",
     "url": "https://www.freshco.com/products/ritz-crackers-bacon-dippers-smoky-bacon-180-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20497,9 +20585,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000084736025_VOILA_a8af81c2460d8e239ef8286902d0e9403a2516ad.JPG",
     "url": "https://www.freshco.com/products/ritz-crackers-cheese-bits-180-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20515,9 +20603,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081623976_VOILA_360b8b2fee999c70183322216f7edac38acb1022.JPG",
     "url": "https://www.freshco.com/products/ritz-crackers-swiss-cheese-180-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20551,9 +20639,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000046814358_VOILA_2758620cc25c1083680e7535b5e2e477f3814318.JPG",
     "url": "https://www.freshco.com/products/ryvita-vegan-rye-crispbread-sesame-rye-250-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20605,9 +20693,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/20185_EA_en_primary_front_na_081926_VOILA_fece0957ceec6d2a4513ad2644ac0824f59c29ff.JPG",
     "url": "https://www.freshco.com/products/vegetable-thins-crackers-180-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20623,9 +20711,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/20186_EA_en_primary_front_110823_VOILA_8aa2d47e9b94c5e701cbfd22ba3e1b29ad0a43cc.JPG",
     "url": "https://www.freshco.com/products/wheat-thins-crackers-multigrain-180-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -20641,9 +20729,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/20189_EA_en_primary_front_110923_VOILA_dbaa63ebcc5fc970f44b4d9df519519901d6e28a.JPG",
     "url": "https://www.freshco.com/products/wheat-thins-crackers-original-180-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 6,
+    "assignment_reason": "Crackers in Aisle 6",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -25771,9 +25859,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/818672_EA_en_primary_front_NA_051223_VOILA_515683e17d1a1404e4906d69f8883eb30d81547e.JPG",
     "url": "https://www.freshco.com/products/big-mountain-foods-vegan-mighty-mushroom-bites-sweet-potato---spinach-300-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Plant-based prepared dinner in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -25969,9 +26057,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1355128_EA_ml_primary_front_NA_091725_VOILA_e9d135947c4591824837faf49c7e45a1af688f2b.JPG",
     "url": "https://www.freshco.com/products/gardein-plant-based-frozen-meat-alternative-chicken-strips-397-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -25987,9 +26075,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1354692_EA_ml_primary_front_na_080825_VOILA_7b8abe3c8b9a3b90bf9d93f77b21959361f1929b.JPG",
     "url": "https://www.freshco.com/products/gardein-plant-based-frozen-meat-alternative-f-sh-filets-425-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Plant-based meat alternatives in Meat section",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -26005,9 +26093,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1355129_EA_ml_primary_front_NA_091725_VOILA_f4f749d969e8b677896b7831a4bba53a2c6dc533.JPG",
     "url": "https://www.freshco.com/products/gardein-plant-based-frozen-meat-alternative-ground-beef-397-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Plant-based meat alternatives in Meat section",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -26023,9 +26111,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1352228_EA_ml_primary_front_NA_120525_VOILA_cf084c1c4311e9337eba1a06af50694cba02bff6.JPG",
     "url": "https://www.freshco.com/products/gardein-plant-based-frozen-single-serve-meal-chick-n-fried-rice-255-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Plant-based prepared dinner in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -26041,9 +26129,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1352227_EA_en_primary_front_NA_070925_VOILA_ab08fcaab0774c283e94d876f7df7b4b2d43fe84.JPG",
     "url": "https://www.freshco.com/products/gardein-plant-based-frozen-single-serve-meal-fried-chick-n-macaroni-cheeze-255-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Plant-based prepared dinner in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -26149,9 +26237,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000079290611_VOILA_cc7f845a6550d96bae3873b893a88b5cee29b075.JPG",
     "url": "https://www.freshco.com/products/gardein-suprême-plant-based-frozen-breakfast-saus-ge-patties-390-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Plant-based meat alternatives in Meat section",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -26167,9 +26255,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000084789442_VOILA_dee7d63fa9cfd7ecffb64100493f1115bc3c91af.JPG",
     "url": "https://www.freshco.com/products/gardein-suprême-plant-based-meatballs-425-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Plant-based meat alternatives in Meat section",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -26203,9 +26291,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/105543_EA_ml_primary_front_NA_103123_VOILA_cbc91c53cbcf3339d6425bee91d101503be45927.JPG",
     "url": "https://www.freshco.com/products/gardein-vegan-frozen-chicken-nuggets-supreme-417-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Frozen entrées, appetizers or dinner foods in Aisle 3",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -27967,9 +28055,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000042323768_VOILA_d6922407134f225233e4db6a8b4d6e38eba23b05.JPG",
     "url": "https://www.freshco.com/products/bulacan-frozen-grated-cassava-454-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -27985,9 +28073,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000042317240_VOILA_955c6a2868a0cdaf3d930dc85941555a69865af5.JPG",
     "url": "https://www.freshco.com/products/bulacan-frozen-shredded-young-coconut-454-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28003,9 +28091,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/646884_EA_ml_Primary_Front_NA_VOILA_f1f5e50323e6c8c1cce2f38bc1e8d8d6aa740992.JPG",
     "url": "https://www.freshco.com/products/bulacan-frozen-sweet-longanisa-375-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28039,9 +28127,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/676334_EA_ML_PRIMARY_FRONT_NA_VOILA_719934abde97aa07ff5d553d5564718740f1accd.JPG",
     "url": "https://www.freshco.com/products/bulacan-pork-tosino-375-g-(frozen)",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28057,9 +28145,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/920801_EA_ml_primary_front_061322_VOILA_9a15090c4139bf9234e97247c2670772fb8a657c.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-bay-scallops-raw-340-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28273,9 +28361,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/592574_EA_primary_VOILA_a112381afb3ed14b4d0caa59330f89318bbaf0bd.JPG",
     "url": "https://www.freshco.com/products/goldilocks-frozen-asado-buns-pork-580-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28291,9 +28379,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/592584_EA_ml_Primary_Front_NA_080124_VOILA_d0c45fa0f46f5e4d8184695b7debc41cffbea0d6.JPG",
     "url": "https://www.freshco.com/products/goldilocks-frozen-bun-siopao-chicken-asado-580-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28309,9 +28397,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/592683_EA_ml_Primary_Front_NA_080124_VOILA_892fdc23d1d1ed3a79abc2ebaff4f12f3367e3c9.JPG",
     "url": "https://www.freshco.com/products/goldilocks-frozen-half-roll-choco-overload-480-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28345,9 +28433,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/592653_EA_ml_primary_na_na_012925_PHP_VOILA_75e203576ddf4880904e1070cdafebac230b2be1.JPG",
     "url": "https://www.freshco.com/products/goldilocks-half-roll-mocha-370-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28417,9 +28505,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/565366_EA_ml_Primary_Front_NA_080124_VOILA_b79f95372a0440ac1e94470a2449b1fa85ce1a07.JPG",
     "url": "https://www.freshco.com/products/manila-s-best-frozen-grated-cassava-454-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28435,9 +28523,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/041625215035_VOILA_dfe55507c7da0a9bbf7e6044ca063cef401bd695.JPG",
     "url": "https://www.freshco.com/products/matlaws-scallops-stuffed-425-g-(frozen)",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28453,9 +28541,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/041625115038_VOILA_505c713688c47c1b877c918d682c40f34c6a955c.JPG",
     "url": "https://www.freshco.com/products/matlaws-stuffed-clams-425-g-(frozen)",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28615,9 +28703,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/219183_EA_ml_primary_na_na_012925_PHP_VOILA_56c33d1af68e5d2042ce3c7fb49c4a2a04e2d9b3.JPG",
     "url": "https://www.freshco.com/products/maynilas-choice--red-chili-250-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28759,9 +28847,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/593152_EA_primary_VOILA_22cdb38a5b165a88593849fdf74b6392e41426db.JPG",
     "url": "https://www.freshco.com/products/napakasarap-frozen-egg-rolls-lumpia-pork-pampanga-style-454-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28777,9 +28865,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/593170_EA_primary_VOILA_47c6d801061ebae993ab84aeb00cbb6835a060e4.JPG",
     "url": "https://www.freshco.com/products/napakasarap-mini-pork-lumpia-pampanga-style-908-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28795,9 +28883,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/565381_EA_ml_primary_front_NA_081324_VOILA_ce75a421969827e5fba38615faa16fe4d598b7ba.JPG",
     "url": "https://www.freshco.com/products/paradise-frozen-steamed-saba-454-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28813,9 +28901,9 @@
     "in_stock": false,
     "image_url": "",
     "url": "https://www.freshco.com/products/purefoods-tender-juicy-hotdog-340-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28831,9 +28919,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/911890_EA_VOILA_babfef924ff6d600edb2f233568b3152963006fd.JPG",
     "url": "https://www.freshco.com/products/quality-pampanga-beef-blood-375-ml",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28885,9 +28973,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/1293395_EA_ml_primary_front_NA_102424_VOILA_b85e05d376e08b6d343cba4a7bd4ec54302560f8.JPG",
     "url": "https://www.freshco.com/products/shirakiku-frozen-cooked-gyudon-beef-250-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28921,9 +29009,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000065507866_VOILA_a948460d3b01ed58765285b544868e573c29004a.JPG",
     "url": "https://www.freshco.com/products/siwin-frozen-pork-longanisa-skinless-hot-375-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -28975,9 +29063,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000065514644_VOILA_fdfaa71c3917c037140162a5f62eaee8e6dc3faf.JPG",
     "url": "https://www.freshco.com/products/siwin-skinless-sweet-pork-longanisa-375-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -29029,9 +29117,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/887635_EA_en_primary_front_na_121522_VOILA_096053027072be1789bb3b17c8c0dd967e65b659.JPG",
     "url": "https://www.freshco.com/products/viva-hotdog-cheesy-juicy-600-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -29047,9 +29135,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/887633_EA_ml_primary_front_na_121522_VOILA_55e2097900e2e4585e94266c5c03a4fdf3660bf9.JPG",
     "url": "https://www.freshco.com/products/viva-meaty-juicy-hotdog-600-g",
-    "aisle": "meat",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 2,
+    "assignment_reason": "Brentwood rule: frozen seafood in Aisle 2",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -31930,5 +32018,22 @@
     "aisle": 0,
     "assignment_reason": "Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted",
     "confidence": "photo-reference"
+  },
+  {
+    "product_id": "guide-exit-ice-cubes",
+    "upc": "",
+    "name": "Ice cubes / bagged ice — freezer near tills and exit",
+    "brand": "Store section guide",
+    "department": "Frozen",
+    "category": "Ice cubes",
+    "subcategory": "Bagged ice",
+    "size": "",
+    "price": null,
+    "in_stock": null,
+    "image_url": "",
+    "url": "",
+    "aisle": "exit_freezer",
+    "confidence": "location-guide",
+    "reason": "Store location provided by Brentwood worker; specific product SKU not catalogued"
   }
 ]

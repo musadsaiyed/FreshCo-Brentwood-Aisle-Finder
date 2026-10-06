@@ -1,206 +1,97 @@
 <div align="center">
 
-# 🛒 Brentwood Aisle Finder
+# FreshCo Brentwood · Aisle Finder
 
-### Find products faster. Help shoppers with confidence.
+**Find the right product. Know the right section.**
 
-**A responsive, searchable product-to-aisle directory for the FreshCo Brentwood store layout in Calgary, Alberta.**
+An independent, mobile-friendly product-location directory designed around the **Brentwood, Calgary** store layout.
 
-[![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-222?logo=github)](https://pages.github.com/)
-![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Design-Mobile--Friendly-087F5B)
-![Status](https://img.shields.io/badge/Status-Prototype-64748B)
+![Project status](https://img.shields.io/badge/Status-Active%20prototype-087F5B) ![Mobile](https://img.shields.io/badge/Interface-Mobile%20friendly-2563EB) ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black) ![Hosting](https://img.shields.io/badge/Hosting-GitHub%20Pages-181717?logo=github)
 
-**[Launch the live app](https://musadsaiyed.github.io/FreshCo-Brentwood-Aisle-Finder/)** · **[Report an issue](../../issues)**
+**[View the website](https://musadsaiyed.github.io/FreshCo-Brentwood-Aisle-Finder/)** · **[View location changes](drinks_section_changes.csv)**
 
-<sub>Independent educational/portfolio project. Not affiliated with, sponsored by, or endorsed by FreshCo, Sobeys, or its affiliates. The live-app link assumes this repository is published under the GitHub account and repository name shown; update it if yours differs.</sub>
+<sub>**UNOFFICIAL.** Independent project; not affiliated with, endorsed by, or operated by FreshCo, Sobeys, or their affiliates. The website link assumes the repository is published at the address above.</sub>
 
 </div>
 
 ---
 
-## Overview
+## At a glance
 
-**Brentwood Aisle Finder** helps store workers locate products without memorizing every shelf or searching through long product lists. Enter a product name, brand, or UPC and immediately see matching products and their **suggested aisle or store section**.
+| | |
+|---|---|
+| **Store** | FreshCo Brentwood · Calgary, Alberta |
+| **Catalog** | 1,775 searchable entries, including location-only guides |
+| **Coverage** | Aisles 0–9 plus Bakery, Dairy, Produce, Meat, Drinks, and Exit freezer |
+| **Experience** | Mobile-friendly search with instant location labels and section filters |
+| **Data model** | Static JSON snapshot; no real-time stock or pricing |
 
-The project currently includes **1,742 verified-snapshot product records** from a collected product-listing snapshot. The database is **not a live inventory feed**, and the classifications are intended to be checked against the physical store layout.
+## The problem
 
-## Features
+Product locations vary between grocery stores. Even familiar brands can be difficult to find when similar items are split between frozen, international, bakery, beverage, and other departments. This project turns a store-specific location map into a quick-search reference for staff.
 
-| Feature | Description |
-| --- | --- |
-| 🔎 **Smart global search** | Searches all sections as soon as you type, even if another aisle was selected previously. |
-| 🧭 **Aisle discovery** | Displays the assigned aisle or section on each matching product card. |
-| 📱 **Mobile-first usability** | Responsive interface for Android, iPhone, tablets, and desktops. |
-| 🧺 **Section filters** | Browse Aisles 1–9, Dairy, Produce, Meat, and Other. |
-| 🏷️ **Product details** | View product name, brand, category, image (when available), and product link. |
-| ✏️ **Aisle corrections** | Product locations are maintained centrally in the published data files. |
-| 🚀 **Static deployment** | Runs on GitHub Pages without a backend, database, or paid hosting. |
+## What it does
 
-### How search behaves
+- **Searches globally:** A product search is not restricted by the section selected earlier.
+- **Shows a clear destination:** Each result displays its aisle or named store section.
+- **Works on phones:** Responsive product cards and touch-friendly navigation for Android and iPhone.
+- **Supports location exceptions:** For example, frozen seafood is in Aisle 2; frozen waffles are in Aisle 3; frozen berries are in Aisle 4.
+- **Keeps updates auditable:** Assignment changes are maintained in the project data rather than edited by staff in the live website.
+- **Runs as a static website:** HTML, CSS, JavaScript, and JSON; no account or server required for visitors.
 
-1. Type a query such as `rice`, `CRAVE`, or a UPC into **Find a product**.
-2. The app automatically searches **all products** and displays matching results with location labels.
-3. Optionally select a matching aisle/section filter to narrow the results.
-4. Press **Enter** to scroll down to the matching product cards.
-5. Clear the query to return to the full catalog.
+## Brentwood store directory
 
-> **Note:** Search shows the product's aisle/section; it does not physically navigate you through the store or open a map.
+| Location | Product groups |
+|---|---|
+| **Aisle 0** | Cooking oils, cooking sprays, vinegar, salad dressings, mayonnaise, mustard, ketchup, pickles, olives, relish, canned vegetables |
+| **Aisle 1** | Rice, international groceries, European, Middle Eastern, South Asian and Asian foods |
+| **Aisle 2** | Pasta, noodles, Mexican/Latin American foods, frozen fish and squid, dumplings, samosas, Deep/Ashoka frozen foods, naan and parathas |
+| **Aisle 3** | Frozen dinners and entrées, CRAVE, pizza, frozen waffles, frozen vegetables, fries, perogies and frozen prepared meals |
+| **Aisle 4** | Frozen berries and other frozen fruit, ice cream, yogurt, lassi and selected juices |
+| **Aisle 5** | Peanut butter, jams, honey, tea, coffee, hot cereal, gluten-free foods and selected carton drinks |
+| **Aisle 6** | Flour, baking ingredients, canned milk, soup, sugar, spices, crackers and organic foods |
+| **Aisle 7** | Foil, food wraps, tissues, disposable dishes, baby supplies and pet products |
+| **Aisle 8** | Laundry products, household cleaners, dish detergent, hair care, soap and skincare |
+| **Aisle 9** | Chips, cookies including Oreo, chocolates, candy, snack bars and ready-to-eat popcorn |
+| **🥤 Drinks** | Pop, soda, bottled and sparkling water, sports and energy drinks |
+| **🧊 Exit freezer** | Ice cubes / bagged ice — **freezer near the tills, by the exit** |
+| **🥛 Dairy** | Milk, eggs, butter, cheese, sour cream, cream cheese and related products |
+| **🥬 Produce** | Fresh vegetables, fruit, packaged salads, tofu and prepared produce |
+| **🥩 Meat** | Meat, poultry, fresh seafood, halal and plant-based meat alternatives |
+| **🍞 Bakery** | Bread, buns, roti, tortillas, pita and related bakery items |
+| **Other** | Entries not confidently matched to a named store section |
 
-## Store layout
+### Important location distinctions
 
-The location rules reflect a **user-supplied layout**, not an official planogram.
+**Drinks** is separate from Aisle 9. Bottled water, pop, soda, sports drinks and energy drinks belong in Drinks; chips, candy and cookies remain in Aisle 9. **Juices, lassi, and other specialty drinks** keep their previously specified aisle locations rather than being indiscriminately moved to Drinks. **Ice cubes** are in the freezer by the tills near the exit, not in Aisle 3 or 4.
 
-| Location | Main product groups |
-| --- | --- |
-| **Aisle 1** | International foods, rice, European, Middle Eastern, South Asian and Asian groceries |
-| **Aisle 2** | Pasta and sauces, side dishes, Mexican/Latin American items, selected Asian foods, dumplings, samosas, specialty frozen items, **frozen fish and squid/seafood** |
-| **Aisle 3** | **Frozen dinners and entrées**, CRAVE meals, lasagna, prepared pasta meals, pizza, desserts, frozen vegetables (with exceptions), fries and perogies |
-| **Aisle 4** | Frozen fruit, ice cream, juices, yogurt and lassi |
-| **Aisle 5** | Peanut butter, jams, honey, tea, coffee, hot cereal, gluten-free and selected packaged drinks |
-| **Aisle 6** | Flour, baking supplies, soups, canned milk, sugar, spices, crackers and organic foods |
-| **Aisle 7** | Food wraps, foil, facial tissues, disposable dishes, baby products and pet supplies |
-| **Aisle 8** | Laundry, cleaning, dish detergent, hair care, soaps, body wash and skincare |
-| **Aisle 9** | Chocolate, chips, bars, soft drinks, candy and ready-to-eat popcorn |
-| **Dairy** | Milk, eggs, butter, cheese, sour cream, cream cheese, creamers and selected dairy alternatives |
-| **Produce** | Fresh fruit and vegetables, packaged salads, prepared produce and selected tofu |
-| **Meat** | Fresh meat, poultry, seafood, halal products and plant-based meat alternatives |
-| **Other** | Products outside the named aisles and sections |
+## Data and maintenance
 
-**Important exceptions:** CRAVE-brand prepared meals and comparable frozen dinners are assigned to **Aisle 3**; frozen fish, squid, calamari, shrimp and similar frozen seafood are assigned to **Aisle 2**. Fresh seafood belongs to **Meat**. Yogurt and lassi remain in **Aisle 4**. Product-specific placement may still need verification.
+The catalog was assembled from a limited product-listing snapshot and augmented with store-worker location rules and clearly identified product-family guides. Product entries do **not** establish current stock, shelf availability, prices, or the completeness of FreshCo's online catalog.
 
-## Getting started
+- `index.html` — responsive app, search, section navigation and product cards.
+- `products.json` — searchable product records and store-specific location assignments.
+- `aisle_assignments.csv` — tabular reference of current assignments.
+- `sorting_changes.csv` — earlier full-catalog sorting audit.
+- `drinks_section_changes.csv` — products reassigned to Drinks or the exit freezer in this release.
+- `README.md` — project overview and store layout reference.
 
-### Option A — Publish to GitHub Pages (recommended)
+**Location accuracy:** The named layout reflects information supplied for the Brentwood store. Some other assignments were inferred from category names; they are not an official planogram. Photo-reference and product-family guide entries are not verified individual SKUs.
 
-1. Create a **public** repository named `FreshCo-Brentwood-Aisle-Finder` on GitHub.
-2. Upload the four files in this project directly to the repository's **root directory** (not inside an extra folder).
-3. Commit your changes to the `main` branch.
-4. Open **Settings → Pages → Build and deployment**.
-5. Set **Source** to `Deploy from a branch`, **Branch** to `main`, and folder to `/ (root)`; click **Save**.
-6. Wait for the Pages deployment to finish, then open the URL displayed in the Pages settings.
-
-For the account `musadsaiyed` and the repository name above, the expected URL is:
-
-```text
-https://musadsaiyed.github.io/FreshCo-Brentwood-Aisle-Finder/
-```
-
-> The URL only works after GitHub Pages is successfully enabled. Replace the account or repository portion if your setup is different.
-
-### Option B — Run locally
-
-From the folder containing `index.html` and `products.json`, run:
-
-```bash
-python -m http.server 8000
-```
-
-Then open **http://localhost:8000** in your browser. You can also use the VS Code **Live Server** extension.
-
-**Do not open `index.html` directly with `file://`**: browsers may block the JavaScript request to `products.json`.
-
-## Project structure
+## Technical design
 
 ```text
-FreshCo-Brentwood-Aisle-Finder/
-├── index.html             # Responsive UI, search, and section filters
-├── products.json          # Product snapshot and default location assignments
-├── aisle_assignments.csv  # Reference table for aisle classifications
-└── README.md              # Project documentation
+Search input → global product filtering → section labels → responsive product cards
+                          ↑
+                    products.json
 ```
 
-### Technology
+The site uses plain HTML/CSS/JavaScript with no framework dependency. It is designed for static hosting through GitHub Pages. The application reads the JSON dataset on page load; product images and links may depend on external websites.
 
-- **HTML5 / CSS3** — layout and responsive styling
-- **Vanilla JavaScript** — live search, aisle filtering, client-side rendering
-- **JSON / CSV** — product records and aisle assignments
-- **Static JSON data** — centrally maintained product assignments
-- **GitHub Pages** — static website hosting
+## Project scope and future improvements
 
-No framework, build step, server-side code, or API key is required to run the supplied website.
-
-## Correcting product locations
-
-1. Find the product using search or an aisle filter.
-3. The updated location is saved **only in that browser**.
-
-**Updating locations:** Modify the product's aisle in `products.json` and `aisle_assignments.csv`, then commit the updated files to GitHub. All users will see the revised data after deployment and refresh.
-
-## Maintaining the catalog
-
-The source data is a **point-in-time snapshot** and may not cover every product sold at the store. To update the website, replace the classified product data with a reviewed newer dataset, preserve the expected JSON fields, and commit the changes. Avoid publishing internal, confidential, or personal data.
-
-## Known limitations
-
-- **Not real-time:** No live stock, prices, or current product availability are displayed.
-- **Not authoritative:** Locations are suggested and may differ from current shelf placement.
-- **Internet required:** The current site is not a service-worker-enabled offline PWA. Hosting the data file alongside the app does **not** make it available offline.
-- **External images:** Product images/links depend on third-party resources that may change or become unavailable.
-- **Store specificity:** This layout is tailored to the described Brentwood location; it should not be assumed accurate for other FreshCo stores.
-
-## Roadmap
-
-- [ ] Validate product placements aisle by aisle against the physical store
-- [ ] Add an administrator-reviewed shared corrections workflow
-- [ ] Add automated validation for catalog updates and duplicate product IDs
-- [ ] Improve category-specific matching and ambiguous-item review
-- [ ] Explore an installable offline-capable Progressive Web App (PWA)
-
-## Contributing
-
-Suggestions, bug reports, and corrections are welcome through [GitHub Issues](../../issues). For a location correction, include the **product name**, **current displayed location**, **proposed location**, and an explanation where possible. Do not share confidential store information or customer data.
-
-## Disclaimer
-
-This is an **independent, unofficial portfolio/learning project**. FreshCo and related trademarks belong to their respective owners. Product information and imagery may be subject to third-party terms; confirm you have the appropriate rights or permissions before distributing the site publicly. Always verify shelf placement before directing a customer.
+Potential improvements include a shared, reviewed location-update workflow, catalog refreshes, offline support, and better coverage of products not included in the current snapshot. Changes should be validated against the actual Brentwood store layout before publication.
 
 ---
 
-<div align="center">
-
-**Built to make product lookup quicker, clearer, and more accessible on the shop floor.**
-
-</div>
-
-### Oreo product placement
-
-All **19** Oreo-related products in the current snapshot are assigned to **Aisle 9**, including Oreo sandwich cookies, seasonal flavours, Oreo snack cakes and Oreo-branded protein bars. This version clears stale locally saved Oreo aisle overrides once on first load so earlier incorrect placements do not persist. Subsequent employee edits remain available.
-
-
-## Store-specific updates
-
-This version intentionally has **no Verify section, correction dropdowns, or correction-export button**. Product locations are maintained in `products.json` and `aisle_assignments.csv` and are updated through repository changes. Product locations reflect the **Brentwood, Calgary** layout only.
-
-## Branding and independence
-
-The website displays a FreshCo logo sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FreshCo_logo.svg) for store identification. **This is an unofficial independent project, not affiliated with, sponsored by, or endorsed by FreshCo or Sobeys.** FreshCo is a trademark of its respective owner. The logo loads from Wikimedia Commons, so internet access is required for it to display.
-
-
-## Aisle 2 international frozen product-family guides
-
-The website includes **12 manually added product-family guides** for Deep frozen parathas, naan and roti, frozen vegetable burger patties, Ashoka frozen foods, frozen rasmalai, kaju katli, and similar sweets. These are **location guides, not verified FreshCo product SKUs**. No UPC, size, price, image, product URL, or inventory status is invented. The original 1,742 catalog records are preserved. When verified catalog records become available, replace these guides with individual product records and deduplicate.
-
-### Brentwood bakery and naan placement
-
-- **Bakery:** roti, sandwich bread, burger/hot dog buns, rolls, tortillas, pita, bagels, baguettes and other bread products, including the Deep Roti product-family guide.
-- **Aisle 2:** naan, including the Deep Frozen Naan product-family guide.
-- These are store-specific placements; generic product-family guides are not verified individual SKUs.
-
-### Expanded bakery classification
-
-Bread, buns, bakery rolls, tortillas, pita, bagels and related bread products in the existing catalog are mapped to **Bakery**. Naan and paratha remain in **Aisle 2**. Tortilla chips, breaded meats, spring rolls and egg rolls are excluded from the bakery rule.
-
-
-## Aisle 0 — Brentwood store-photo update (October 2026)
-
-Seven user-provided shelf photographs confirm that Aisle 0 carries cooking oils and cooking sprays; vinegar; shelf-stable salad dressings; mayonnaise; mustard; ketchup; hot sauces; jarred pickles, olives and relish; and canned vegetables. Matching existing product records were reassigned to Aisle 0. Seven clearly labeled **category guides** cover photo-confirmed product families not fully represented in the source catalog. These guides are **not verified UPC-level product listings**.
-
-Refrigerated salad dressings, frozen vegetables, flavoured snack chips, and other products with similar words remain in their original sections unless individually confirmed. All earlier Brentwood-specific assignments are preserved.
-
-## Aisle 0 product references — photo-backed update
-
-The seven generic Aisle 0 category guides have been replaced with 20 **brand-level shelf references** based on the seven photographs supplied for the Brentwood location. These include Compliments and Mazola cooking oils, Allen’s vinegar, Kraft dressings, Hellmann’s mayonnaise, Heinz ketchup, French’s mustard, Tabasco, Unico olives, Bick’s pickles and canned vegetables.
-
-**Important:** These 20 references are **not individual verified SKUs** and have no invented UPC, size, price, product URL, or product photo. Actual individual products are shown with their existing verified catalog data when available. Two additional existing catalog products were reassigned to Aisle 0 after reviewing their descriptions. The photos confirm product *families*, not that every size or variant is stocked.
+<div align="center"><sub>FreshCo Brentwood Aisle Finder · Independent, unofficial project · Product locations subject to change.</sub></div>
