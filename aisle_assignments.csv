@@ -1435,7 +1435,7 @@ Bunny Grahams 213 g",Annie's,9,"Snack, candy or soft drink",medium
 450272,Blue Diamond Dairy-Free Almond Breeze Original 946 ml,Blue Diamond,dairy,"Dairy section: milk, eggs, cheese, butter/margarine, sour cream, creamers or dairy alternatives (verify shelf placement)",suggested
 450270,Blue Diamond Dairy-Free Almond Breeze Vanilla 946 ml,Blue Diamond,dairy,"Dairy section: milk, eggs, cheese, butter/margarine, sour cream, creamers or dairy alternatives (verify shelf placement)",suggested
 1349587,Compliments Green Soy Plant Based Burger 678 g,Compliments Green,meat,Fresh/refrigerated or separate store section,medium
-607314,Compliments Plant Based Salad Dressing Blue Cheese Kreamy 350 ml,Compliments,other,Fresh/refrigerated or separate store section,medium
+607314,Compliments Plant Based Salad Dressing Blue Cheese Kreamy 350 ml,Compliments,0,Shelf-stable dressing or canned tomatoes in Aisle 0 photos,store-photo-category
 607250,Compliments Plant Based Salad Dressing Caesar Kreamy 350 ml,Compliments,0,Shelf-stable salad dressing (Aisle 0 photo),store-photo-category
 607324,Compliments Plant Based Salad Dressing Ranch 350 ml,Compliments,0,Shelf-stable salad dressing (Aisle 0 photo),store-photo-category
 763827,Field Roast Plant-Based Sausages Classic Smoked 340 g,Field Roast,meat,Fresh/refrigerated or separate store section,medium
@@ -1754,10 +1754,23 @@ guide-intl-009,Frozen Rasmalai (assorted brands),,2,User-confirmed Aisle 2 produ
 guide-intl-010,Frozen Kaju Katli (assorted brands),,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
 guide-intl-011,Frozen Indian Sweets (assorted varieties),,2,User-confirmed Aisle 2 product family; exact product SKU not verified,location-guide
 guide-intl-012,Deep Roti (assorted varieties),Deep,bakery,Roti: Bakery section,location-guide
-guide-aisle0-1,Aisle 0 guide: Cooking oil and cooking spray,Store section guide,0,Category visible in user-provided aisle photos; guide only,location-guide
-guide-aisle0-2,Aisle 0 guide: Vinegar and apple cider vinegar,Store section guide,0,Category visible in user-provided aisle photos; guide only,location-guide
-guide-aisle0-3,Aisle 0 guide: Shelf-stable salad dressing,Store section guide,0,Category visible in user-provided aisle photos; guide only,location-guide
-guide-aisle0-4,Aisle 0 guide: Mayonnaise and sandwich spreads,Store section guide,0,Category visible in user-provided aisle photos; guide only,location-guide
-guide-aisle0-5,"Aisle 0 guide: Mustard, ketchup and hot sauce",Store section guide,0,Category visible in user-provided aisle photos; guide only,location-guide
-guide-aisle0-6,"Aisle 0 guide: Pickles, olives and relish",Store section guide,0,Category visible in user-provided aisle photos; guide only,location-guide
-guide-aisle0-7,Aisle 0 guide: Canned vegetables,Store section guide,0,Category visible in user-provided aisle photos; guide only,location-guide
+photo-aisle0-01,Compliments cooking oils,Compliments,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-02,Mazola cooking oils,Mazola,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-03,Compliments cooking spray,Compliments,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-04,Compliments vinegar,Compliments,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-05,Allen’s vinegar,Allen’s,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-06,Kraft salad dressings,Kraft,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-07,Compliments salad dressings,Compliments,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-08,Hellmann’s mayonnaise,Hellmann’s,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-09,Compliments mayonnaise,Compliments,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-10,Heinz ketchup,Heinz,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-11,French’s mustard,French’s,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-12,Compliments mustard,Compliments,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-13,Tabasco hot sauce,Tabasco,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-14,Frank’s hot sauce,Frank’s,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-15,Unico olives,Unico,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-16,Compliments pickles,Compliments,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-17,Bick’s pickles,Bick’s,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-18,Unico pickled vegetables,Unico,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-19,Compliments canned vegetables,Compliments,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference
+photo-aisle0-20,Unico canned vegetables,Unico,0,Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted,photo-reference

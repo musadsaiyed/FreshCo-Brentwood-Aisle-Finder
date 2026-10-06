@@ -198,3 +198,9 @@ Bread, buns, bakery rolls, tortillas, pita, bagels and related bread products in
 Seven user-provided shelf photographs confirm that Aisle 0 carries cooking oils and cooking sprays; vinegar; shelf-stable salad dressings; mayonnaise; mustard; ketchup; hot sauces; jarred pickles, olives and relish; and canned vegetables. Matching existing product records were reassigned to Aisle 0. Seven clearly labeled **category guides** cover photo-confirmed product families not fully represented in the source catalog. These guides are **not verified UPC-level product listings**.
 
 Refrigerated salad dressings, frozen vegetables, flavoured snack chips, and other products with similar words remain in their original sections unless individually confirmed. All earlier Brentwood-specific assignments are preserved.
+
+## Aisle 0 product references — photo-backed update
+
+The seven generic Aisle 0 category guides have been replaced with 20 **brand-level shelf references** based on the seven photographs supplied for the Brentwood location. These include Compliments and Mazola cooking oils, Allen’s vinegar, Kraft dressings, Hellmann’s mayonnaise, Heinz ketchup, French’s mustard, Tabasco, Unico olives, Bick’s pickles and canned vegetables.
+
+**Important:** These 20 references are **not individual verified SKUs** and have no invented UPC, size, price, product URL, or product photo. Actual individual products are shown with their existing verified catalog data when available. Two additional existing catalog products were reassigned to Aisle 0 after reviewing their descriptions. The photos confirm product *families*, not that every size or variant is stocked.
