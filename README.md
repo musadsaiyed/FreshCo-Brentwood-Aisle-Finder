@@ -33,9 +33,9 @@ The project currently includes **1,742 product records** from a collected produc
 | 🔎 **Smart global search** | Searches all sections as soon as you type, even if another aisle was selected previously. |
 | 🧭 **Aisle discovery** | Displays the assigned aisle or section on each matching product card. |
 | 📱 **Mobile-first usability** | Responsive interface for Android, iPhone, tablets, and desktops. |
-| 🧺 **Section filters** | Browse Aisles 1–9, Dairy, Produce, Meat, Other, and Verify. |
+| 🧺 **Section filters** | Browse Aisles 1–9, Dairy, Produce, Meat, and Other. |
 | 🏷️ **Product details** | View product name, brand, category, image (when available), and product link. |
-| ✏️ **Aisle corrections** | Change a product's location on your device and export your corrections as CSV. |
+| ✏️ **Aisle corrections** | Product locations are maintained centrally in the published data files. |
 | 🚀 **Static deployment** | Runs on GitHub Pages without a backend, database, or paid hosting. |
 
 ### How search behaves
@@ -66,15 +66,46 @@ The location rules reflect a **user-supplied layout**, not an official planogram
 | **Dairy** | Milk, eggs, butter, cheese, sour cream, cream cheese, creamers and selected dairy alternatives |
 | **Produce** | Fresh fruit and vegetables, packaged salads, prepared produce and selected tofu |
 | **Meat** | Fresh meat, poultry, seafood, halal products and plant-based meat alternatives |
-| **Other / Verify** | Products outside the described layout or awaiting confirmation |
+| **Other** | Products outside the named aisles and sections |
 
 **Important exceptions:** CRAVE-brand prepared meals and comparable frozen dinners are assigned to **Aisle 3**; frozen fish, squid, calamari, shrimp and similar frozen seafood are assigned to **Aisle 2**. Fresh seafood belongs to **Meat**. Yogurt and lassi remain in **Aisle 4**. Product-specific placement may still need verification.
+
+## Getting started
+
+### Option A — Publish to GitHub Pages (recommended)
+
+1. Create a **public** repository named `FreshCo-Brentwood-Aisle-Finder` on GitHub.
+2. Upload the four files in this project directly to the repository's **root directory** (not inside an extra folder).
+3. Commit your changes to the `main` branch.
+4. Open **Settings → Pages → Build and deployment**.
+5. Set **Source** to `Deploy from a branch`, **Branch** to `main`, and folder to `/ (root)`; click **Save**.
+6. Wait for the Pages deployment to finish, then open the URL displayed in the Pages settings.
+
+For the account `musadsaiyed` and the repository name above, the expected URL is:
+
+```text
+https://musadsaiyed.github.io/FreshCo-Brentwood-Aisle-Finder/
+```
+
+> The URL only works after GitHub Pages is successfully enabled. Replace the account or repository portion if your setup is different.
+
+### Option B — Run locally
+
+From the folder containing `index.html` and `products.json`, run:
+
+```bash
+python -m http.server 8000
+```
+
+Then open **http://localhost:8000** in your browser. You can also use the VS Code **Live Server** extension.
+
+**Do not open `index.html` directly with `file://`**: browsers may block the JavaScript request to `products.json`.
 
 ## Project structure
 
 ```text
 FreshCo-Brentwood-Aisle-Finder/
-├── index.html             # Responsive UI, search, filters, correction/export logic
+├── index.html             # Responsive UI, search, and section filters
 ├── products.json          # Product snapshot and default location assignments
 ├── aisle_assignments.csv  # Reference table for aisle classifications
 └── README.md              # Project documentation
@@ -85,7 +116,7 @@ FreshCo-Brentwood-Aisle-Finder/
 - **HTML5 / CSS3** — layout and responsive styling
 - **Vanilla JavaScript** — live search, aisle filtering, client-side rendering
 - **JSON / CSV** — product records and aisle assignments
-- **localStorage** — corrections saved on the current browser/device
+- **Static JSON data** — centrally maintained product assignments
 - **GitHub Pages** — static website hosting
 
 No framework, build step, server-side code, or API key is required to run the supplied website.
@@ -93,11 +124,9 @@ No framework, build step, server-side code, or API key is required to run the su
 ## Correcting product locations
 
 1. Find the product using search or an aisle filter.
-2. Select its correct location from **Correct aisle**.
 3. The updated location is saved **only in that browser**.
-4. Click **Export my aisle corrections** to download `aisle_corrections.csv`.
 
-**Corrections are not automatically shared between employees.** To update the default location for everyone, review the exported changes, incorporate them into `products.json` (and `aisle_assignments.csv` for consistency), then commit the updated files to GitHub. A browser's previously saved correction may continue overriding a new default until that local correction is changed or cleared.
+**Updating locations:** Modify the product's aisle in `products.json` and `aisle_assignments.csv`, then commit the updated files to GitHub. All users will see the revised data after deployment and refresh.
 
 ## Maintaining the catalog
 
@@ -107,7 +136,6 @@ The source data is a **point-in-time snapshot** and may not cover every product 
 
 - **Not real-time:** No live stock, prices, or current product availability are displayed.
 - **Not authoritative:** Locations are suggested and may differ from current shelf placement.
-- **Device-local edits:** Browser corrections are not synchronized with other devices.
 - **Internet required:** The current site is not a service-worker-enabled offline PWA. Hosting the data file alongside the app does **not** make it available offline.
 - **External images:** Product images/links depend on third-party resources that may change or become unavailable.
 - **Store specificity:** This layout is tailored to the described Brentwood location; it should not be assumed accurate for other FreshCo stores.
@@ -135,3 +163,16 @@ This is an **independent, unofficial portfolio/learning project**. FreshCo and r
 **Built to make product lookup quicker, clearer, and more accessible on the shop floor.**
 
 </div>
+
+### Oreo product placement
+
+All **19** Oreo-related products in the current snapshot are assigned to **Aisle 9**, including Oreo sandwich cookies, seasonal flavours, Oreo snack cakes and Oreo-branded protein bars. This version clears stale locally saved Oreo aisle overrides once on first load so earlier incorrect placements do not persist. Subsequent employee edits remain available.
+
+
+## Store-specific updates
+
+This version intentionally has **no Verify section, correction dropdowns, or correction-export button**. Product locations are maintained in `products.json` and `aisle_assignments.csv` and are updated through repository changes. Product locations reflect the **Brentwood, Calgary** layout only.
+
+## Branding and independence
+
+The website displays a FreshCo logo sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FreshCo_logo.svg) for store identification. **This is an unofficial independent project, not affiliated with, sponsored by, or endorsed by FreshCo or Sobeys.** FreshCo is a trademark of its respective owner. The logo loads from Wikimedia Commons, so internet access is required for it to display.

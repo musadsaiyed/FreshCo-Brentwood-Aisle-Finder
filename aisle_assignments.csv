@@ -1,6 +1,6 @@
-﻿product_id,upc,name,brand,department,category,subcategory,aisle,assignment_reason,confidence
-1336024,814668003156,KFI Vegan Cooking Sauce Coconut Curry 395 ml,KFI,,,,,No reliable aisle rule matched,review
-1336019,814668003071,KFI Vegan Cooking Sauce Tikka Masala 395 ml,KFI,,,,,No reliable aisle rule matched,review
+product_id,upc,name,brand,department,category,subcategory,aisle,assignment_reason,confidence
+1336024,814668003156,KFI Vegan Cooking Sauce Coconut Curry 395 ml,KFI,,,,other,No reliable aisle rule matched,review
+1336019,814668003071,KFI Vegan Cooking Sauce Tikka Masala 395 ml,KFI,,,,other,No reliable aisle rule matched,review
 72157,062600500496,Aveeno Baby Daily Lotion Fragrance Free 227 ml,Aveeno Baby,Baby,Baby Bath & Skin Care,Baby Lotions & Creams,7,Baby food and supplies,high
 244871,062600060402,Aveeno Baby Eczema Care Cream Fragrance-Free 166 ml,Aveeno,Baby,Baby Bath & Skin Care,Baby Lotions & Creams,7,Baby food and supplies,high
 10992,062600621962,Aveeno Baby Wash & Shampoo Coconut Scent & Shea Butter 354 ml,Aveeno Baby,Baby,Baby Bath & Skin Care,Baby Shampoo & Wash,8,Cleaning and personal care,high
@@ -120,9 +120,9 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 673251,066721006684,Christie Chips Ahoy! Cookies Original Family Size 460 g,Chips Ahoy!,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
 643005,066721026583,Christie Chips Ahoy! Cookies Rainbow Chocolate Chip 258 g,Chips Ahoy!,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
 949505,066721009036,Christie Chips Ahoy! Cookies Rainbow Family Size 457 g,Chips Ahoy!,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
-506149,066721025456,Christie Oreo Chocolate Sandwich Cookies Mega Stuf 374 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
-642952,066721026637,Christie Oreo Sandwich Cookies Birthday Cake 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
-949506,066721009067,Christie Oreo Sandwich Cookies Fudge Covered 224 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
+506149,066721025456,Christie Oreo Chocolate Sandwich Cookies Mega Stuf 374 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+642952,066721026637,Christie Oreo Sandwich Cookies Birthday Cake 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+949506,066721009067,Christie Oreo Sandwich Cookies Fudge Covered 224 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
 850103,068820136132,Compliments Garlic Bread 284 g (frozen),Compliments,Bread & Bakery,Bread,"Garlic, Raisin & Specialty Bread",other,Fresh/refrigerated or separate store section,medium
 26402,055742575248,Compliments Pie 8-Inch Cherry 680 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Pastries & Danishes,other,Fresh/refrigerated or separate store section,medium
 26416,055742575194,Compliments Pie Apple 8-Inch 750 g (frozen),Compliments,Bread & Bakery,Desserts & Pastries,Pastries & Danishes,other,Fresh/refrigerated or separate store section,medium
@@ -173,21 +173,21 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 458233,047495210217,Nature's Bakery Glucose & lactose Free Whole Wheat Fig Bar Blueberry 340 g,Nature's Bakery,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
 463891,058300427232,Old El Paso Soft Tortilla Bowls Flour 8 Bowls 189 g,Old El Paso,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 998815,058300004983,Old El Paso Tortillas Soft Large 334 g,Old El Paso,Bread & Bakery,"Wraps, Pita & Flatbread",Tortillas & Wraps,other,Fresh/refrigerated or separate store section,medium
-1379435,066721029980,Oreo Cakesters Soft Snack Cakes Double Chocolate 285 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
-6880,066721028129,Oreo Gluten Free Sandwich Cookies Double Stuf Chocolate 353 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
-6688,066721028105,Oreo Original Sandwich Cookies Chocolate Family Size 439 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
-1378191,066721030207,Oreo Sandwich Cookies Brown Sugar Bubble Tea 263 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-642950,066721026668,Oreo Sandwich Cookies Dark Chocolate 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
-642949,066721026606,Oreo Sandwich Cookies Double Stuf Chocolate 261 g,Cross Brand,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
-6785,066721028082,Oreo Sandwich Cookies Double Stuf Chocolate Family Size 436 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
-658223,066721026620,Oreo Sandwich Cookies Double Stuf Golden 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
-6899,066721028099,Oreo Sandwich Cookies Golden Family Size 439 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
-643002,066721026613,Oreo Sandwich Cookies Golden Vanilla 270 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
-206663,066721028921,Oreo Sandwich Cookies Maple Creme Real Quebec Maple Syrup 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
-658264,066721026644,Oreo Sandwich Cookies Mint Creme 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
-3149,066721028266,Oreo Sandwich Cookies Original 20 x 22 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,other,Fresh/refrigerated or separate store section,medium
-643000,066721026590,Oreo Sandwich Cookies Original Chocolate 270 g,Cross Brand,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
-329574,066721028990,Oreo Sandwich Cookies Thins Chocolate 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Snack, candy or soft drink",medium
+1379435,066721029980,Oreo Cakesters Soft Snack Cakes Double Chocolate 285 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+6880,066721028129,Oreo Gluten Free Sandwich Cookies Double Stuf Chocolate 353 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+6688,066721028105,Oreo Original Sandwich Cookies Chocolate Family Size 439 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+1378191,066721030207,Oreo Sandwich Cookies Brown Sugar Bubble Tea 263 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+642950,066721026668,Oreo Sandwich Cookies Dark Chocolate 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+642949,066721026606,Oreo Sandwich Cookies Double Stuf Chocolate 261 g,Cross Brand,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+6785,066721028082,Oreo Sandwich Cookies Double Stuf Chocolate Family Size 436 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+658223,066721026620,Oreo Sandwich Cookies Double Stuf Golden 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+6899,066721028099,Oreo Sandwich Cookies Golden Family Size 439 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+643002,066721026613,Oreo Sandwich Cookies Golden Vanilla 270 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+206663,066721028921,Oreo Sandwich Cookies Maple Creme Real Quebec Maple Syrup 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+658264,066721026644,Oreo Sandwich Cookies Mint Creme 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+3149,066721028266,Oreo Sandwich Cookies Original 20 x 22 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+643000,066721026590,Oreo Sandwich Cookies Original Chocolate 270 g,Cross Brand,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
+329574,066721028990,Oreo Sandwich Cookies Thins Chocolate 261 g,Oreo,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
 7122,813002020330,Promise Gluten Free Loaf Multigrain 480 g (frozen),Promise Gluten Free,Bread & Bakery,Bread,Wheat & Grain Bread,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 965480,813002020132,Promise Gluten-Free Tortillas Original 168 g,Promise Gluten Free,Bread & Bakery,Bread,Wheat & Grain Bread,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 552238,813002020842,Promise Gluten-Free Vegan Rustic White Cob Loaf 400 g (frozen),Promise Gluten Free,Bread & Bakery,Bread,Wheat & Grain Bread,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
@@ -433,12 +433,12 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 990018,"059531001604,059531003905",A&W Soft Drink Diet Root Beer 2 L  (bottle),A&W,Drinks,Soft Drinks,Diet Soft Drinks,9,"Snack, candy or soft drink",medium
 990604,"059531000607,059531002908",A&W Soft Drink Root Beer 2 L (bottle),A&W,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
 691420,059531002823,A&W Soft Drink Root Beer 6 x 222 ml (cans),A&W,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
-1305821,810030516125,Alani Nu Energy Dream Float Drink 355 ml,Alani Nu,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
+1305821,810030516125,Alani Nu Energy Dream Float Drink 355 ml,Alani Nu,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
 1287721,810030511281,Alani Nu Orange Kiss Energy Drink 355 ml,Alani Nu,Drinks,Sports & Energy Drinks,Sports Drinks,9,"Snack, candy or soft drink",medium
 1335727,810030517191,Alani Nu Pink Slush Energy Drink 355 ml,Alani Nu,Drinks,Sports & Energy Drinks,Sports Drinks,9,"Snack, candy or soft drink",medium
 146247,067000012389,Body Armor Sports Drink Fruit Punch 473 ml (bottle),BodyArmor,Drinks,Sports & Energy Drinks,Sports Drinks,4,"Ice cream, fruit, yogurt or juice",medium
-149378,067000012365,Body Armor Sports Drink Orange Mango 473 ml (bottle),BodyArmor,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-146198,067000012327,Body Armor Sports Drink Strawberry Banana 473 ml (bottle),BodyArmor,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
+149378,067000012365,Body Armor Sports Drink Orange Mango 473 ml (bottle),BodyArmor,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+146198,067000012327,Body Armor Sports Drink Strawberry Banana 473 ml (bottle),BodyArmor,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
 867810,062100010389,Canada Dry Diet Soft Drink Ginger Ale 6 x 222 ml (cans),Canada Dry,Drinks,Soft Drinks,Ginger Ale,9,"Snack, candy or soft drink",medium
 693775,062100010426,Canada Dry Mini Soft Drink Club Soda 6 x 222 ml (cans),Canada Dry,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
 271859,062100001448,Canada Dry Mini Soft Drink Ginger Ale 6 x 222 ml (cans),Canada Dry,Drinks,Soft Drinks,Ginger Ale,9,"Snack, candy or soft drink",medium
@@ -457,34 +457,34 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 503216,055742335293,Compliments Soft Drink Root Beer 2 L (bottle),Compliments,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
 997588,056000003084,Crush Soft Drink Cream Soda 2 L (bottle),Crush,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
 997538,056000000908,Crush Soft Drink Orange 2 L (bottle),Crush,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
-205516,068100068429,Crystal Light Drink Mix Pink Lemonade 45 g,Crystal Light,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,,Juice location depends on format,review
+205516,068100068429,Crystal Light Drink Mix Pink Lemonade 45 g,Crystal Light,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,other,Juice location depends on format,review
 205515,068100068382,Crystal Light Drink Mix Singles Lemon Lime 36 g,Crystal Light,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 344025,068100001235,Crystal Light Liquid Drink Mix Blueberry Razz 48 ml,Crystal Light,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 997755,054900000608,Dr Pepper Soft Drink 2 L (bottle),Dr Pepper,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
-28683,067000011535,Fanta Naturally Flavoured Sparkling Beverage Orange 6 × 222 ml,Fanta,Drinks,Soft Drinks,Other Soft Drinks,,No reliable aisle rule matched,review
+28683,067000011535,Fanta Naturally Flavoured Sparkling Beverage Orange 6 × 222 ml,Fanta,Drinks,Soft Drinks,Other Soft Drinks,other,No reliable aisle rule matched,review
 29922,067000011566,Fanta Soft Drink Orange 12 x 355 ml (cans),Fanta,Drinks,Soft Drinks,,9,"Snack, candy or soft drink",medium
 9986,067000011641,Fanta Soft Drink Orange 2 L (bottle),Fanta,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
-1321091,067000013843,Fanta Sparkling Beverage Pineapple 2 L (bottle),Fanta,Drinks,Soft Drinks,Other Soft Drinks,,No reliable aisle rule matched,review
-147538,057271164672,Gatorade G Zero Glacier Cherry Drink 6 X 591 ml,Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
+1321091,067000013843,Fanta Sparkling Beverage Pineapple 2 L (bottle),Fanta,Drinks,Soft Drinks,Other Soft Drinks,other,No reliable aisle rule matched,review
+147538,057271164672,Gatorade G Zero Glacier Cherry Drink 6 X 591 ml,Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
 953095,057271162760,Gatorade Perform Sports Drink Fruit Punch 8 x 355 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,4,"Ice cream, fruit, yogurt or juice",medium
-235462,055577310991,Gatorade Sports Drink 4 Flavour 24 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-75139,055577420515,Gatorade Sports Drink Cool Blue Raspberry 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-235502,055577312780,Gatorade Sports Drink G2 Club Pack 24 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-481203,057271555418,Gatorade Sports Drink Glacier Cherry 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-733542,055577420522,Gatorade Sports Drink Lemon Lime 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-75142,055577420508,Gatorade Sports Drink Orange 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
+235462,055577310991,Gatorade Sports Drink 4 Flavour 24 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+75139,055577420515,Gatorade Sports Drink Cool Blue Raspberry 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+235502,055577312780,Gatorade Sports Drink G2 Club Pack 24 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+481203,057271555418,Gatorade Sports Drink Glacier Cherry 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+733542,055577420522,Gatorade Sports Drink Lemon Lime 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+75142,055577420508,Gatorade Sports Drink Orange 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
 335116,057271163798,Gatorade Zero Drink Mix Powder Orange 10 Pack 30 g,Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-512718,057271164122,Gatorade Zero Sport Drink Glacier Freeze 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-1316860,057271164924,Gatorade Zero Sports Drink Apple Burst 8 x 355 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-953084,057271162647,Gatorade Zero Sports Drink Berry 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-656214,057271164320,Gatorade Zero Sports Drink Grape 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-1316859,057271164900,Gatorade Zero Sports Drink Watermelon Splash 8 x 355 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-395735,055325036555,Glucerna Meal Replacement Supplement Vanilla 6 x 237 ml (bottles),Glucerna,Drinks,Sports & Energy Drinks,Pharmacy & Wellness,,No reliable aisle rule matched,review
+512718,057271164122,Gatorade Zero Sport Drink Glacier Freeze 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+1316860,057271164924,Gatorade Zero Sports Drink Apple Burst 8 x 355 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+953084,057271162647,Gatorade Zero Sports Drink Berry 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+656214,057271164320,Gatorade Zero Sports Drink Grape 6 x 591 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+1316859,057271164900,Gatorade Zero Sports Drink Watermelon Splash 8 x 355 ml (bottles),Gatorade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+395735,055325036555,Glucerna Meal Replacement Supplement Vanilla 6 x 237 ml (bottles),Glucerna,Drinks,Sports & Energy Drinks,Pharmacy & Wellness,other,No reliable aisle rule matched,review
 385304,068100001297,Kool-Aid Liquid Drink Mix Orange 48 ml,Kool-Aid,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 385300,068100001280,Kool-Aid Liquid Drink Mix Tropical Punch 48 ml,Kool-Aid,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-1308736,055000212298,Maison Perrier Sparkling Water Beverage Forever Passion Fruit 1 L,Maison Perrier,Drinks,Water,Sparkling Water,,No reliable aisle rule matched,review
+1308736,055000212298,Maison Perrier Sparkling Water Beverage Forever Passion Fruit 1 L,Maison Perrier,Drinks,Water,Sparkling Water,other,No reliable aisle rule matched,review
 1304662,068100906301,Mio Hydrate Zero Sugar Drink Mix Lemon Lime 10 x 4.5 g,Mio,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-333938,068100905625,Mio Zero Sugar Drink Mix Fruit Punch 10 x 2.6 g,Mio,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,,Juice location depends on format,review
+333938,068100905625,Mio Zero Sugar Drink Mix Fruit Punch 10 x 2.6 g,Mio,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,other,Juice location depends on format,review
 334749,068100905595,Mio Zero Sugar Energy Drink Mix Grape 10 x 3.3 g,Mio,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,9,"Snack, candy or soft drink",medium
 334750,068100905601,Mio Zero Sugar Energy Drink Mix Peach Mango 10 x 2.4 g,Mio,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,9,"Snack, candy or soft drink",medium
 339848,068100905588,Mio Zero Sugar Energy Drink Mix Wild Strawberry 10 × 3.2 g,Mio,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,9,"Snack, candy or soft drink",medium
@@ -500,9 +500,9 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 1307475,070847898801,Monster Zero Sugar Energy Drink Ultra Fantasy Ruby Red 473 ml (can),Monster,Drinks,Sports & Energy Drinks,Energy Drinks,9,"Snack, candy or soft drink",medium
 303665,069000020081,Mountain Dew Soft Drink Citrus 2 L (bottle),Mountain Dew,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
 500817,069000040553,Mug Soft Drink Root Beer 2 L (bottle),Mug,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
-214199,031200444820,Ocean Spray Diet Beverage Cran-Pomegranate 1.89 L (bottle),Ocean Spray,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,,No reliable aisle rule matched,review
-343085,031200015952,Ocean Spray Diet Beverage Cranberry Cherry 1.89 L,Ocean Spray,Drinks,Fruit & Vegetable Juice,Cranberry Juice,,No reliable aisle rule matched,review
-214197,031200444813,Ocean Spray Juice Diet Beverage Cranberry 1.89 L (bottle),Ocean Spray,Drinks,Fruit & Vegetable Juice,Cranberry Juice,,No reliable aisle rule matched,review
+214199,031200444820,Ocean Spray Diet Beverage Cran-Pomegranate 1.89 L (bottle),Ocean Spray,Drinks,Fruit & Vegetable Juice,Fruit Blends & Other Juices,other,No reliable aisle rule matched,review
+343085,031200015952,Ocean Spray Diet Beverage Cranberry Cherry 1.89 L,Ocean Spray,Drinks,Fruit & Vegetable Juice,Cranberry Juice,other,No reliable aisle rule matched,review
+214197,031200444813,Ocean Spray Juice Diet Beverage Cranberry 1.89 L (bottle),Ocean Spray,Drinks,Fruit & Vegetable Juice,Cranberry Juice,other,No reliable aisle rule matched,review
 1287847,788434115766,One Gluten-Free Protein Bar Hershey's Cookies 'N' Creme 60 g,One,Drinks,Sports & Energy Drinks,Pharmacy & Wellness,9,"Snack, candy or soft drink",medium
 1285887,788434115742,One Reese's Protein Bar Peanut Butter 60 g,One,Drinks,Sports & Energy Drinks,Pharmacy & Wellness,9,"Snack, candy or soft drink",medium
 997745,069000204283,Pepsi Caffeine-Free Diet Soft Drink 12 x 355 ml (cans),Pepsi,Drinks,Soft Drinks,Diet Soft Drinks,9,"Snack, candy or soft drink",medium
@@ -516,26 +516,26 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 180936,069000013717,Pepsi Soft Drink Zero Sugar 12 x 355 ml (cans),Pepsi,Drinks,Soft Drinks,,9,"Snack, candy or soft drink",medium
 22537,069000159941,Pepsi Zero Sugar Soft Drink Wild Cherry 12 x 355 ml (cans),Pepsi,Drinks,Soft Drinks,,9,"Snack, candy or soft drink",medium
 481932,067000004865,Powerade Sports Drink Fruit Punch 710 ml (bottle),Powerade,Drinks,Sports & Energy Drinks,Sports Drinks,4,"Ice cream, fruit, yogurt or juice",medium
-481933,067000004896,Powerade Sports Drink Grape 710 ml (bottle),Powerade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-481948,067000004889,Powerade Sports Drink Melon Pineapple 710 ml (bottle),Powerade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
-481941,067000004858,Powerade Sports Drink Mixed Berry 710 ml (bottle),Powerade,Drinks,Sports & Energy Drinks,Sports Drinks,,No reliable aisle rule matched,review
+481933,067000004896,Powerade Sports Drink Grape 710 ml (bottle),Powerade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+481948,067000004889,Powerade Sports Drink Melon Pineapple 710 ml (bottle),Powerade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
+481941,067000004858,Powerade Sports Drink Mixed Berry 710 ml (bottle),Powerade,Drinks,Sports & Energy Drinks,Sports Drinks,other,No reliable aisle rule matched,review
 9885,067000011887,Powerade Zero Sugar Sports Drink Fruit Punch 710 ml (bottle),Powerade,Drinks,Sports & Energy Drinks,Sports Drinks,4,"Ice cream, fruit, yogurt or juice",medium
 31507,629071000414,Red Bull Energy Drink The Red Edition Watermelon 250 ml (can),Red Bull,Drinks,Sports & Energy Drinks,Energy Drinks,9,"Snack, candy or soft drink",medium
-903014,055000201483,San Pellegrino Italian Sparkling Drink Limonata 6 x 330 ml (cans),San Pellegrino,Drinks,Water,Sparkling Water,,No reliable aisle rule matched,review
-332688,055000210485,San Pellegrino Sparkling Beverage Light Blood Orange 6 x 330 ml (cans),San Pellegrino,Drinks,Water,Sparkling Water,,No reliable aisle rule matched,review
-332690,055000210560,San Pellegrino Sparkling Beverage Light Pomegranate & Orange 6 x 330 ml (cans),San Pellegrino,Drinks,Water,Sparkling Water,,No reliable aisle rule matched,review
-840926,627987473704,Sperri Plant Based Meal Replacement Vanilla Maple 330 ml,Sperri,Drinks,Sports & Energy Drinks,Local,,No reliable aisle rule matched,review
+903014,055000201483,San Pellegrino Italian Sparkling Drink Limonata 6 x 330 ml (cans),San Pellegrino,Drinks,Water,Sparkling Water,other,No reliable aisle rule matched,review
+332688,055000210485,San Pellegrino Sparkling Beverage Light Blood Orange 6 x 330 ml (cans),San Pellegrino,Drinks,Water,Sparkling Water,other,No reliable aisle rule matched,review
+332690,055000210560,San Pellegrino Sparkling Beverage Light Pomegranate & Orange 6 x 330 ml (cans),San Pellegrino,Drinks,Water,Sparkling Water,other,No reliable aisle rule matched,review
+840926,627987473704,Sperri Plant Based Meal Replacement Vanilla Maple 330 ml,Sperri,Drinks,Sports & Energy Drinks,Local,other,No reliable aisle rule matched,review
 266513,067000109867,Sprite Mini Soft Drink Lemon & Lime 6 x 222 ml (cans),Sprite,Drinks,Soft Drinks,Other Soft Drinks,9,"Snack, candy or soft drink",medium
-958031,055742568349,Best Buy Frozen Spring Rolls Chicken 600 g,Best Buy,Everyday Value,Frozen,Frozen Appetizers,,No reliable aisle rule matched,review
+958031,055742568349,Best Buy Frozen Spring Rolls Chicken 600 g,Best Buy,Everyday Value,Frozen,Frozen Appetizers,other,No reliable aisle rule matched,review
 229087,055742501933,Compliments Aluminum Foil 12 Inch x 25 Feet,Compliments,Everyday Value,Kitchen & Household,Food Wraps & Containers,7,Household paper and food storage,high
-947608,068820133674,Compliments Deli Sliced Meat Herb Turkey Breast 175 g,Compliments,Everyday Value,Cheese & Deli,Deli Meats,,No reliable aisle rule matched,review
-934707,068820133728,Compliments Extra Lean Roast Turkey Breast Thinly Sliced Meat 175 g,Compliments,Everyday Value,Cheese & Deli,Deli Meats,,No reliable aisle rule matched,review
-934722,068820133698,Compliments Extra Lean Smoked Turkey Breast Thinly Sliced Meat 175 g,Compliments,Everyday Value,Cheese & Deli,Deli Meats,,No reliable aisle rule matched,review
+947608,068820133674,Compliments Deli Sliced Meat Herb Turkey Breast 175 g,Compliments,Everyday Value,Cheese & Deli,Deli Meats,other,No reliable aisle rule matched,review
+934707,068820133728,Compliments Extra Lean Roast Turkey Breast Thinly Sliced Meat 175 g,Compliments,Everyday Value,Cheese & Deli,Deli Meats,other,No reliable aisle rule matched,review
+934722,068820133698,Compliments Extra Lean Smoked Turkey Breast Thinly Sliced Meat 175 g,Compliments,Everyday Value,Cheese & Deli,Deli Meats,other,No reliable aisle rule matched,review
 674614,055742540765,Compliments Filled Pasta Cheese Tortellini 350 g,Compliments,Everyday Value,Ready To Eat,Fresh Pasta & Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 674573,055742541564,Compliments Filled Pasta Ravioli Cheese And Spinach 350 g,Compliments,Everyday Value,Ready To Eat,Fresh Pasta & Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 1295083,055742577600,Compliments Filled Pasta Tri-Colour Cheese Tortellini 350 g,Compliments,Everyday Value,Ready To Eat,Fresh Pasta & Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 934735,068820133544,Compliments Gluten-Free Thinly Sliced Black Forest Ham Extra Lean 175 g,Compliments,Everyday Value,Cheese & Deli,Deli Meats,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-16160,055742572643,Compliments Lavender Eucalyptus 250 ml,Compliments,Everyday Value,Personal Care & Beauty,"Soap, Bath & Shower",,No reliable aisle rule matched,review
+16160,055742572643,Compliments Lavender Eucalyptus 250 ml,Compliments,Everyday Value,Personal Care & Beauty,"Soap, Bath & Shower",other,No reliable aisle rule matched,review
 674768,055742540604,Compliments Linguine Nests Pasta 350 g,Compliments,Everyday Value,Ready To Eat,Fresh Pasta & Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 674763,055742540475,Compliments Pasta Fettuccine Nests 350 g,Compliments,Everyday Value,Ready To Eat,Fresh Pasta & Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 1295078,055742577563,Compliments Pasta Italian Sausage Tortelloni 350 g,Compliments,Everyday Value,Ready To Eat,Fresh Pasta & Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
@@ -547,9 +547,9 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 477442,068820130871,Compliments Salad Elbow Macaroni 454 g,Compliments,Everyday Value,Fresh Fruits & Vegetables,Packaged Salads & Dressing,produce,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 477014,068820130925,Compliments Salad Potato & Egg 454 g,Compliments,Everyday Value,Fresh Fruits & Vegetables,Packaged Salads & Dressing,produce,No reliable aisle rule matched,review
 477021,068820130956,Compliments Salad Potato 454 g,Compliments,Everyday Value,Fresh Fruits & Vegetables,Packaged Salads & Dressing,produce,No reliable aisle rule matched,review
-242638,068820121688,Compliments Sausages Wieners 12 Pack 450 g,Compliments,Everyday Value,Meat,Hot Dogs & Sausages,,No reliable aisle rule matched,review
+242638,068820121688,Compliments Sausages Wieners 12 Pack 450 g,Compliments,Everyday Value,Meat,Hot Dogs & Sausages,other,No reliable aisle rule matched,review
 934724,068820133537,Compliments Smoked Honey Ham Extra Lean 175 g,Compliments,Everyday Value,Cheese & Deli,Deli Meats,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-666408,063100006204,Maple Leaf Ready Crisp Natural Bacon Bits Fully Cooked 85 g,Maple Leaf,Everyday Value,Meat,Pork,,No reliable aisle rule matched,review
+666408,063100006204,Maple Leaf Ready Crisp Natural Bacon Bits Fully Cooked 85 g,Maple Leaf,Everyday Value,Meat,Pork,other,No reliable aisle rule matched,review
 510542,629025350459,iÖGO Nanö Lactose-Free 1% Drinkable Yogurt Strawberry-Banana 6 x 93 ml,Iögo,Everyday Value,Dairy & Eggs,Yogurt,4,"Ice cream, fruit, yogurt or juice",medium
 320059,629025350060,iÖGO nanö 1% Drinkable Yogurt Raspberry 6 x 93 ml,iÖGO nanö,Everyday Value,Dairy & Eggs,Yogurt,4,"Ice cream, fruit, yogurt or juice",medium
 320061,629025350046,iÖGO nanö 1% Drinkable Yogurt Strawberry 6 x 93 ml,iÖGO nanö,Everyday Value,Dairy & Eggs,Yogurt,4,"Ice cream, fruit, yogurt or juice",medium
@@ -663,10 +663,10 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 113251,"033383600031,203412000006,812396017162,627744001058,885677713107,623347080056,040696013052,033383600055,896942000051,779880120527,067523011050,063717061054,627888000030,061925002562,059749900157,204668000000",Yellow Onions 2.27 kg,,Fresh Fruits & Vegetables,Vegetables,Onions & Shallots,produce,Fresh/refrigerated or separate store section,medium
 408915,055742552249,Best Buy Frozen Peas and Carrots 2 kg,Best Buy,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,3,"Frozen meals, pizza, sides or vegetables",medium
 408966,055742552492,Best Buy Frozen Vegetables Mixed 750 g,Best Buy,Frozen,Frozen Fruits & Vegetables,Frozen Vegetable Mixes,3,"Frozen meals, pizza, sides or vegetables",medium
-407944,055742552539,Best Buy Frozen Vegetables Peas And Carrots 750 g,Best Buy,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,,Frozen product needs aisle 2/3/4 verification,review
+407944,055742552539,Best Buy Frozen Vegetables Peas And Carrots 750 g,Best Buy,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,other,Frozen product needs aisle 2/3/4 verification,review
 1006375,057000013035,CRAVE Frozen Fried Rice Jerk Chicken 300 g,Crave,Frozen,"Frozen Meals, Entrees & Sides",Frozen Pasta Dinners,3,"CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",high
-653113,696685100014,Carbonaut Plant Based Frozen White Bread 544 g,Carbonaut,Frozen,Frozen Bread & Breakfast,Frozen Bread & Buns,,Frozen product needs aisle 2/3/4 verification,review
-653114,696685100021,Carbonaut Plant Based Seeded Bread Multigrain 544 g (frozen),Carbonaut,Frozen,Frozen Bread & Breakfast,Frozen Bread & Buns,,Frozen product needs aisle 2/3/4 verification,review
+653113,696685100014,Carbonaut Plant Based Frozen White Bread 544 g,Carbonaut,Frozen,Frozen Bread & Breakfast,Frozen Bread & Buns,other,Frozen product needs aisle 2/3/4 verification,review
+653114,696685100021,Carbonaut Plant Based Seeded Bread Multigrain 544 g (frozen),Carbonaut,Frozen,Frozen Bread & Breakfast,Frozen Bread & Buns,other,Frozen product needs aisle 2/3/4 verification,review
 358894,061763060335,Catch Of The Day Frozen Tilapia Filets 750 g,Catch Of The Day,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 313649,061763061141,Catch of the Day Frozen Pink Salmon Fillets 680 g,Catch Of The Day,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 756991,062942002771,Chapman's Frozen Yogurt Three Of A Kind Vanilla 2 L,Chapman's,Frozen,Ice Cream & Treats,"Frozen Yogurt, Gelato & Sorbet",4,"Ice cream, fruit, yogurt or juice",medium
@@ -681,16 +681,16 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 8971,055742572957,Compliments Frozen Battered Chicken General Tao 400 g,Compliments,Frozen,"Frozen Meals, Entrees & Sides",Frozen Dinners,3,Prepared frozen dinner/entrée similar to CRAVE (verified category and product name),high
 329658,055742527148,Compliments Frozen Beef Lasagna 1 kg,Compliments,Frozen,"Frozen Meals, Entrees & Sides",Frozen Pasta Dinners,3,Prepared frozen dinner/entrée similar to CRAVE (verified category and product name),high
 329657,055742527513,Compliments Frozen Beef Lasagna Value Size 2.27 kg,Compliments,Frozen,"Frozen Meals, Entrees & Sides",Frozen Pasta Dinners,3,Prepared frozen dinner/entrée similar to CRAVE (verified category and product name),high
-399174,055742533408,Compliments Frozen Blueberries 600 g,Compliments,Frozen,Frozen Fruits & Vegetables,Frozen Fruits,,Frozen product needs aisle 2/3/4 verification,review
-503609,055742558821,Compliments Frozen Breaded Chicken Burger Fully Cooked 1.47 kg,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,,Frozen product needs aisle 2/3/4 verification,review
-656876,055742555905,Compliments Frozen Breaded Spicy Chicken Wings 800 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,,Frozen product needs aisle 2/3/4 verification,review
+399174,055742533408,Compliments Frozen Blueberries 600 g,Compliments,Frozen,Frozen Fruits & Vegetables,Frozen Fruits,other,Frozen product needs aisle 2/3/4 verification,review
+503609,055742558821,Compliments Frozen Breaded Chicken Burger Fully Cooked 1.47 kg,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,other,Frozen product needs aisle 2/3/4 verification,review
+656876,055742555905,Compliments Frozen Breaded Spicy Chicken Wings 800 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,other,Frozen product needs aisle 2/3/4 verification,review
 326594,055742527322,Compliments Frozen Broccoli Florets 500 g,Compliments,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,3,"Frozen meals, pizza, sides or vegetables",medium
-363170,055742530520,Compliments Frozen Cheese Sticks Cheddar Bacon 325 g,Compliments,Frozen,Frozen Appetizers,,,Frozen product needs aisle 2/3/4 verification,review
-476978,055742557374,Compliments Frozen Chicken Balls With Sweet & Sour Sauce 700 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,,Frozen product needs aisle 2/3/4 verification,review
-421966,055742551716,Compliments Frozen Chicken Strips Fully Cooked 1.5 kg,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,,Frozen product needs aisle 2/3/4 verification,review
-522222,055742555936,Compliments Frozen Chicken Wings Buffalo Style 800 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,,Frozen product needs aisle 2/3/4 verification,review
-522224,055742555943,Compliments Frozen Chicken Wings Smoky BBQ 800 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,,Frozen product needs aisle 2/3/4 verification,review
-224085,055742501452,Compliments Frozen Chopped Spinach 500 g,Compliments,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,,Frozen product needs aisle 2/3/4 verification,review
+363170,055742530520,Compliments Frozen Cheese Sticks Cheddar Bacon 325 g,Compliments,Frozen,Frozen Appetizers,,other,Frozen product needs aisle 2/3/4 verification,review
+476978,055742557374,Compliments Frozen Chicken Balls With Sweet & Sour Sauce 700 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,other,Frozen product needs aisle 2/3/4 verification,review
+421966,055742551716,Compliments Frozen Chicken Strips Fully Cooked 1.5 kg,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,other,Frozen product needs aisle 2/3/4 verification,review
+522222,055742555936,Compliments Frozen Chicken Wings Buffalo Style 800 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,other,Frozen product needs aisle 2/3/4 verification,review
+522224,055742555943,Compliments Frozen Chicken Wings Smoky BBQ 800 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,other,Frozen product needs aisle 2/3/4 verification,review
+224085,055742501452,Compliments Frozen Chopped Spinach 500 g,Compliments,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,other,Frozen product needs aisle 2/3/4 verification,review
 920804,055742567892,Compliments Frozen Entrée Chicken Korma 280 g,Compliments,Frozen,"Frozen Meals, Entrees & Sides",Frozen Dinners,3,"Frozen meals, pizza, sides or vegetables",medium
 6207,055742573244,Compliments Frozen Haddock Fillets Battered 575 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 43805,055742365771,Compliments Frozen Jumbleberry Fruit Blend 600 g,Compliments,Frozen,Frozen Fruits & Vegetables,Frozen Fruit Mixes,4,"Ice cream, fruit, yogurt or juice",medium
@@ -698,8 +698,8 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 329656,055742527520,Compliments Frozen Lasagna Vegetable 1 kg,Compliments,Frozen,"Frozen Meals, Entrees & Sides",Frozen Pasta Dinners,3,"Frozen meals, pizza, sides or vegetables",medium
 749930,055742544244,Compliments Frozen Loins Pacific Pink Wild Salmon 227 g,Compliments,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 149318,055742576177,Compliments Frozen Mini Pizza Three Cheese 736 g,Compliments,Frozen,Frozen Pizza,,3,"Frozen meals, pizza, sides or vegetables",medium
-229489,055742500516,Compliments Frozen Waffles Cinnamon Toast 8 Pack 280 g,Compliments,Frozen,Frozen Bread & Breakfast,"Frozen Waffles, Pancakes & Egg Bakes",,Frozen product needs aisle 2/3/4 verification,review
-229490,055742500547,Compliments Frozen Waffles Original 8 Pack 280 g,Compliments,Frozen,Frozen Bread & Breakfast,"Frozen Waffles, Pancakes & Egg Bakes",,Frozen product needs aisle 2/3/4 verification,review
+229489,055742500516,Compliments Frozen Waffles Cinnamon Toast 8 Pack 280 g,Compliments,Frozen,Frozen Bread & Breakfast,"Frozen Waffles, Pancakes & Egg Bakes",other,Frozen product needs aisle 2/3/4 verification,review
+229490,055742500547,Compliments Frozen Waffles Original 8 Pack 280 g,Compliments,Frozen,Frozen Bread & Breakfast,"Frozen Waffles, Pancakes & Egg Bakes",other,Frozen product needs aisle 2/3/4 verification,review
 3310,055742572278,Compliments Ice Cream Unicorn Twirl 1.5 L,Compliments,Frozen,Ice Cream & Treats,Ice Cream Tubs,4,"Ice cream, fruit, yogurt or juice",medium
 163910,055742377781,Compliments Potato and Cheddar Perogies 2 kg (frozen),Compliments,Frozen,"Frozen Meals, Entrees & Sides",Frozen Perogies & Dumplings,3,"Frozen meals, pizza, sides or vegetables",medium
 519786,057000000837,Crave Frozen Breakfast Bacon & Egg Scramble With Cheddar Cheese 200 g,CRAVE,Frozen,"Frozen Meals, Entrees & Sides",Frozen Pasta Dinners,3,"CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",high
@@ -715,9 +715,9 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 1377203,058336690075,Dr. Oetker Ristorante Frozen Thin Crust Pizza Pickled Chili Peppers Spicy Tomato 362 g,Dr Oetker,Frozen,Frozen Pizza,,3,"Frozen meals, pizza, sides or vegetables",medium
 610712,627985000117,Eight Treasures Frozen Whole Uncooked Pompano 800 g,Eight Treasures,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 433995,627985000063,Eight Treasures Frozen Whole Uncooked Tilapia 1.36 kg,Eight Treasures,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-1308570,055270974025,Grace Mild Beef Patties 600 g,,Frozen,Frozen Appetizers,Meat,,Frozen product needs aisle 2/3/4 verification,review
-143456,190569141730,Green Giant Cut Broccoli Valley Selections 500 g (frozen),Green Giant,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,,Frozen product needs aisle 2/3/4 verification,review
-190533,190569423225,Green Giant Frozen Cut Green Beans 750 g,Green Giant,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,,Frozen product needs aisle 2/3/4 verification,review
+1308570,055270974025,Grace Mild Beef Patties 600 g,,Frozen,Frozen Appetizers,Meat,other,Frozen product needs aisle 2/3/4 verification,review
+143456,190569141730,Green Giant Cut Broccoli Valley Selections 500 g (frozen),Green Giant,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,other,Frozen product needs aisle 2/3/4 verification,review
+190533,190569423225,Green Giant Frozen Cut Green Beans 750 g,Green Giant,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,other,Frozen product needs aisle 2/3/4 verification,review
 143455,190569141686,Green Giant Frozen Vegetable Mixes Valley Selections Bean & Carrots 500 g,Green Giant,Frozen,Frozen Fruits & Vegetables,Frozen Vegetables,3,"Frozen meals, pizza, sides or vegetables",medium
 143458,190569141716,Green Giant Valley Selections California Mix 500 g (frozen),Green Giant,Frozen,Frozen Fruits & Vegetables,Frozen Vegetable Mixes,3,"Frozen meals, pizza, sides or vegetables",medium
 317520,190569430926,Green Giant Valley Selections Frozen Vegetables Seasoned Asian Blend 400 g,Green Giant,Frozen,Frozen Fruits & Vegetables,Frozen Vegetable Mixes,3,"Frozen meals, pizza, sides or vegetables",medium
@@ -744,13 +744,13 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 501174,055000382397,Häagen-Dazs Exträaz Ice Cream Bars Strawberry Cheesecake 3 x 72 ml,Haagen-Dazs,Frozen,Ice Cream & Treats,Ice Cream Bars & Treats,4,"Ice cream, fruit, yogurt or juice",medium
 149014,055000840231,Häagen-Dazs Ice Cream Bars Minis Vanilla Milk 4 x 55 ml,Häagen-Dazs,Frozen,Ice Cream & Treats,Ice Cream Bars & Treats,4,"Ice cream, fruit, yogurt or juice",medium
 1387300,055000217361,IOGO Ice Cream Mixed Berry & Strawberry Banana Variety 16 x 50 ml,IOGO,Frozen,Ice Cream & Treats,Popsicles & Fruit Bars,4,"Ice cream, fruit, yogurt or juice",medium
-959276,069299118117,Janes Frozen Chicken Boneless Bites Buffalo 710 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,,Frozen product needs aisle 2/3/4 verification,review
-959490,069299605273,Janes Frozen Chicken Wings Classic BBQ 754 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,,Frozen product needs aisle 2/3/4 verification,review
-959423,069299605297,Janes Frozen Chicken Wings Sea Salt & Pepper 754 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,,Frozen product needs aisle 2/3/4 verification,review
-959422,069299605280,Janes Frozen Fully Cooked Chicken Wings Buffalo 754 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,,Frozen product needs aisle 2/3/4 verification,review
+959276,069299118117,Janes Frozen Chicken Boneless Bites Buffalo 710 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,other,Frozen product needs aisle 2/3/4 verification,review
+959490,069299605273,Janes Frozen Chicken Wings Classic BBQ 754 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,other,Frozen product needs aisle 2/3/4 verification,review
+959423,069299605297,Janes Frozen Chicken Wings Sea Salt & Pepper 754 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,other,Frozen product needs aisle 2/3/4 verification,review
+959422,069299605280,Janes Frozen Fully Cooked Chicken Wings Buffalo 754 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Chicken Wings & Drumsticks,other,Frozen product needs aisle 2/3/4 verification,review
 1359427,069299221992,Janes Frozen Haddock Beer Battered 450 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 15388,069299242164,Janes Frozen Tempura Battered Breaded Pollock Fish Uncooked 510 g,Janes,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-292726,055498060258,Krinos Cheese Fillo Twisters 1 kg (frozen),Krinos,Frozen,Frozen Appetizers,International Foods,,Frozen product needs aisle 2/3/4 verification,review
+292726,055498060258,Krinos Cheese Fillo Twisters 1 kg (frozen),Krinos,Frozen,Frozen Appetizers,International Foods,other,Frozen product needs aisle 2/3/4 verification,review
 1427689,990762987650,Marigold Frozen Butter Chicken 354 g,Marigold,Frozen,"Frozen Meals, Entrees & Sides",Frozen Pasta Dinners,3,Prepared frozen dinner/entrée similar to CRAVE (verified category and product name),high
 1427690,990762873427,Marigold Frozen Entree Chicken Tikka Masala With Basmati Rice 354 g,MARIGOLD,Frozen,"Frozen Meals, Entrees & Sides",Frozen Pasta Dinners,3,"Frozen meals, pizza, sides or vegetables",medium
 1427691,990762000014,Marigold Frozen Entrée Chana Masala 354 g,Marigold,Frozen,"Frozen Meals, Entrees & Sides",Frozen Pasta Dinners,3,"Frozen meals, pizza, sides or vegetables",medium
@@ -775,7 +775,7 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 961704,069052129497,Pillsbury Pizza Pops Frozen Pizza Snack Deluxe 380 g,Pillsbury,Frozen,Frozen Pizza,,3,"Frozen meals, pizza, sides or vegetables",medium
 961706,069052129480,Pillsbury Pizza Pops Frozen Pizza Snack Pepperoni + Bacon 380 g,Pillsbury,Frozen,Frozen Pizza,,3,"Frozen meals, pizza, sides or vegetables",medium
 961705,069052129534,Pillsbury Pizza Pops Frozen Pizza Snack Pepperoni 380 g,Pillsbury,Frozen,Frozen Pizza,,3,"Frozen meals, pizza, sides or vegetables",medium
-1353076,069094635932,"Pintys  Breast Chunks, Seasoned, Breaded, Uncooked, 17% Meat Protein Chicken 730 g",Pintys,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,,Frozen product needs aisle 2/3/4 verification,review
+1353076,069094635932,"Pintys  Breast Chunks, Seasoned, Breaded, Uncooked, 17% Meat Protein Chicken 730 g",Pintys,Frozen,Frozen Meat & Seafood,Frozen Chicken Nuggets & Strips,other,Frozen product needs aisle 2/3/4 verification,review
 21874,837464001010,Rustica Frozen Pizza Stuffed Crust Pepperoni 665 g,Rustica,Frozen,Frozen Pizza,,3,"Frozen meals, pizza, sides or vegetables",medium
 6301,"064045102013,666050000027,228120000001",Shoal Water Seafoods Boned Salted Cod 454 g,,Frozen,Frozen Meat & Seafood,Frozen Fish,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 894281,063211060201,Swanson Frozen Beef Pot Pie 200 g,Swanson,Frozen,"Frozen Meals, Entrees & Sides",Frozen Dinners,3,Prepared frozen dinner/entrée similar to CRAVE (verified category and product name),high
@@ -877,29 +877,29 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 275774,737297000085,Vitamalt Non-Alcoholic Malt Beverage Classic 330 ml (bottle),Vitamalt,International Foods,Caribbean,Drinks,1,International foods and rice,medium
 149831,057351121007,Alcan Aluminum Foil The Strong One 12 Inch x 100 Feet,Alcan,Kitchen & Household,Food Wraps & Containers,Aluminum Foil,7,Household paper and food storage,high
 748206,057351118359,Alcan Non-Stick Aluminum Foil Extra Wide 18 Inch x 35 Feet,Alcan,Kitchen & Household,Food Wraps & Containers,Aluminum Foil,7,Household paper and food storage,high
-608963,065333005252,Arm & Hammer Pet Fresh Carpet Deodorizer 700 g,Arm & Hammer,Kitchen & Household,Air Fresheners & Deodorizers,,,No reliable aisle rule matched,review
+608963,065333005252,Arm & Hammer Pet Fresh Carpet Deodorizer 700 g,Arm & Hammer,Kitchen & Household,Air Fresheners & Deodorizers,,other,No reliable aisle rule matched,review
 1297792,055742578348,Best Buy Paper Towel 2-Ply 2 Double Rolls x 135 Sheets,Best Buy,Kitchen & Household,Paper Products,Paper Towel,7,Household paper and food storage,high
 165177,037000800699,Bounce Dryer Sheets Fresh Linen 80 Count,Bounce,Kitchen & Household,Laundry,Fabric Softener,8,Cleaning and personal care,high
 990356,037000570875,Bounce Fabric Softener Sheets Pet & Lint Fresh 2 Pack 120 Count,Bounce,Kitchen & Household,Laundry,Fabric Softener,8,Cleaning and personal care,high
 43346,037000570714,Bounce Pet Fabric Softener Sheets Fresh Scent 40 Sheets,Bounce,Kitchen & Household,Laundry,Fabric Softener,8,Cleaning and personal care,high
-177416,078291310825,CLR Remover Calcium Lime Rust 828 ml,CLR,Kitchen & Household,Cleaning,All Purpose Cleaners,,No reliable aisle rule matched,review
+177416,078291310825,CLR Remover Calcium Lime Rust 828 ml,CLR,Kitchen & Household,Cleaning,All Purpose Cleaners,other,No reliable aisle rule matched,review
 71447,055742576030,Compliments Automatic Toilet Bowl Cleaner Tablets 2 Pack,Compliments,Kitchen & Household,Cleaning,All Purpose Cleaners,8,Cleaning and personal care,high
-233159,055742506518,Compliments Cellulose Scour Sponge 2 Pack,Compliments,Kitchen & Household,Cleaning,All Purpose Cleaners,,No reliable aisle rule matched,review
-698335,055742546583,Compliments Containers Small Twist Lock Round 3 Count,Compliments,Kitchen & Household,Food Wraps & Containers,Food Storage Containers,,No reliable aisle rule matched,review
-698334,055742546576,Compliments Containers Square Small 4 Pack,Compliments,Kitchen & Household,Food Wraps & Containers,Food Storage Containers,,No reliable aisle rule matched,review
-358931,055742530278,Compliments Disinfecting Wipes Fresh Scent 35 Sheets,Compliments,Kitchen & Household,Cleaning,All Purpose Cleaners,,No reliable aisle rule matched,review
-358933,055742530261,Compliments Disinfecting Wipes Lemon Scent 35 Sheets,Compliments,Kitchen & Household,Cleaning,All Purpose Cleaners,,No reliable aisle rule matched,review
+233159,055742506518,Compliments Cellulose Scour Sponge 2 Pack,Compliments,Kitchen & Household,Cleaning,All Purpose Cleaners,other,No reliable aisle rule matched,review
+698335,055742546583,Compliments Containers Small Twist Lock Round 3 Count,Compliments,Kitchen & Household,Food Wraps & Containers,Food Storage Containers,other,No reliable aisle rule matched,review
+698334,055742546576,Compliments Containers Square Small 4 Pack,Compliments,Kitchen & Household,Food Wraps & Containers,Food Storage Containers,other,No reliable aisle rule matched,review
+358931,055742530278,Compliments Disinfecting Wipes Fresh Scent 35 Sheets,Compliments,Kitchen & Household,Cleaning,All Purpose Cleaners,other,No reliable aisle rule matched,review
+358933,055742530261,Compliments Disinfecting Wipes Lemon Scent 35 Sheets,Compliments,Kitchen & Household,Cleaning,All Purpose Cleaners,other,No reliable aisle rule matched,review
 5234,055742573343,Compliments Facial Tissue 2-Ply 1 Box x 126 Sheets,Compliments,Kitchen & Household,Paper Products,Facial Tissue,7,Household paper and food storage,high
 477012,055742533910,Compliments Laundry Stain Remover 650 ml,Compliments,Kitchen & Household,Laundry,Bleach & Stain Removers,8,Cleaning and personal care,high
 265142,055742516111,Compliments Plastic Wrap 90 m,Compliments,Kitchen & Household,Food Wraps & Containers,Plastic Wrap,7,Household paper and food storage,high
-439007,055742339499,Compliments Premium Dinner Napkins 2-Ply 100 Sheets,Compliments,Kitchen & Household,Paper Products,Napkins,,No reliable aisle rule matched,review
-248776,055742509366,Compliments Sandwich Bags Resealable 100 EA,Compliments,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,,No reliable aisle rule matched,review
-248777,055742509373,Compliments Snack Bags Resealable 75 Count,Compliments,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,,No reliable aisle rule matched,review
-698640,055742546552,Compliments Square Medium Containers 3 Count,Compliments,Kitchen & Household,Food Wraps & Containers,Food Storage Containers,,No reliable aisle rule matched,review
-367233,055742000160,Compliments Toilet Paper Green Care 2-Ply 12 Rolls x 242 Sheets,Compliments,Kitchen & Household,Paper Products,Toilet Paper,,No reliable aisle rule matched,review
-4770,055742573299,Compliments Toilet Paper Satiny Soft 2-Ply 12 Rolls x 242 Sheets,Compliments,Kitchen & Household,Paper Products,Toilet Paper,,No reliable aisle rule matched,review
+439007,055742339499,Compliments Premium Dinner Napkins 2-Ply 100 Sheets,Compliments,Kitchen & Household,Paper Products,Napkins,other,No reliable aisle rule matched,review
+248776,055742509366,Compliments Sandwich Bags Resealable 100 EA,Compliments,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,other,No reliable aisle rule matched,review
+248777,055742509373,Compliments Snack Bags Resealable 75 Count,Compliments,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,other,No reliable aisle rule matched,review
+698640,055742546552,Compliments Square Medium Containers 3 Count,Compliments,Kitchen & Household,Food Wraps & Containers,Food Storage Containers,other,No reliable aisle rule matched,review
+367233,055742000160,Compliments Toilet Paper Green Care 2-Ply 12 Rolls x 242 Sheets,Compliments,Kitchen & Household,Paper Products,Toilet Paper,other,No reliable aisle rule matched,review
+4770,055742573299,Compliments Toilet Paper Satiny Soft 2-Ply 12 Rolls x 242 Sheets,Compliments,Kitchen & Household,Paper Products,Toilet Paper,other,No reliable aisle rule matched,review
 33941,055742575972,Compliments Wax Paper 22.9 m 1 Count,Compliments,Kitchen & Household,Food Wraps & Containers,Wax Paper & Parchment Paper,7,Household paper and food storage,high
-357345,036000359701,Cottonelle Fresh Care Flushable Wet Wipes 2 Packs x 42 Wipes,Cottonelle,Kitchen & Household,Paper Products,Toilet Paper,,No reliable aisle rule matched,review
+357345,036000359701,Cottonelle Fresh Care Flushable Wet Wipes 2 Packs x 42 Wipes,Cottonelle,Kitchen & Household,Paper Products,Toilet Paper,other,No reliable aisle rule matched,review
 1379081,030772226551,Dawn Fresh Rain Platinum Dish Detergent 2.01 l,Dawn,Kitchen & Household,Kitchen Supplies,Dish Detergent,8,Cleaning and personal care,high
 922530,030772009086,Dawn Ultra Concentré Dish Soap Ez-Squeeze Original 650 ml,Dawn,Kitchen & Household,Kitchen Supplies,Dish Detergent,8,Cleaning and personal care,high
 922562,030772008652,Dawn Ultra Dish Detergent Original 2.64 L,Dawn,Kitchen & Household,Kitchen Supplies,Dish Detergent,8,Cleaning and personal care,high
@@ -932,7 +932,7 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 189044,059631752277,Lysol All Purpose Cleaner Lemon 650 ml,Lysol,Kitchen & Household,Cleaning,All Purpose Cleaners,8,Cleaning and personal care,high
 631561,019200789158,Lysol Bathroom Bleach Cleaner 950 ml,Lysol,Kitchen & Household,Cleaning,All Purpose Cleaners,8,Cleaning and personal care,high
 127927,059631759337,Lysol Bathroom Cleaner Summer Fresh 950 ml,Lysol,Kitchen & Household,Cleaning,All Purpose Cleaners,8,Cleaning and personal care,high
-965313,019200993661,Lysol Disinfecting Wipes Spring Waterfall 75 Count,Lysol,Kitchen & Household,Cleaning,All Purpose Cleaners,,No reliable aisle rule matched,review
+965313,019200993661,Lysol Disinfecting Wipes Spring Waterfall 75 Count,Lysol,Kitchen & Household,Cleaning,All Purpose Cleaners,other,No reliable aisle rule matched,review
 21953,059631823144,Lysol Power Twin Pack Toilet Cleaner Value Pack 2 x 710 ml,Lysol,Kitchen & Household,Cleaning,All Purpose Cleaners,8,Cleaning and personal care,high
 177346,059631749536,Lysol Toilet Bowl Cleaner Continuous Action 100 g,Lysol,Kitchen & Household,Cleaning,All Purpose Cleaners,8,Cleaning and personal care,high
 306147,037000820383,Mr. Clean Magic Eraser Cleaner Pads Extra Power 4 Count,Mr. Clean,Kitchen & Household,Cleaning,All Purpose Cleaners,8,Cleaning and personal care,high
@@ -942,12 +942,12 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 673926,058000140288,Palmolive Liquid Dish Detergent Oxy 591 ml,Palmolive,Kitchen & Household,Kitchen Supplies,Dish Detergent,8,Cleaning and personal care,high
 677229,058000140271,Palmolive Ultra Anti Bacterial Dish Liquid Orange 591 ml,Palmolive,Kitchen & Household,Kitchen Supplies,Dish Detergent,8,Cleaning and personal care,high
 1392484,827854028512,Palmolive Ultra Dish Liquid Oxy EZ Pump 828 ml,Palmolive,Kitchen & Household,Kitchen Supplies,Dish Detergent,8,Cleaning and personal care,high
-401099,061328482145,Purex Toilet Paper 2 Ply 12 Double Rolls x 242 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,,No reliable aisle rule matched,review
-401101,061328483135,Purex Toilet Paper 2-Ply 12 Triple Rolls x 363 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,,No reliable aisle rule matched,review
-414160,061328484316,Purex Toilet Paper 2-Ply 30 Jumbo Rolls x 202 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,,No reliable aisle rule matched,review
-401096,061328482091,Purex Toilet Paper 2-Ply 8 Double Rolls x 242 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,,No reliable aisle rule matched,review
-958100,061328493516,Purex Toilet Paper Ultraluxe 2 Ply 8 Triple Rolls x 198 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,,No reliable aisle rule matched,review
-950040,061328485986,Purex Toliet Paper Ultra 3 Ply 8 Triple Rolls x 198 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,,No reliable aisle rule matched,review
+401099,061328482145,Purex Toilet Paper 2 Ply 12 Double Rolls x 242 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,other,No reliable aisle rule matched,review
+401101,061328483135,Purex Toilet Paper 2-Ply 12 Triple Rolls x 363 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,other,No reliable aisle rule matched,review
+414160,061328484316,Purex Toilet Paper 2-Ply 30 Jumbo Rolls x 202 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,other,No reliable aisle rule matched,review
+401096,061328482091,Purex Toilet Paper 2-Ply 8 Double Rolls x 242 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,other,No reliable aisle rule matched,review
+958100,061328493516,Purex Toilet Paper Ultraluxe 2 Ply 8 Triple Rolls x 198 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,other,No reliable aisle rule matched,review
+950040,061328485986,Purex Toliet Paper Ultra 3 Ply 8 Triple Rolls x 198 Sheets,Purex,Kitchen & Household,Paper Products,Toilet Paper,other,No reliable aisle rule matched,review
 233907,062200826859,Resolve Laundry Stain Remover Oxi Action Silver 650 ml,Resolve,Kitchen & Household,Laundry,Bleach & Stain Removers,8,Cleaning and personal care,high
 4166,061328852719,Scotties Facial Tissues Supreme 3-Ply 81 Sheets,Scotties,Kitchen & Household,Paper Products,Facial Tissue,7,Household paper and food storage,high
 262248,061328801366,Scotties Original Facial Tissues 2-Ply 6 Boxes x 126 Sheets,Scotties,Kitchen & Household,Paper Products,Facial Tissue,7,Household paper and food storage,high
@@ -970,14 +970,14 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 1405886,030772174708,Tide Ultra Hygienic Clean Liquid Laundry 3.46 l,Tide,Kitchen & Household,Laundry,Liquid Laundry Detergent,8,Cleaning and personal care,high
 631360,067238586669,Vim Power & Shine Bathroom Spray Cleaner Removes Limescale And Soap Scum 700 ml,Vim,Kitchen & Household,Cleaning,All Purpose Cleaners,8,Cleaning and personal care,high
 177060,067238212308,Vim Pureboost Cream Cleaner With Bleach Multi Surface Cleaner 500 ml,Vim,Kitchen & Household,Cleaning,All Purpose Cleaners,8,Cleaning and personal care,high
-457315,067140001618,Ziploc Freezer Bags Grip 'n Seal Technology Large Mega Pack 60 Count,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,,No reliable aisle rule matched,review
-152448,067140004305,Ziploc Freezer Bags Seal Top Medium 22 Count,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,,No reliable aisle rule matched,review
-494623,067140700719,Ziploc Sandwich Bags Easy Open Tabs 180 Bags,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,,No reliable aisle rule matched,review
-1430172,067140004787,Ziploc Sandwich Bags Extra Large 60 Bags,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,,No reliable aisle rule matched,review
-1430577,067140004299,Ziploc Storage Bags Heavy Duty Large 10 Bags,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,,No reliable aisle rule matched,review
-152470,067140003506,Ziploc Storage Bags With New Grip 'n Seal Technology Large 19 Bags,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,,No reliable aisle rule matched,review
-675258,268405000005,Capital Fine Meats Bacon Ends Smoked Naturally,Capital Fine Meats,Local,Local Western Canada,Meat,,No reliable aisle rule matched,review
-675246,226603000005,Capital Fine Meats Pork Hocks Smoked,Capital Fine Meats,Local,Local Western Canada,Meat,,No reliable aisle rule matched,review
+457315,067140001618,Ziploc Freezer Bags Grip 'n Seal Technology Large Mega Pack 60 Count,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,other,No reliable aisle rule matched,review
+152448,067140004305,Ziploc Freezer Bags Seal Top Medium 22 Count,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,other,No reliable aisle rule matched,review
+494623,067140700719,Ziploc Sandwich Bags Easy Open Tabs 180 Bags,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,other,No reliable aisle rule matched,review
+1430172,067140004787,Ziploc Sandwich Bags Extra Large 60 Bags,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,other,No reliable aisle rule matched,review
+1430577,067140004299,Ziploc Storage Bags Heavy Duty Large 10 Bags,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,other,No reliable aisle rule matched,review
+152470,067140003506,Ziploc Storage Bags With New Grip 'n Seal Technology Large 19 Bags,Ziploc,Kitchen & Household,Food Wraps & Containers,Sandwich & Freezer Bags,other,No reliable aisle rule matched,review
+675258,268405000005,Capital Fine Meats Bacon Ends Smoked Naturally,Capital Fine Meats,Local,Local Western Canada,Meat,other,No reliable aisle rule matched,review
+675246,226603000005,Capital Fine Meats Pork Hocks Smoked,Capital Fine Meats,Local,Local Western Canada,Meat,other,No reliable aisle rule matched,review
 468546,624967700065,AL SAFA HALAL Popcorn Chicken 500 g,AL SAFA HALAL,Meat,Burgers,,meat,"Snack, candy or soft drink",medium
 315868,060597383009,Belmont Homestyle Frozen Burgers Angus Beef 852 g,Belmont,Meat,Burgers,Frozen Beef Burgers,meat,Fresh/refrigerated or separate store section,medium
 315865,060597383054,Belmont Prime Rib Beef Burgers Homestyle 852 g (frozen),Belmont,Meat,Burgers,Frozen Beef Burgers,meat,Fresh/refrigerated or separate store section,medium
@@ -1042,18 +1042,18 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 577676,076808009385,Barilla Pasta Orzo 340 g,Barilla,Pantry,"Pasta, Noodles & Sauce",Dry Pasta & Noodles,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 785343,076808011104,Barilla Pasta Rotini 410 g,Barilla,Pantry,"Pasta, Noodles & Sauce",Dry Pasta & Noodles,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 806350,058496459284,Ben's Original Bistro Express Long Grain Rice & Roasted Chicken 250 g,Ben's Original,Pantry,Easy Prep Meals & Sides,"Rice, Grains & Legumes",1,International foods and rice,medium
-1383170,058496501730,Ben's Original Bistro Express Rice Side Coconut Sticky 240 g,Bens Original,Pantry,Easy Prep Meals & Sides,,,No reliable aisle rule matched,review
+1383170,058496501730,Ben's Original Bistro Express Rice Side Coconut Sticky 240 g,Bens Original,Pantry,Easy Prep Meals & Sides,,other,No reliable aisle rule matched,review
 1383169,058496501839,Ben's Original Bistro Express Rice Side Dish Brown Jasmine Rice 240 g,Ben's Original,Pantry,Easy Prep Meals & Sides,,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 10293,058496464691,Ben's Original Converted Rice Side Dish Long Grain Parboiled 2.2 kg,Ben's Original,Pantry,"Rice, Grains & Legumes",Dry Rice,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 10343,058496464684,Ben's Original Rice Side Dish Whole Grain Brown 2.2 kg,Ben's Original,Pantry,"Rice, Grains & Legumes",Dry Rice,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 302222,068100891003,Bull's-Eye Barbecue Sauce Honey Garlic Bonanza 425 ml,Bull's-Eye,Pantry,Condiments,Marinades & Sauces,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 653866,063211221930,Campbell's Gluten-Free Pho Broth Natural 900 ml,Campbell's,Pantry,Soup & Broth,Soup & Soup Mixes,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 1377456,064200130813,Catelli Ready Cut Pasta Macaroni 454 g,Catelli,Pantry,"Pasta, Noodles & Sauce",Dry Pasta & Noodles,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-1304626,065633227514,Cheerios Cereal Fruity 311 g,Cheerios,Pantry,Cereal & Breakfast Foods,Cereal,,No reliable aisle rule matched,review
-811250,065633134652,Cheerios Cereal Original Whole Grains Family Size 570 g,Cheerios,Pantry,Cereal & Breakfast Foods,Cereal,,No reliable aisle rule matched,review
+1304626,065633227514,Cheerios Cereal Fruity 311 g,Cheerios,Pantry,Cereal & Breakfast Foods,Cereal,other,No reliable aisle rule matched,review
+811250,065633134652,Cheerios Cereal Original Whole Grains Family Size 570 g,Cheerios,Pantry,Cereal & Breakfast Foods,Cereal,other,No reliable aisle rule matched,review
 493832,065633400139,Chex Gluten-Free Breakfast Cereal Cinnamon Whole Grains 345 g,General Mills,Pantry,Cereal & Breakfast Foods,Cereal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-1118477,066721029218,Christie Toppables Crackers Family Size 454 g,Christie,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
-811450,065633134423,Cinnamon Toast Crunch Cereal Whole Grains Family Size 591 g,Toast Crunch,Pantry,Cereal & Breakfast Foods,Cereal,,No reliable aisle rule matched,review
+1118477,066721029218,Christie Toppables Crackers Family Size 454 g,Christie,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
+811450,065633134423,Cinnamon Toast Crunch Cereal Whole Grains Family Size 591 g,Toast Crunch,Pantry,Cereal & Breakfast Foods,Cereal,other,No reliable aisle rule matched,review
 1300701,057000012465,Classico Di Campania Pasta Sauce Sweet Basil Marinara 600 ml,Classico,Pantry,"Pasta, Noodles & Sauce",Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 216594,057000330194,Classico Pasta Sauce Alfredo 410 ml,Classico,Pantry,"Pasta, Noodles & Sauce",Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 1300703,057000012472,Classico Pasta Sauce Italian Sausage Pepper & Onion 600 ml,Classico,Pantry,"Pasta, Noodles & Sauce",Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
@@ -1061,13 +1061,13 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 552686,066200019808,Club House 25% Less Salt Alfredo Pasta Sauce Mix 30 g,Club House,Pantry,"Pasta, Noodles & Sauce",Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 331286,066200024024,Club House Seasoning Hot+ Honey 170 g,Club House,Pantry,Spices & Seasoning,Seasoning,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 564518,055742556360,Compliments BBQ Sauce Honey Garlic 425 ml,Compliments,Pantry,Condiments,Marinades & Sauces,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-164726,055742373462,Compliments Balsamic Vinegar Of Modena 500 ml,Compliments,Pantry,"Oils, Vinegars & Salad Dressing",Vinegar,,No reliable aisle rule matched,review
+164726,055742373462,Compliments Balsamic Vinegar Of Modena 500 ml,Compliments,Pantry,"Oils, Vinegars & Salad Dressing",Vinegar,other,No reliable aisle rule matched,review
 942066,055742549829,Compliments Broth Beef 900 ml,Compliments,Pantry,Canned & Pickled,Canned Meat,6,"Baking, canned goods, soups or crackers",medium
 942071,055742549836,Compliments Broth Chicken 900 ml,Compliments,Pantry,Canned & Pickled,Canned Meat,6,"Baking, canned goods, soups or crackers",medium
-656008,055742563481,Compliments Canned Petite Cut Stewed Tomatoes Garlic & Olive Oil 540 ml,Compliments,Pantry,Canned & Pickled,Canned Tomatoes,,No reliable aisle rule matched,review
-147787,055742374605,Compliments Canned Tomato Paste 156 ml,Compliments,Pantry,Canned & Pickled,Canned Tomatoes,,No reliable aisle rule matched,review
+656008,055742563481,Compliments Canned Petite Cut Stewed Tomatoes Garlic & Olive Oil 540 ml,Compliments,Pantry,Canned & Pickled,Canned Tomatoes,other,No reliable aisle rule matched,review
+147787,055742374605,Compliments Canned Tomato Paste 156 ml,Compliments,Pantry,Canned & Pickled,Canned Tomatoes,other,No reliable aisle rule matched,review
 147797,055742374636,Compliments Canned Tomato Sauce 680 ml,Compliments,Pantry,"Pasta, Noodles & Sauce",Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-242653,055742507980,Compliments Canola Oil Pure 3 L,Compliments,Pantry,"Oils, Vinegars & Salad Dressing",Canola Oil,,No reliable aisle rule matched,review
+242653,055742507980,Compliments Canola Oil Pure 3 L,Compliments,Pantry,"Oils, Vinegars & Salad Dressing",Canola Oil,other,No reliable aisle rule matched,review
 442322,055742357950,Compliments Elbow Pasta Value Size 900 g,Compliments,Pantry,"Pasta, Noodles & Sauce",Dry Pasta & Noodles,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 237956,055742502367,Compliments Instant Noodles Chicken 65 g,Compliments,Pantry,"Pasta, Noodles & Sauce",Instant Noodles & Pasta Bowls,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 980771,055742571172,Compliments Instant Oatmeal Maple & Brown Sugar Flavour 344 g,Compliments,Pantry,Cereal & Breakfast Foods,Cereal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
@@ -1075,40 +1075,40 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 455885,055742367164,Compliments Organic Peanut Butter Crunchy 500 g,Compliments,Pantry,"Spreads, Syrup & Honey",Nut & Seed Spreads,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 429926,055742553444,Compliments Pasta Sauce Original  680 ml,Compliments,Pantry,"Pasta, Noodles & Sauce",Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 465780,055742533583,Compliments Pasteurized White Liquid Honey Bear 375 g,Compliments,Pantry,"Spreads, Syrup & Honey",Honey,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-1310564,055742575705,Compliments Plant Based Spread Mayonnaise Type 685 ml,Compliments,Pantry,"Oils, Vinegars & Salad Dressing",Salad Dressing & Ingredients,,No reliable aisle rule matched,review
-409731,055742551433,Compliments Prepared Dijon Mustard Original 325 ml,Compliments,Pantry,Condiments,Mustard,,No reliable aisle rule matched,review
+1310564,055742575705,Compliments Plant Based Spread Mayonnaise Type 685 ml,Compliments,Pantry,"Oils, Vinegars & Salad Dressing",Salad Dressing & Ingredients,other,No reliable aisle rule matched,review
+409731,055742551433,Compliments Prepared Dijon Mustard Original 325 ml,Compliments,Pantry,Condiments,Mustard,other,No reliable aisle rule matched,review
 289980,055742521795,Compliments Pure Natural Liquid Honey 500 g,Compliments,Pantry,"Spreads, Syrup & Honey",Honey,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 289982,055742521788,Compliments Pure Naturally Creamed Honey 1 kg,Compliments,Pantry,"Spreads, Syrup & Honey",Honey,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 506623,055742348279,Compliments Smooth Peanut Butter 500 g,Compliments,Pantry,"Spreads, Syrup & Honey",Nut & Seed Spreads,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-679057,055742545746,Compliments Tomato Ketchup 1 L,Compliments,Pantry,Condiments,Ketchup,,No reliable aisle rule matched,review
-378870,055653684503,Dare Breton Crackers Veggie Bites 200 g,Breton,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
+679057,055742545746,Compliments Tomato Ketchup 1 L,Compliments,Pantry,Condiments,Ketchup,other,No reliable aisle rule matched,review
+378870,055653684503,Dare Breton Crackers Veggie Bites 200 g,Breton,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
 363163,055653688105,Dare Breton Gluten-Free Crackers Herb & Garlic 135 g,Breton,Pantry,"Crackers, Cookies & Desserts",Crackers,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 363162,055653688006,Dare Breton Gluten-Free Crackers Original With Flax 135 g,Breton,Pantry,"Crackers, Cookies & Desserts",Crackers,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-1309924,055653639459,Dare Breton Simple Goodness Crackers Sea Salt & Olive Oil 180 g,Breton,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
-915035,056200805020,Frank's Red Hot Sauce Original 354 ml,Frank's Red Hot,Pantry,Condiments,Marinades & Sauces,,No reliable aisle rule matched,review
+1309924,055653639459,Dare Breton Simple Goodness Crackers Sea Salt & Olive Oil 180 g,Breton,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
+915035,056200805020,Frank's Red Hot Sauce Original 354 ml,Frank's Red Hot,Pantry,Condiments,Marinades & Sauces,other,No reliable aisle rule matched,review
 72414,"787359100192,087359100193",Fresh Gourmet Croutons Classic Caesar 142 g,Fresh Gourmet,Pantry,Spices & Seasoning,Fresh Fruits & Vegetables,6,"Baking, canned goods, soups or crackers",medium
 150296,"787359175541,787359175046",Fresh Gourmet Salad Toppings Tortilla Strips Santa Fe Style 99 g,Fresh Gourmet,Pantry,Spices & Seasoning,Fresh Fruits & Vegetables,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 329459,057000057534,Heinz Canned Beans Deep-Browned with Tomato Sauce 398 ml,Heinz,Pantry,Canned & Pickled,Canned Baked Beans,6,"Baking, canned goods, soups or crackers",medium
 432173,057000006976,Heinz Canned Beans With Molasses & Pork 398 ml,Heinz,Pantry,Canned & Pickled,Canned Baked Beans,6,"Baking, canned goods, soups or crackers",medium
-1334769,068100004137,Heinz Mayonnaise Style Sauce Garlic Parmesan 340 ml,Heinz,Pantry,Condiments,,,No reliable aisle rule matched,review
-1334770,068100004144,Heinz Mayonnaise Style Sauce Pickle 340 ml,Heinz,Pantry,Condiments,,,No reliable aisle rule matched,review
-1334768,068100004120,Heinz Mayonnaise Style Sauce Smoky Bacon 340 ml,Heinz,Pantry,Condiments,,,No reliable aisle rule matched,review
+1334769,068100004137,Heinz Mayonnaise Style Sauce Garlic Parmesan 340 ml,Heinz,Pantry,Condiments,,other,No reliable aisle rule matched,review
+1334770,068100004144,Heinz Mayonnaise Style Sauce Pickle 340 ml,Heinz,Pantry,Condiments,,other,No reliable aisle rule matched,review
+1334768,068100004120,Heinz Mayonnaise Style Sauce Smoky Bacon 340 ml,Heinz,Pantry,Condiments,,other,No reliable aisle rule matched,review
 97355,057000132408,Heinz Scooby-Doo Shaped Pasta Whole Grain 398 ml,Heinz,Pantry,"Pasta, Noodles & Sauce",Canned Pasta,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-176864,057000063085,Heinz Tomato Ketchup 1.5 L,Heinz,Pantry,Condiments,Ketchup,,No reliable aisle rule matched,review
-404479,057000013165,Heinz Tomato Ketchup 750 ml,Heinz,Pantry,Condiments,Ketchup,,No reliable aisle rule matched,review
-247189,057000038557,Heinz Tomato Ketchup Low Sodium 750 ml,Heinz,Pantry,Condiments,Ketchup,,No reliable aisle rule matched,review
+176864,057000063085,Heinz Tomato Ketchup 1.5 L,Heinz,Pantry,Condiments,Ketchup,other,No reliable aisle rule matched,review
+404479,057000013165,Heinz Tomato Ketchup 750 ml,Heinz,Pantry,Condiments,Ketchup,other,No reliable aisle rule matched,review
+247189,057000038557,Heinz Tomato Ketchup Low Sodium 750 ml,Heinz,Pantry,Condiments,Ketchup,other,No reliable aisle rule matched,review
 176759,068400662600,Hellmann's Gluten Free Real Mayonnaise 890 ml,Hellmann's,Pantry,Condiments,"Mayonnaise, Aioli & Sandwich Spreads",5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 176761,068400662709,Hellmann's Gluten-Free Mayonnaise 1/2 The Fat 890 ml,Hellmann's,Pantry,Condiments,"Mayonnaise, Aioli & Sandwich Spreads",5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-331080,068400004097,Hellmann's Mayonnaise Dressing Mild Chipotle 340 ml,Hellmann's,Pantry,Condiments,"Mayonnaise, Aioli & Sandwich Spreads",,No reliable aisle rule matched,review
-120457,068400616603,Hellmann's Mayonnaise Type Dressing Light ½ Fat 750 ml,Hellmann's,Pantry,Condiments,"Mayonnaise, Aioli & Sandwich Spreads",,No reliable aisle rule matched,review
-386314,068400003021,Hellmann's Vegan Mayonnaise Type Dressing Garlic Aioli 340 ml,Hellmann's,Pantry,Condiments,"Mayonnaise, Aioli & Sandwich Spreads",,No reliable aisle rule matched,review
+331080,068400004097,Hellmann's Mayonnaise Dressing Mild Chipotle 340 ml,Hellmann's,Pantry,Condiments,"Mayonnaise, Aioli & Sandwich Spreads",other,No reliable aisle rule matched,review
+120457,068400616603,Hellmann's Mayonnaise Type Dressing Light ½ Fat 750 ml,Hellmann's,Pantry,Condiments,"Mayonnaise, Aioli & Sandwich Spreads",other,No reliable aisle rule matched,review
+386314,068400003021,Hellmann's Vegan Mayonnaise Type Dressing Garlic Aioli 340 ml,Hellmann's,Pantry,Condiments,"Mayonnaise, Aioli & Sandwich Spreads",other,No reliable aisle rule matched,review
 973078,058807583950,Hunts Tomato Sauce No Salt Added 680 ml,Hunts,Pantry,"Pasta, Noodles & Sauce",Pasta Sauce,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-352251,018627114772,Kashi Granola Cacao And Cashew Butter 311 g,Kashi,Pantry,Cereal & Breakfast Foods,Granola,,No reliable aisle rule matched,review
-963740,064100143111,Kellogg Cereal Corn Flakes 600 g,Kellogg,Pantry,Cereal & Breakfast Foods,Cereal,,No reliable aisle rule matched,review
-209099,064100000704,Kellogg's Cereal All Bran Buds & Psyllium 500 g,Kellogg's,Pantry,Cereal & Breakfast Foods,Cereal,,No reliable aisle rule matched,review
-1304934,059724101425,Kellogg's Cereal Raisin Bran 1.01 kg,Kellogg's,Pantry,Cereal & Breakfast Foods,Cereal,,No reliable aisle rule matched,review
+352251,018627114772,Kashi Granola Cacao And Cashew Butter 311 g,Kashi,Pantry,Cereal & Breakfast Foods,Granola,other,No reliable aisle rule matched,review
+963740,064100143111,Kellogg Cereal Corn Flakes 600 g,Kellogg,Pantry,Cereal & Breakfast Foods,Cereal,other,No reliable aisle rule matched,review
+209099,064100000704,Kellogg's Cereal All Bran Buds & Psyllium 500 g,Kellogg's,Pantry,Cereal & Breakfast Foods,Cereal,other,No reliable aisle rule matched,review
+1304934,059724101425,Kellogg's Cereal Raisin Bran 1.01 kg,Kellogg's,Pantry,Cereal & Breakfast Foods,Cereal,other,No reliable aisle rule matched,review
 419326,"827809002468,628790000484",Kim Phat Milk Light 6% Coconut 400 ml,Kim Phat,Pantry,Baking & Cooking Ingredients,International Foods,6,"Baking, canned goods, soups or crackers",medium
-419197,628790000163,Kim Phat Soy Sauce Dark 500 ml,Kim Phat,Pantry,Condiments,International Foods,,No reliable aisle rule matched,review
+419197,628790000163,Kim Phat Soy Sauce Dark 500 ml,Kim Phat,Pantry,Condiments,International Foods,other,No reliable aisle rule matched,review
 331289,068400003984,Knorr Pasta Sides Buffalo Chicken Flavour For A Delicious + Quick Side Dish 121 g,Knorr,Pantry,"Pasta, Noodles & Sauce",Pasta Sides,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 43600,068400003908,Knorr Rice Cup 3 Cheese Mushroom Risotto 73 g,Knorr,Pantry,"Pasta, Noodles & Sauce",Pasta Sides,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 43602,068400003885,Knorr Rice Cup Chicken Flavoured Fried Rice Delicious Rice Dish 73 g,Knorr,Pantry,"Pasta, Noodles & Sauce",Pasta Sides,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
@@ -1118,35 +1118,35 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 87105,068100058581,Kraft Velveeta Pasta And Sauce On Shells 350 g,Kraft,Pantry,"Pasta, Noodles & Sauce",Pasta Sides,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 507629,770869000021,Mandarin Shanghai Noodles 454 g,Mandarin Noodle,Pantry,"Pasta, Noodles & Sauce",Dry Pasta & Noodles,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 957075,876131003025,Martelli Pasta Potato Gnocchi 1 kg,Martelli,Pantry,"Pasta, Noodles & Sauce",Dry Pasta & Noodles,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-165799,761720985199,Mazola Canola Oil 2.84 L,Mazola,Pantry,"Oils, Vinegars & Salad Dressing",Canola Oil,,No reliable aisle rule matched,review
-304008,059100008669,Minute Rice Fried Rice Fully Cooked 2 x 125 g,Minute Rice,Pantry,Easy Prep Meals & Sides,"Rice, Grains & Legumes",,No reliable aisle rule matched,review
+165799,761720985199,Mazola Canola Oil 2.84 L,Mazola,Pantry,"Oils, Vinegars & Salad Dressing",Canola Oil,other,No reliable aisle rule matched,review
+304008,059100008669,Minute Rice Fried Rice Fully Cooked 2 x 125 g,Minute Rice,Pantry,Easy Prep Meals & Sides,"Rice, Grains & Legumes",other,No reliable aisle rule matched,review
 353575,059100010006,Minute Rice Jasmine Rice 500 g,Minute Rice,Pantry,"Rice, Grains & Legumes",Dry Rice,1,International foods and rice,medium
-166816,059100008409,Minute Rice Whole Grain Brown Rice 1.2 kg,Minute Rice,Pantry,"Rice, Grains & Legumes",Dry Rice,,No reliable aisle rule matched,review
+166816,059100008409,Minute Rice Whole Grain Brown Rice 1.2 kg,Minute Rice,Pantry,"Rice, Grains & Legumes",Dry Rice,other,No reliable aisle rule matched,review
 87862,059491000600,Mr. Noodles Instant Noodles Oriental 85 g,Mr. Noodles,Pantry,"Pasta, Noodles & Sauce",Instant Noodles & Pasta Bowls,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 87863,059491000204,Mr. Noodles Instant Noodles Vegetable 85 g,Mr. Noodles,Pantry,"Pasta, Noodles & Sauce",Instant Noodles & Pasta Bowls,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
 88223,058449779018,Nature's Path Gluten-Free Cereal Mesa Sunrise Value Size 750 g,Nature's Path,Pantry,Cereal & Breakfast Foods,Cereal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-1417077,065633234673,Nestle Nesquik Cereal 521 g,Nesquick,Pantry,Cereal & Breakfast Foods,Cereal,,No reliable aisle rule matched,review
+1417077,065633234673,Nestle Nesquik Cereal 521 g,Nesquick,Pantry,Cereal & Breakfast Foods,Cereal,other,No reliable aisle rule matched,review
 502141,065633158160,Oatmeal Crisp Cereal Almond High Fibre Family Size 628 g,General Mills,Pantry,Cereal & Breakfast Foods,Cereal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 1331960,065633230798,Oatmeal Crisp Cereal Protein Apple Crisp 455 g,Oatmeal Crisp,Pantry,Cereal & Breakfast Foods,Cereal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 1331965,065633230743,Oatmeal Crisp Cereal Protein Vanilla 455 g,Oatmeal Crisp,Pantry,Cereal & Breakfast Foods,Cereal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 502144,065633158184,Oatmeal Crisp Cereal Triple Berry High Fibre Family Size 570 g,Oatmeal Crisp,Pantry,Cereal & Breakfast Foods,Cereal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 677606,058441500146,Olivieri Skillet Gnocchi 700 g,Olivieri,Pantry,"Pasta, Noodles & Sauce",Fresh Pasta,2,"Pasta, Mexican, noodles or aisle-2 frozen specialties",medium
-444512,014100083221,Pepperidge Farm Goldfish Crackers Flavour Blasted Salt & Vinegar 180 g,Pepperidge Farm,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
+444512,014100083221,Pepperidge Farm Goldfish Crackers Flavour Blasted Salt & Vinegar 180 g,Pepperidge Farm,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
 418756,055577113028,Quaker Instant Oatmeal Maple Brown Sugar 344 g,Quaker,Pantry,Cereal & Breakfast Foods,Oatmeal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 217510,055577101018,Quaker Old Fashioned Large Flake Oats 1 kg,Quaker,Pantry,Cereal & Breakfast Foods,Oatmeal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 217560,055577101100,Quaker Quick Oats 100% Whole Grain 1 kg,Quaker,Pantry,Cereal & Breakfast Foods,Oatmeal,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 811407,065633132856,Reese's Puffs Cereal Peanut Butter Chocolate Whole Grains 326 g,Reese's,Pantry,Cereal & Breakfast Foods,Cereal,9,"Snack, candy or soft drink",medium
-488579,066542700174,Reinhart's Apple Cider Vinegar 500 ml,Reinhart,Pantry,"Oils, Vinegars & Salad Dressing",Vinegar,,No reliable aisle rule matched,review
-20194,066721028389,Ritz Crackers Bacon Dippers Smoky Bacon 180 g,Ritz,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
-19784,066721028655,Ritz Crackers Cheese Bits 180 g,Ritz,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
-20193,066721028600,Ritz Crackers Swiss Cheese 180 g,Ritz,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
+488579,066542700174,Reinhart's Apple Cider Vinegar 500 ml,Reinhart,Pantry,"Oils, Vinegars & Salad Dressing",Vinegar,other,No reliable aisle rule matched,review
+20194,066721028389,Ritz Crackers Bacon Dippers Smoky Bacon 180 g,Ritz,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
+19784,066721028655,Ritz Crackers Cheese Bits 180 g,Ritz,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
+20193,066721028600,Ritz Crackers Swiss Cheese 180 g,Ritz,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
 96540,059000016320,Robin Hood All Purpose Flour Original 1 kg,Robin Hood,Pantry,Baking & Cooking Ingredients,Flour,6,"Baking, canned goods, soups or crackers",medium
-863597,078935005186,Ryvita Vegan Rye Crispbread Sesame Rye 250 g,Ryvita,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
-915602,067800002276,Unico Canned Tomatoes 796 ml,Unico,Pantry,Canned & Pickled,Canned Tomatoes,,No reliable aisle rule matched,review
+863597,078935005186,Ryvita Vegan Rye Crispbread Sesame Rye 250 g,Ryvita,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
+915602,067800002276,Unico Canned Tomatoes 796 ml,Unico,Pantry,Canned & Pickled,Canned Tomatoes,other,No reliable aisle rule matched,review
 353632,067800002818,Unico Red Kidney Beans No Salt Added 540 ml,Unico,Pantry,"Rice, Grains & Legumes",Canned Beans,6,"Baking, canned goods, soups or crackers",medium
-20185,066721028358,Vegetable Thins Crackers 180 g,Wheat Thins,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
-20186,066721028433,Wheat Thins Crackers Multigrain 180 g,Fins Au Blé,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
-20189,066721028426,Wheat Thins Crackers Original 180 g,Wheat Thins,Pantry,"Crackers, Cookies & Desserts",Crackers,,No reliable aisle rule matched,review
+20185,066721028358,Vegetable Thins Crackers 180 g,Wheat Thins,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
+20186,066721028433,Wheat Thins Crackers Multigrain 180 g,Fins Au Blé,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
+20189,066721028426,Wheat Thins Crackers Original 180 g,Wheat Thins,Pantry,"Crackers, Cookies & Desserts",Crackers,other,No reliable aisle rule matched,review
 1331868,030772159491,Always Infinity Pads Regular Unscented 18 Count,Always,Personal Care & Beauty,Feminine Products,Pads,8,Cleaning and personal care,high
 252489,037000179023,Always Maxi Pads Extra Heavy Flow With Wings Size 5 20 Count,Always,Personal Care & Beauty,Feminine Products,Pads,8,Cleaning and personal care,high
 24581,037000979494,Always Pads Ultra Thin Extra Heavy Over Night 46 EA,Always,Personal Care & Beauty,Feminine Products,Pads,8,Cleaning and personal care,high
@@ -1353,71 +1353,71 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 677946,058496433123,Whiskas Perfect Portions Wet Cat Food Salmon Cuts In Gravy Entrée 75 g,Whiskas,Pets,Cat Food & Accessories,Wet Cat Food,7,Pet supplies,high
 633471,058496431235,Whiskas Perfect Portions Wet Cat Food Paté Meaty Selections Adult Multipack 12 x 75 g,Whiskas,Pets,Cat Food & Accessories,Wet Cat Food,7,Pet supplies,high
 633470,058496431259,Whiskas Perfect Portions Wet Cat Food Seafood Selections Adult Paté Multipack 12 x 75 g,Whiskas,Pets,Cat Food & Accessories,Wet Cat Food,7,Pet supplies,high
-68537,062107004909,Advil Fast Relief Liquid Gels 200 mg 16 EA,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-68531,062107004923,Advil Liqui-Gels 200 mg Ibuprofen Capsules 72 Count,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-68542,062107004916,Advil Liquid Gels 200 mg 32 EA,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-647003,062107004053,Advil Pain Relief 24 Tablets,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-429095,062107005029,Advil Pain Relief Liquid Gels Extra Strength 24 Count,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-216892,056500359889,Aleve 220 mg 24 Caplets,Aleve,Pharmacy & Wellness,Medicine & Health,Pain Relief,,No reliable aisle rule matched,review
-285966,056500362629,Aleve Pain Relief Liquid Gels 20 EA,Aleve,Pharmacy & Wellness,Medicine & Health,Pain Relief,,No reliable aisle rule matched,review
-1325263,030772153109,Always Discreet Underwear Max S/M 17 Count,Always,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-1394546,030772236277,"Always Moderate Long, 54 Pack # Anti-Leak Barriers, Odor Control Incontinence Pads 54 ea",Always,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-12844,062600731456,Band-Aid Bandages Flexible Fabric Assorted Sizes 50 Count,Band-Aid,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",,No reliable aisle rule matched,review
-651036,062600964472,Band-Aid Tough Strips Bandages 60 EA,Band-Aid,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",,No reliable aisle rule matched,review
-117420,381370044086,Band-Aid Tough Strips Bandages All One Size 20 EA,Band-Aid,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",,No reliable aisle rule matched,review
-661576,060093280765,Benylin Cough Syrup DM-E Extra Strength 100 ml,Benylin,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-630037,060093260293,Benylin Cough Syrup Extra Strength 100 ml,Benylin,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
+68537,062107004909,Advil Fast Relief Liquid Gels 200 mg 16 EA,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+68531,062107004923,Advil Liqui-Gels 200 mg Ibuprofen Capsules 72 Count,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+68542,062107004916,Advil Liquid Gels 200 mg 32 EA,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+647003,062107004053,Advil Pain Relief 24 Tablets,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+429095,062107005029,Advil Pain Relief Liquid Gels Extra Strength 24 Count,Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+216892,056500359889,Aleve 220 mg 24 Caplets,Aleve,Pharmacy & Wellness,Medicine & Health,Pain Relief,other,No reliable aisle rule matched,review
+285966,056500362629,Aleve Pain Relief Liquid Gels 20 EA,Aleve,Pharmacy & Wellness,Medicine & Health,Pain Relief,other,No reliable aisle rule matched,review
+1325263,030772153109,Always Discreet Underwear Max S/M 17 Count,Always,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+1394546,030772236277,"Always Moderate Long, 54 Pack # Anti-Leak Barriers, Odor Control Incontinence Pads 54 ea",Always,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+12844,062600731456,Band-Aid Bandages Flexible Fabric Assorted Sizes 50 Count,Band-Aid,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",other,No reliable aisle rule matched,review
+651036,062600964472,Band-Aid Tough Strips Bandages 60 EA,Band-Aid,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",other,No reliable aisle rule matched,review
+117420,381370044086,Band-Aid Tough Strips Bandages All One Size 20 EA,Band-Aid,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",other,No reliable aisle rule matched,review
+661576,060093280765,Benylin Cough Syrup DM-E Extra Strength 100 ml,Benylin,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+630037,060093260293,Benylin Cough Syrup Extra Strength 100 ml,Benylin,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
 758429,041679384305,Boost Drink Mix Instant Breakfast Powder Chocolate 880 g,Boost,Pharmacy & Wellness,Diet & Fitness,Meal Replacement,9,"Snack, candy or soft drink",medium
-315907,058478107769,Buckley's Cough Syrup Complete Mucus Relief 250 ml,Buckley's,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-444212,062107004343,Children's Advil Dye Free Oral Suspension Grape 100 ml,Children's Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-73908,055742574685,Compliments Fabric Bandages Assorted 50 Count,Compliments,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",,No reliable aisle rule matched,review
-91584,055742575729,Compliments Fabric Bandages Assorted Family Pack 120 Count,Compliments,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",,No reliable aisle rule matched,review
-73906,055742574746,Compliments Plastic Bandage Assorted 60 Count,Compliments,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",,No reliable aisle rule matched,review
-863707,055742568585,Compliments Protective Underwear Unisex Large 18 EA,Compliments,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-1399576,036000584134,Depend Guards for Men Maximum Absorbency 52 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-635992,036000385335,Depend Maximum Absorbency Men's Underwear Small/Medium 19 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-635981,036000385311,Depend Maximum Absorbency Women's Underwear Peach Large 17 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-765483,036000479263,Depend Men's Underwear Large 17 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-664337,036000455991,Depend Overnight Women's Underwear Large 14 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-765494,036000479188,Depend Overnight Women's Underwear Medium 15 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-352542,036000554243,Depend Silhouette Female Incontinence Underwear Pink Large 12 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-636159,036000385328,Depend Women Underwear Maximum Absorbency XL 15 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-765474,036000479324,Depend Women's Underwear Medium 18 Pack,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-765473,036000479157,Depend Women's Underwear Small 19 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
+315907,058478107769,Buckley's Cough Syrup Complete Mucus Relief 250 ml,Buckley's,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+444212,062107004343,Children's Advil Dye Free Oral Suspension Grape 100 ml,Children's Advil,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+73908,055742574685,Compliments Fabric Bandages Assorted 50 Count,Compliments,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",other,No reliable aisle rule matched,review
+91584,055742575729,Compliments Fabric Bandages Assorted Family Pack 120 Count,Compliments,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",other,No reliable aisle rule matched,review
+73906,055742574746,Compliments Plastic Bandage Assorted 60 Count,Compliments,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",other,No reliable aisle rule matched,review
+863707,055742568585,Compliments Protective Underwear Unisex Large 18 EA,Compliments,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+1399576,036000584134,Depend Guards for Men Maximum Absorbency 52 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+635992,036000385335,Depend Maximum Absorbency Men's Underwear Small/Medium 19 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+635981,036000385311,Depend Maximum Absorbency Women's Underwear Peach Large 17 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+765483,036000479263,Depend Men's Underwear Large 17 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+664337,036000455991,Depend Overnight Women's Underwear Large 14 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+765494,036000479188,Depend Overnight Women's Underwear Medium 15 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+352542,036000554243,Depend Silhouette Female Incontinence Underwear Pink Large 12 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+636159,036000385328,Depend Women Underwear Maximum Absorbency XL 15 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+765474,036000479324,Depend Women's Underwear Medium 18 Pack,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+765473,036000479157,Depend Women's Underwear Small 19 Count,Depend,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
 605963,055325002192,Ensure High Protein Nutritional Shake Chocolate 6 x 235 g,Ensure,Pharmacy & Wellness,Diet & Fitness,Meal Replacement,9,"Snack, candy or soft drink",medium
 729006,057271163026,Gatorade Protein Bar Chocolate Carmel 80 g,Gatorade,Pharmacy & Wellness,Diet & Fitness,Protein Bars,9,"Snack, candy or soft drink",medium
 702415,057271163002,Gatorade Whey Protein Bar Chocolate Chip 80 g,Gatorade,Pharmacy & Wellness,Diet & Fitness,Protein Bars,9,"Snack, candy or soft drink",medium
 395733,055325036562,Glucerna Meal Replacement Supplement Chocolate 6 x 237 ml (bottles),Glucerna,Pharmacy & Wellness,Diet & Fitness,Meal Replacement,9,"Snack, candy or soft drink",medium
-504485,057700628034,Halls Extra Strong Cough Drops 9 Lozenges,Halls,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-402192,057700853764,Halls Mentho-Lyptus Cough Drops Cherry Flavour 30 Lozenges,Halls,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
+504485,057700628034,Halls Extra Strong Cough Drops 9 Lozenges,Halls,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+402192,057700853764,Halls Mentho-Lyptus Cough Drops Cherry Flavour 30 Lozenges,Halls,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
 402205,057700853788,Halls Mentho-Lyptus Cough Drops Honey Lemon Flavour 30 Lozenges,Halls,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-504400,057700628607,Halls Mentho-Lyptus Cough Drops Lozenges Cherry 9 Count,Halls,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
+504400,057700628607,Halls Mentho-Lyptus Cough Drops Lozenges Cherry 9 Count,Halls,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
 504431,057700628805,Halls Mentho-Lyptus Cough Drops Lozenges Honey Lemon 9 Count,Halls,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
 245915,057700229996,Halls Mentho-Lyptus No Sugar Added Cough Drops Black Cherry Flavour 25 Lozenges,Halls,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,6,"Baking, canned goods, soups or crackers",medium
-400846,056219254871,HydraSense Medium Stream Nasal Mist 100 ml,HydraSense,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-288913,056219268618,HydraSense Nasal Aspirator Starter Kit 1 EA,HydraSense,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-400844,056219254857,HydraSense Ultra Gentle Nasal Mist 100 ml,HydraSense,Pharmacy & Wellness,Medicine & Health,Allergy Relief,,No reliable aisle rule matched,review
-994776,064541301477,Imodium Anti-Diarrhea Quick Dissolve Tablets 20 EA,Imodium,Pharmacy & Wellness,Medicine & Health,Digestive care,,No reliable aisle rule matched,review
-314052,062600961174,Motrin Ibuprofen Easy Swallow 300 mg Tablets 45 EA,Motrin,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
+400846,056219254871,HydraSense Medium Stream Nasal Mist 100 ml,HydraSense,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+288913,056219268618,HydraSense Nasal Aspirator Starter Kit 1 EA,HydraSense,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+400844,056219254857,HydraSense Ultra Gentle Nasal Mist 100 ml,HydraSense,Pharmacy & Wellness,Medicine & Health,Allergy Relief,other,No reliable aisle rule matched,review
+994776,064541301477,Imodium Anti-Diarrhea Quick Dissolve Tablets 20 EA,Imodium,Pharmacy & Wellness,Medicine & Health,Digestive care,other,No reliable aisle rule matched,review
+314052,062600961174,Motrin Ibuprofen Easy Swallow 300 mg Tablets 45 EA,Motrin,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
 1376725,060815404110,NeoCitran Flu & Cold Ultra Strength Nighttime Honey Lemon 10 Pack,NeoCitran,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,5,"Breakfast spreads, hot drinks or shelf-stable beverages",medium
-456777,041679269022,Nestlé Boost Meal Replacement Regular Variety Pack 6 x 237 ml (bottles),Nestlé,Pharmacy & Wellness,Diet & Fitness,Meal Replacement,,No reliable aisle rule matched,review
-825204,064541318130,Pepcid Acid Controller Maximum Strength Tablets 25 Count,Pepcid,Pharmacy & Wellness,Medicine & Health,Digestive care,,No reliable aisle rule matched,review
-19443,036000549430,Poise Incontinence Pads for Women Overnight Extra-Coverage 22 Count,Poise,Pharmacy & Wellness,Medicine & Health,Incontinence,,No reliable aisle rule matched,review
-654827,062600252241,Polysporin Antibiotic Cream Original 15 g,Polysporin,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",,No reliable aisle rule matched,review
+456777,041679269022,Nestlé Boost Meal Replacement Regular Variety Pack 6 x 237 ml (bottles),Nestlé,Pharmacy & Wellness,Diet & Fitness,Meal Replacement,other,No reliable aisle rule matched,review
+825204,064541318130,Pepcid Acid Controller Maximum Strength Tablets 25 Count,Pepcid,Pharmacy & Wellness,Medicine & Health,Digestive care,other,No reliable aisle rule matched,review
+19443,036000549430,Poise Incontinence Pads for Women Overnight Extra-Coverage 22 Count,Poise,Pharmacy & Wellness,Medicine & Health,Incontinence,other,No reliable aisle rule matched,review
+654827,062600252241,Polysporin Antibiotic Cream Original 15 g,Polysporin,Pharmacy & Wellness,Medicine & Health,"First Aid, Bandages & Dressings",other,No reliable aisle rule matched,review
 633357,888849002191,Quest Gluten-Free Protein Bar Chocolate Chips Cookie Dough 60 g,Quest,Pharmacy & Wellness,Diet & Fitness,Protein Bars,9,"Snack, candy or soft drink",medium
-503593,"888849000173,793573238467",Quest Protein Bars Cookies & Creme 60 g,Quest,Pharmacy & Wellness,Diet & Fitness,Protein Bars,,No reliable aisle rule matched,review
-77568,060245250103,Reactine Extra Strength 24 Hour Relief 10 Tablets,Reactine,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-219995,056219823145,RestoraLAX Laxative 14 Once-Daily Doses 238 g,RestoraLAX,Pharmacy & Wellness,Medicine & Health,Digestive care,,No reliable aisle rule matched,review
-999218,068900000384,Tums Antacid Extra Strength Assorted Fruit 100 Count,Tums,Pharmacy & Wellness,Medicine & Health,Digestive care,,No reliable aisle rule matched,review
-649372,068900000681,Tums Ultra Antacid Assorted Fruit 72 EA,Tums,Pharmacy & Wellness,Medicine & Health,Digestive care,,No reliable aisle rule matched,review
-580954,064541302498,Tylenol Arthritis Pain Relief Caplets 24 EA,Tylenol,Pharmacy & Wellness,Medicine & Health,Pain Relief,,No reliable aisle rule matched,review
-321132,062600143723,Tylenol Children's Liquid Suspension Grape 100 ml,Tylenol,Pharmacy & Wellness,Medicine & Health,Pain Relief,,No reliable aisle rule matched,review
-43160,064541317379,Tylenol Cold Day/Night Extra Strength Tablets 20 EA,Tylenol,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-647011,062600142504,Tylenol Extra Strength 500 mg 24 Caplets,Tylenol,Pharmacy & Wellness,Medicine & Health,Pain Relief,,No reliable aisle rule matched,review
-999254,062600142528,Tylenol Pain Relief Extra Strength 500 mg 100 Caplets,Tylenol,Pharmacy & Wellness,Medicine & Health,Pain Relief,,No reliable aisle rule matched,review
-59283,056100300663,Vicks Vaporub Regular 57 ml,Vicks,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,,No reliable aisle rule matched,review
-61987,060815342245,Voltaren Back + Muscle No Mess Muscular Pain Relief 75 g,Voltaren,Pharmacy & Wellness,Medicine & Health,Pain Relief,,No reliable aisle rule matched,review
-466942,058478110943,Voltaren Emulgel Pain Relief Cream Extra Strength 100 g,Voltaren,Pharmacy & Wellness,Medicine & Health,Pain Relief,,No reliable aisle rule matched,review
+503593,"888849000173,793573238467",Quest Protein Bars Cookies & Creme 60 g,Quest,Pharmacy & Wellness,Diet & Fitness,Protein Bars,other,No reliable aisle rule matched,review
+77568,060245250103,Reactine Extra Strength 24 Hour Relief 10 Tablets,Reactine,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+219995,056219823145,RestoraLAX Laxative 14 Once-Daily Doses 238 g,RestoraLAX,Pharmacy & Wellness,Medicine & Health,Digestive care,other,No reliable aisle rule matched,review
+999218,068900000384,Tums Antacid Extra Strength Assorted Fruit 100 Count,Tums,Pharmacy & Wellness,Medicine & Health,Digestive care,other,No reliable aisle rule matched,review
+649372,068900000681,Tums Ultra Antacid Assorted Fruit 72 EA,Tums,Pharmacy & Wellness,Medicine & Health,Digestive care,other,No reliable aisle rule matched,review
+580954,064541302498,Tylenol Arthritis Pain Relief Caplets 24 EA,Tylenol,Pharmacy & Wellness,Medicine & Health,Pain Relief,other,No reliable aisle rule matched,review
+321132,062600143723,Tylenol Children's Liquid Suspension Grape 100 ml,Tylenol,Pharmacy & Wellness,Medicine & Health,Pain Relief,other,No reliable aisle rule matched,review
+43160,064541317379,Tylenol Cold Day/Night Extra Strength Tablets 20 EA,Tylenol,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+647011,062600142504,Tylenol Extra Strength 500 mg 24 Caplets,Tylenol,Pharmacy & Wellness,Medicine & Health,Pain Relief,other,No reliable aisle rule matched,review
+999254,062600142528,Tylenol Pain Relief Extra Strength 500 mg 100 Caplets,Tylenol,Pharmacy & Wellness,Medicine & Health,Pain Relief,other,No reliable aisle rule matched,review
+59283,056100300663,Vicks Vaporub Regular 57 ml,Vicks,Pharmacy & Wellness,Medicine & Health,Cough & Cold Care,other,No reliable aisle rule matched,review
+61987,060815342245,Voltaren Back + Muscle No Mess Muscular Pain Relief 75 g,Voltaren,Pharmacy & Wellness,Medicine & Health,Pain Relief,other,No reliable aisle rule matched,review
+466942,058478110943,Voltaren Emulgel Pain Relief Cream Extra Strength 100 g,Voltaren,Pharmacy & Wellness,Medicine & Health,Pain Relief,other,No reliable aisle rule matched,review
 163244,060466853787,Arla Tre Stelle Organic Cream Cheese 200 g,Arla,Plant Based,Non-Dairy Cheese,Cheese & Deli,dairy,"Dairy section: milk, eggs, cheese, butter/margarine, sour cream, creamers or dairy alternatives (verify shelf placement)",suggested
 525137,011115001554,Becel Plant Based Butter Salted 454 g,Becel,Plant Based,Non-Dairy Butter,Dairy & Eggs,dairy,"Dairy section: milk, eggs, cheese, butter/margarine, sour cream, creamers or dairy alternatives (verify shelf placement)",suggested
 525144,011115001547,Becel Plant Based Butter Unsalted 454 g,Becel,Plant Based,Non-Dairy Butter,Dairy & Eggs,dairy,"Dairy section: milk, eggs, cheese, butter/margarine, sour cream, creamers or dairy alternatives (verify shelf placement)",suggested
@@ -1659,7 +1659,7 @@ Bunny Grahams 213 g",Annie's,Bread & Bakery,Desserts & Pastries,Bakery Cookies,9
 34325,840659002105,Good Fats Protein Bar Cookie Dough 55 g,Good Fats,Snacks & Candy,"Energy, Granola & Cereal Bars",Pharmacy & Wellness,9,"Snack, candy or soft drink",medium
 34363,847534003271,Grenade Protein Bar Caramel Chaos 60 g,Grenade,Snacks & Candy,"Energy, Granola & Cereal Bars",Pharmacy & Wellness,9,"Snack, candy or soft drink",medium
 34334,847534004261,Grenade Protein Bar Chocolate Chip Salted Caramel 60 g,Grenade,Snacks & Candy,"Energy, Granola & Cereal Bars",Pharmacy & Wellness,9,"Snack, candy or soft drink",medium
-34204,847534004513,Grenade Protein Bar Oreo Cookie 60 g,Grenade,Snacks & Candy,"Energy, Granola & Cereal Bars",Pharmacy & Wellness,9,"Snack, candy or soft drink",medium
+34204,847534004513,Grenade Protein Bar Oreo Cookie 60 g,Grenade,Snacks & Candy,"Energy, Granola & Cereal Bars",Pharmacy & Wellness,9,"Oreo cookies, snacks and related products: Aisle 9 (confirmed store rule)",high
 31976,068000782302,Hershey Oh Henry! Chocolate Pouch 200 g,Hershey,Snacks & Candy,Candy & Chocolate,Individual Chocolates,9,"Snack, candy or soft drink",medium
 436763,064900000881,Hubba Bubba Bubble Gum Outrageous Original 5 Pieces 1 Pack,Hubba Bubba,Snacks & Candy,Candy & Chocolate,Gum,9,"Snack, candy or soft drink",medium
 15494,193908007353,Kellogg RXBAR Bars Chocolate Sea Salt 260 g,Kellogg,Snacks & Candy,"Energy, Granola & Cereal Bars",Pharmacy & Wellness,9,"Snack, candy or soft drink",medium
