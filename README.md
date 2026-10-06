@@ -21,8 +21,7 @@ An independent, mobile-friendly product-location directory designed around the *
 | | |
 |---|---|
 | **Store** | FreshCo Brentwood · Calgary, Alberta |
-| **Catalog** | 1,775 searchable entries, including location-only guides |
-| **Coverage** | Aisles 0–9 plus Bakery, Dairy, Produce, Meat, Drinks, and Exit freezer |
+| **Catalog** | 1,774 searchable entries, including location-only guides |
 | **Experience** | Mobile-friendly search with instant location labels and section filters |
 | **Data model** | Static JSON snapshot; no real-time stock or pricing |
 
@@ -54,7 +53,6 @@ Product locations vary between grocery stores. Even familiar brands can be diffi
 | **Aisle 8** | Laundry products, household cleaners, dish detergent, hair care, soap and skincare |
 | **Aisle 9** | Chips, cookies including Oreo, chocolates, candy, snack bars and ready-to-eat popcorn |
 | **🥤 Drinks** | Pop, soda, bottled and sparkling water, sports and energy drinks |
-| **🧊 Exit freezer** | Ice cubes / bagged ice — **freezer near the tills, by the exit** |
 | **🥛 Dairy** | Milk, eggs, butter, cheese, sour cream, cream cheese and related products |
 | **🥬 Produce** | Fresh vegetables, fruit, packaged salads, tofu and prepared produce |
 | **🥩 Meat** | Meat, poultry, fresh seafood, halal and plant-based meat alternatives |
@@ -73,7 +71,6 @@ The catalog was assembled from a limited product-listing snapshot and augmented 
 - `products.json` — searchable product records and store-specific location assignments.
 - `aisle_assignments.csv` — tabular reference of current assignments.
 - `sorting_changes.csv` — earlier full-catalog sorting audit.
-- `drinks_section_changes.csv` — products reassigned to Drinks or the exit freezer in this release.
 - `README.md` — project overview and store layout reference.
 
 **Location accuracy:** The named layout reflects information supplied for the Brentwood store. Some other assignments were inferred from category names; they are not an official planogram. Photo-reference and product-family guide entries are not verified individual SKUs.
@@ -95,3 +92,11 @@ Potential improvements include a shared, reviewed location-update workflow, cata
 ---
 
 <div align="center"><sub>FreshCo Brentwood Aisle Finder · Independent, unofficial project · Product locations subject to change.</sub></div>
+
+## Latest data quality update
+
+- **Drinks** is a dedicated, populated section for bottled water, soda/pop, sparkling water, and energy/sports drinks.
+- Removed the **Exit Freezer** navigation and its non-catalogued ice guide.
+- Rechecked high-confidence Brentwood rules for frozen waffles, frozen berries, naan, roti, Oreo, CRAVE, condiments and frozen seafood.
+- `final_corrections.csv` records changes made in this release.
+- This is a store-specific, unofficial reference based on a partial product snapshot; exact placement of remaining items should be checked in store.

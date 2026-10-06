@@ -3397,9 +3397,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/7122_EA_ml_primary_front_na_032823_VOILA_af79fffdfc753340b44e222f1858902a6d0be1a9.JPG",
     "url": "https://www.freshco.com/products/promise-gluten-free-loaf-multigrain-480-g-(frozen)",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": "bakery",
+    "assignment_reason": "Bread → Bakery (gluten-free included)",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -3433,9 +3433,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/552238_EA_ml_primary_front_na_020823_VOILA_6899e0d7eacba68508f2c9b72248b86bd3f287e7.JPG",
     "url": "https://www.freshco.com/products/promise-gluten-free-vegan-rustic-white-cob-loaf-400-g-(frozen)",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": "bakery",
+    "assignment_reason": "Bread → Bakery (gluten-free included)",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -3505,9 +3505,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/882875554006_ml_top_VOILA_c593f725ba223968d9ef408f907e6b03d97d4d68.JPG",
     "url": "https://www.freshco.com/products/top-dessert-frozen-carrot-cake-500-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "3",
+    "assignment_reason": "Frozen dessert → Aisle 3",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -4135,9 +4135,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/474244_EA_ml_primary_front_NA_VOILA_95e6b2370faadeadff97c9df7d9714e71e813616.JPG",
     "url": "https://www.freshco.com/products/compliments-beef-bologna-sliced-meat-175-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -4279,9 +4279,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1441786_EA_ml_primary_front_NA_090926_VOILA_ce216f7ae1a0d8fcc033672f2984d729e9af45a1.JPG",
     "url": "https://www.freshco.com/products/compliments-deli-meat-roast-beef-150-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -4333,9 +4333,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/935338_EA_ml_primary_front_110222_VS_VOILA_2e602e345944ed0ea828066dfcf8cd991fdbceb8.JPG",
     "url": "https://www.freshco.com/products/compliments-extra-lean-thinly-sliced-smoked-turkey-breast-400-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -4603,9 +4603,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/491077_EA_ml_primary_front_VOILA_f416fcb72ae1e88db7f0831ab31ef7a573b5efef.JPG",
     "url": "https://www.freshco.com/products/compliments-sliced-bologna-175-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -4729,9 +4729,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/934568_EA_ml_primary_front_110222_VS_VOILA_1799fa1e57386c94e2f9c8df3d34a8d3c195c181.JPG",
     "url": "https://www.freshco.com/products/compliments-smoked-ham-black-forest-extra-lean-thinly-sliced-400-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -4747,9 +4747,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1295085_EA_ml_primary_front_na_090624_VOILA_ffa823379fcc901c41fba11be215392faaaa8b38.JPG",
     "url": "https://www.freshco.com/products/fantino---mondello-charcuterie-trio-chorizo-salami-and-prosciutto-100-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -4945,9 +4945,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/791193_EA_ml_na_front_na_052924_VOILA_d833445bca2c90dea9933b17dde6db04634669d4.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-deli-natural-smoked-ham-black-forest-600-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -4963,9 +4963,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/791202_EA_ml_primary_front_na_052924_VOILA_7ab38a4d748741ad889530b885d72cf9ba21e51c.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-deli-natural-smoked-ham-original-600-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -4999,9 +4999,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/346473_EA_ml_primary_front_na_052924_VOILA_4486b6ed6f86c041d0b61fb2b3baa04211c4d4ab.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-shaved-chicken-breast-hickory-smoked-175-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5017,9 +5017,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/309421_EA_ml_primary_front_na_052924_VOILA_a51833e0d32dff4302e17be374d21ef69b8a0935.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-shaved-ham-italian-style-175-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5035,9 +5035,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/391337_EA_ml_na_front_na_052924_VS_VOILA_2048915a1e9a0db1fd2fbe21aee1387ad39503f0.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-shaved-smoked-ham-black-forest-family-size-400-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5053,9 +5053,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/309420_EA_ml_primary_front_na_052924_VOILA_08d799aa12feebedc36f325ad3d59e43eed66119.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-shaved-turkey-breast-hickory-smoked-175-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5071,9 +5071,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/391754_EA_ml_na_front_na_052924_VS_VOILA_fc6bb1bf8cb9ed6248214ed49a41e211b02c38c3.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-shaved-turkey-breast-oven-roasted-family-size-375-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5089,9 +5089,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/245911_EA_ml_primary_front_na_052924_VOILA_e7d9ce02d1c2e10ff14638d256eb9498d742351f.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-sliced-baked-ham-175-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5107,9 +5107,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/271658_EA_ml_primary_front_na_052924_VOILA_7e383373aa31ab9d6d58cc5e3828aebffc99afd7.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-sliced-baked-ham-honey-175-g",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5125,9 +5125,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/245910_EA_ml_primary_front_na_052924_VOILA_ba0649939475c594f0fc3a426c6b99debf0621e4.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-sliced-chicken-breast-oven-roasted-175-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5143,9 +5143,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/245912_EA_ml_na_front_na_052924_VOILA_86d35ab6aba5b525357d7b87f37332a6c31daa3e.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-sliced-smoked-ham-black-forest-175-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5161,9 +5161,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/245906_EA_ml_primary_front_na_052924_VOILA_c8cedec69561ce887feab796757dc4d29f2bd1d3.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-natural-selections-deli-sliced-turkey-breast-oven-roasted-175-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5197,9 +5197,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081941113_VOILA_bdc70bc806c102d7260a52e1dabc6a1611d27fed.JPG",
     "url": "https://www.freshco.com/products/maple-lodge-farms-gluten-free-chicken-bologna-value-size-375-g",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5287,9 +5287,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000001818535_VOILA_185ec9243041f4d04e8fef51bf293ceeb21895b9.JPG",
     "url": "https://www.freshco.com/products/mastro-salami-with-prosciutto-sliced-meat-125-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5539,9 +5539,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000039646387_VOILA_d58a11a582473b337c1e7ebce06c3039ffbdd6be.JPG",
     "url": "https://www.freshco.com/products/san-daniele-gluten-free-ham-prosciutto-sliced-100-g",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5557,9 +5557,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/311166_EA_ml_primary_front_na_VOILA_730e5a40dd0b14965c534cb34da18800b2f5ee33.JPG",
     "url": "https://www.freshco.com/products/san-daniele-smoked-ham-prosciutto-100-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -5575,9 +5575,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/791090_EA_ml_na_front_na_052924_VOILA_1a6d8d81ebce92b6bcd9d49530141314cdb68a8b.JPG",
     "url": "https://www.freshco.com/products/schneiders-deli-half-ham-original-700-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -9599,9 +9599,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081760119_VOILA_922134fc100a00d4b9e4cbe2520b4034c65c84e8.JPG",
     "url": "https://www.freshco.com/products/compliments-deli-sliced-meat-herb-turkey-breast-175-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -9617,9 +9617,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000081721337_VOILA_f70a6220e97032279b4a9b7f697cbf9a4d7e691f.JPG",
     "url": "https://www.freshco.com/products/compliments-extra-lean-roast-turkey-breast-thinly-sliced-meat-175-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -9635,9 +9635,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/934722_EA_ml_VOILA_c404d6b5d628388ac8cd458827984362150081ed.JPG",
     "url": "https://www.freshco.com/products/compliments-extra-lean-smoked-turkey-breast-thinly-sliced-meat-175-g",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -9707,9 +9707,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/934735_EA_ml_primary_front_NA_012826_VOILA_16b22438b84e7140aaa4d4d480e89058c6d85d3f.JPG",
     "url": "https://www.freshco.com/products/compliments-gluten-free-thinly-sliced-black-forest-ham-extra-lean-175-g",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -25031,9 +25031,9 @@
     "in_stock": true,
     "image_url": "",
     "url": "https://www.freshco.com/products/gatorade-protein-bar-chocolate-carmel-80-g",
-    "aisle": 9,
-    "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "aisle": "drinks",
+    "assignment_reason": "Ready-to-drink pop, soda, water or energy/sports beverage → Drinks",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -25049,9 +25049,9 @@
     "in_stock": true,
     "image_url": "",
     "url": "https://www.freshco.com/products/gatorade-whey-protein-bar-chocolate-chip-80-g",
-    "aisle": 9,
-    "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "aisle": "drinks",
+    "assignment_reason": "Ready-to-drink pop, soda, water or energy/sports beverage → Drinks",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -27281,9 +27281,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000085067876_VOILA_0607df39e8eae8c97e3550e9efda2f5a66a73ad6.JPG",
     "url": "https://www.freshco.com/products/lunchmate-lunch-kit-bologna-90-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -27353,9 +27353,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/992891_EA_ml_na_front_na_052924_VOILA_e6e47d61930ac2453888d3698b32100e91edcb67.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-deli-shredded-natural-chicken-bbq-250-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -27371,9 +27371,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/609778_EA_ml_na_front_na_052924_VOILA_d5d7d5c1c6a63d608bb65ff23e6afc892a95252f.JPG",
     "url": "https://www.freshco.com/products/maple-leaf-deli-shredded-natural-chicken-slow-roasted-250-g",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": "meat",
+    "assignment_reason": "Deli meat is not a spread or coffee/tea item",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -30125,9 +30125,9 @@
     "in_stock": false,
     "image_url": "https://media.sobeys.com/original/201808_EA_ml_primary_front_110624_VOILA_f952ce70247087d5d0d704a2f38dc928109b933a.JPG",
     "url": "https://www.freshco.com/products/kernels-popcorn-seasoning-ketchup-125-g",
-    "aisle": 9,
-    "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "aisle": "0",
+    "assignment_reason": "Condiments → Aisle 0",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -30413,9 +30413,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/890863_EA_ml_primary_front_na_120222_VOILA_a6da60c0505bcfcd60bff7a6496be3bb54478404.JPG",
     "url": "https://www.freshco.com/products/miss-vickie-s-cooked-potato-chips-sweet---spicy-ketchup-flavour-kettle-190-g",
-    "aisle": 9,
-    "assignment_reason": "Snack, candy or soft drink",
-    "confidence": "medium"
+    "aisle": "0",
+    "assignment_reason": "Condiments → Aisle 0",
+    "confidence": "store-layout-rule"
   },
   {
     "store_id": "8962",
@@ -32018,22 +32018,5 @@
     "aisle": 0,
     "assignment_reason": "Brand and product family visible in user-provided Aisle 0 photographs; no individual SKU asserted",
     "confidence": "photo-reference"
-  },
-  {
-    "product_id": "guide-exit-ice-cubes",
-    "upc": "",
-    "name": "Ice cubes / bagged ice — freezer near tills and exit",
-    "brand": "Store section guide",
-    "department": "Frozen",
-    "category": "Ice cubes",
-    "subcategory": "Bagged ice",
-    "size": "",
-    "price": null,
-    "in_stock": null,
-    "image_url": "",
-    "url": "",
-    "aisle": "exit_freezer",
-    "confidence": "location-guide",
-    "reason": "Store location provided by Brentwood worker; specific product SKU not catalogued"
   }
 ]
