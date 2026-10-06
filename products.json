@@ -11965,9 +11965,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1006375_EA_ml_primary_front_NA_032724_VOILA_902d21b353e459842ee65511ac13b8fec895730e.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-fried-rice-jerk-chicken-300-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12217,9 +12217,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/8971_EA_primary_VOILA_498b9c34f0825dc16f744d2207dab1a75e4a9223.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-battered-chicken-general-tao-400-g-",
-    "aisle": null,
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Prepared frozen dinner/entrée similar to CRAVE (verified category and product name)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12235,9 +12235,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/329658_EA_ml_primary_front_110222_VS_VOILA_0e590bdd8abca3dd9c2b5d5996b5672240897cca.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-beef-lasagna-1-kg",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Prepared frozen dinner/entrée similar to CRAVE (verified category and product name)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12253,9 +12253,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/329657_EA_ml_primary_front_110222_VS_VOILA_887212e75d3f656de22adb2087e2f160d3de2d2e.JPG",
     "url": "https://www.freshco.com/products/compliments-frozen-beef-lasagna-value-size-2.27-kg",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Prepared frozen dinner/entrée similar to CRAVE (verified category and product name)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12649,9 +12649,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/519786_EA_ml_primary_front_na_040425_VOILA_7d596b04e048bec8d12820c716c7ced23cd3b415.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-breakfast-bacon---egg-scramble-with-cheddar-cheese-200-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12667,9 +12667,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1407798_EA_ml_primary_front_NA_080726_VOILA_3bb2cbde397d98272b047f679dd278ee510b91b7.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-cheesy-chicken-alfredo-macaroni---cheese-320-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12685,9 +12685,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/508871_EA_ml_primary_front_na_040425_VOILA_e52612b4bf45925b262ad7814997f2c7c813197b.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-macaroni---cheese-buffalo-chicken-300-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12704,8 +12704,8 @@
     "image_url": "https://media.sobeys.com/original/1006377_EA_ml_primary_front_NA_032724_VOILA_ea02b11c9d49934be5349833cd6d5b1c9b2df203.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-meal-beef-bulgogi-bolognese-312-g",
     "aisle": 3,
-    "assignment_reason": "Frozen meals, pizza, sides or vegetables",
-    "confidence": "medium"
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12722,8 +12722,8 @@
     "image_url": "https://media.sobeys.com/original/565075_EA_ml_primary_front_na_040725_VOILA_0a6c0d084da097d780215d41dcc1ebb35e026262.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-meal-loaded-cheesy-potatoes-with-bacon---angus-beef-284-g",
     "aisle": 3,
-    "assignment_reason": "Frozen meals, pizza, sides or vegetables",
-    "confidence": "medium"
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12740,8 +12740,8 @@
     "image_url": "https://media.sobeys.com/original/756328_EA_ml_primary_front_na_040825_VOILA_3e5e196c3217df0a4066c214c44fc7d77ccc0cf1.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-meal-white-cheddar-macaroni---cheese-with-bacon-300-g",
     "aisle": 3,
-    "assignment_reason": "Frozen meals, pizza, sides or vegetables",
-    "confidence": "medium"
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12757,9 +12757,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1006376_EA_ml_primary_front_na_040825_VOILA_943168c894ec5478e1c8203cc02d5e969cbd800d.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-spicy-szechuan-style-fried-chicken-on-rice-300-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12775,9 +12775,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1006379_EA_ml_primary_front_101124_VOILA_ea36d6007e03baed479bbc18334d2f2903874325.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-spicy-thai-chicken-panang-curry-312-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12793,9 +12793,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000086370989_VOILA_881dfd4c23ddaefa08ab632d520ff4147a884a8e.JPG",
     "url": "https://www.freshco.com/products/crave-frozen-stuffed-ravoil-butter-chicken-300-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "CRAVE products are in Aisle 3 (Dinner/Entrées), confirmed store rule",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -12991,9 +12991,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000005006144_VOILA_cd5a3ae6d9284886400e8e42d226554a01cc6051.JPG",
     "url": "https://www.freshco.com/products/green-giant-valley-selections-pasta-cheddar-500-g-(frozen)",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Prepared frozen dinner/entrée similar to CRAVE (verified category and product name)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13531,9 +13531,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1427689_EA_ml_primary_front_na_062426_VOILA_48f205fee7c0e17274ba24b20d5e7e9ac29cd96a.JPG",
     "url": "https://www.freshco.com/products/marigold-frozen-butter-chicken-354-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Prepared frozen dinner/entrée similar to CRAVE (verified category and product name)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -13729,9 +13729,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/893611_EA_ml_primary_front_103123_VOILA_547bcd4e00f5d0ef53ab213c1a5280d7cd97c437.JPG",
     "url": "https://www.freshco.com/products/michelina-s-frozen-fettucini-alfredo-284-g",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 3,
+    "assignment_reason": "Prepared frozen dinner/entrée similar to CRAVE (verified category and product name)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -14017,9 +14017,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/894281_EA_ML_PRIMARY_FRONT_NA_012723_VOILA_7757d11ff2c6c9294067ef99a7f7873ca946992c.JPG",
     "url": "https://www.freshco.com/products/swanson-frozen-beef-pot-pie-200-g",
-    "aisle": null,
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Prepared frozen dinner/entrée similar to CRAVE (verified category and product name)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
@@ -14053,9 +14053,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000082354676_VOILA_39e0ccbd21233eaf74af74b909697e3799c73bf2.JPG",
     "url": "https://www.freshco.com/products/swiss-chalet-frozen-rotisserie-style-beef-pie-655-g",
-    "aisle": null,
-    "assignment_reason": "Frozen product needs aisle 2/3/4 verification",
-    "confidence": "review"
+    "aisle": 3,
+    "assignment_reason": "Prepared frozen dinner/entrée similar to CRAVE (verified category and product name)",
+    "confidence": "high"
   },
   {
     "store_id": "8962",
