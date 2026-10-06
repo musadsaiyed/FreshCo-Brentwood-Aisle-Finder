@@ -14737,9 +14737,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000024023992_VOILA_9a38ee07fe67419ca54cba7c5e1e095e008eee0f.JPG",
     "url": "https://www.freshco.com/products/grace-virgin-coconut-oil-500-ml",
-    "aisle": 1,
-    "assignment_reason": "International foods and rice",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Cooking oils (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -14935,9 +14935,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000007663983_VOILA_ea2f8e2e5accac5e9d07d58bad91a42ccb84a313.JPG",
     "url": "https://www.freshco.com/products/kadoya-pure-sesame-oil-163-ml",
-    "aisle": 1,
-    "assignment_reason": "International foods and rice",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Cooking oils (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -15007,9 +15007,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/803793_EA_ml_primary_front_na_012323_VOILA_673560f327dd2657192ffd4f02013c121d763ab1.JPG",
     "url": "https://www.freshco.com/products/kim-phat-sesame-oil-roasted-163-ml",
-    "aisle": 1,
-    "assignment_reason": "International foods and rice",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Cooking oils (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -15169,9 +15169,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/544386_EA_ml_front_VOILA_095f28fefd741419e931e2d0abe0432d942f4ee6.JPG",
     "url": "https://www.freshco.com/products/lee-kum-kee-pure-sesame-oil-443-ml",
-    "aisle": 1,
-    "assignment_reason": "International foods and rice",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Cooking oils (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -15439,9 +15439,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/052851050307_VOILA_b716cb7a3a54bddf5ef123134ccfeb4833d5a5d2.JPG",
     "url": "https://www.freshco.com/products/sadaf-tomato-paste-700-g",
-    "aisle": 1,
-    "assignment_reason": "International foods and rice",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Canned vegetables and tomatoes (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -18841,9 +18841,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000079340416_VOILA_0db7cb03d6492720d4386b18439bfd2e9bf73cda.JPG",
     "url": "https://www.freshco.com/products/bull-s-eye-barbecue-sauce-honey-garlic-bonanza-425-ml",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Condiments and sauces (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19093,9 +19093,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/564518_EA_ml_primary_front_na_042825_VOILA_72fba82d30a270d07dbef30d1d7c0ee40fd7eb86.JPG",
     "url": "https://www.freshco.com/products/compliments-bbq-sauce-honey-garlic-425-ml",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Condiments and sauces (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19111,9 +19111,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/055742373462_164726_VOILA_32f6d377cc507424711a140b76bc71054ab005e2.JPG",
     "url": "https://www.freshco.com/products/compliments-balsamic-vinegar-of-modena-500-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Vinegar (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19165,9 +19165,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/656008_EA_ml_primary_front_052224_VOILA_6644f8cb8d2fa248fef97fb2aa4b06a641d91a32.JPG",
     "url": "https://www.freshco.com/products/compliments-canned-petite-cut-stewed-tomatoes-garlic---olive-oil-540-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Cooking oils (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19183,9 +19183,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/147787_EA_ml_primary_front_052224_VOILA_5af60d75a9014c6c74776b8c5091d35dd60433ae.JPG",
     "url": "https://www.freshco.com/products/compliments-canned-tomato-paste-156-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Canned vegetables and tomatoes (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19201,9 +19201,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/147797_EA_ml_primary_front_052224_VOILA_70cca7afbf2ecd0875cb9bd8aa1aa90d779cfeb1.JPG",
     "url": "https://www.freshco.com/products/compliments-canned-tomato-sauce-680-ml",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Canned vegetables and tomatoes (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19219,9 +19219,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/242653_EA_en_primary_front_VOILA_ff39ce249bacccec6efd46bb23e55724bec32661.JPG",
     "url": "https://www.freshco.com/products/compliments-canola-oil-pure-3-l",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Cooking oils (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19363,9 +19363,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1310564_EA_ml_primary_front_na_022825_VOILA_5d9332b47402ebc28e847b0a648d55066a30bea6.JPG",
     "url": "https://www.freshco.com/products/compliments-plant-based-spread-mayonnaise-type-685-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Mayonnaise and spreads (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19381,9 +19381,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/409731_EA_ml_primary_front_121823_VOILA_98cda42b951efb9c879083e5adbba1bf4a66f0fb.JPG",
     "url": "https://www.freshco.com/products/compliments-prepared-dijon-mustard-original-325-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Condiments and sauces (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19453,9 +19453,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/679057_EA_ml_front_COC_VOILA_732a06adcc15d592be229105a12cbb4c753af6b4.JPG",
     "url": "https://www.freshco.com/products/compliments-tomato-ketchup-1-l",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Condiments and sauces (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19543,9 +19543,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000033676438_VOILA_18b1b1313f8456be8e6e858a58105e5b439907d2.JPG",
     "url": "https://www.freshco.com/products/frank-s-red-hot-sauce-original-354-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Condiments and sauces (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19633,9 +19633,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1334769_EA_ml_primary_front_na_062426_VOILA_060b3433f9fe758c16de1da930607e08dd13d4ae.JPG",
     "url": "https://www.freshco.com/products/heinz-mayonnaise-style-sauce-garlic-parmesan-340-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Mayonnaise and spreads (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19651,9 +19651,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1334770_EA_ml_primary_front_na_062426_VOILA_ffed3cde601d15581b93b8887c6948035d2e05c7.JPG",
     "url": "https://www.freshco.com/products/heinz-mayonnaise-style-sauce-pickle-340-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Mayonnaise and spreads (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19669,9 +19669,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/1334768_EA_ml_primary_front_na_062426_VOILA_7c999f57399da14ec2dcd3d64ddb179319787526.JPG",
     "url": "https://www.freshco.com/products/heinz-mayonnaise-style-sauce-smoky-bacon-340-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Mayonnaise and spreads (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19705,9 +19705,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/176864_EA_ml_primary_front_na_041326_VOILA_ea9dbcd29d30fcd7e08bddb75c9918484b76a9c2.JPG",
     "url": "https://www.freshco.com/products/heinz-tomato-ketchup-1.5-l",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Condiments and sauces (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19723,9 +19723,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/404479_EA_ml_primary_front_na_041326_VOILA_f3786c7c3248f4058a6e951445c22db5e01db86e.JPG",
     "url": "https://www.freshco.com/products/heinz-tomato-ketchup-750-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Condiments and sauces (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19741,9 +19741,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/247189_EA_ml_primary_front_na_041326_VOILA_4838d4f50b12a19cbe513daf694a47ed8b4d1ec4.JPG",
     "url": "https://www.freshco.com/products/heinz-tomato-ketchup-low-sodium-750-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Condiments and sauces (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19759,9 +19759,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/176759_EA_ml_primary_front_120423_VOILA_1685c719014eba2855e5c7f467799ec620b54a1b.JPG",
     "url": "https://www.freshco.com/products/hellmann-s-gluten-free-real-mayonnaise-890-ml",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Mayonnaise and spreads (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19777,9 +19777,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/176761_EA_ml_primary_front_NA_071223_VOILA_e5337a24549491e7751e99d8275afbd1b182e3db.JPG",
     "url": "https://www.freshco.com/products/hellmann-s-gluten-free-mayonnaise-1-2-the-fat-890-ml",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Mayonnaise and spreads (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19795,9 +19795,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/331080_EA_ml_primary_front_na_030426_VOILA_03bb12a564d1b7f89f8c80212b7681b31cd8f801.JPG",
     "url": "https://www.freshco.com/products/hellmann-s-mayonnaise-dressing-mild-chipotle-340-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Shelf-stable salad dressing (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19813,9 +19813,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/120457_EA_ml_primary_front_022123_VOILA_16a13730867242f0e87e76d7f301835c24d39d14.JPG",
     "url": "https://www.freshco.com/products/hellmann-s-mayonnaise-type-dressing-light-½-fat-750-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Shelf-stable salad dressing (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19831,9 +19831,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/386314_EA_ml_primary_front_na_091324_VOILA_0aec180b9cdf148c35d54c5969dba7d3410e6f13.JPG",
     "url": "https://www.freshco.com/products/hellmann-s-vegan-mayonnaise-type-dressing-garlic-aioli-340-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Shelf-stable salad dressing (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -19849,9 +19849,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/973078_EA_ml_primary_front_na_VOILA_3770ac69518e94424640f92d80314d09d6f04bd0.JPG",
     "url": "https://www.freshco.com/products/hunts-tomato-sauce-no-salt-added-680-ml",
-    "aisle": 2,
-    "assignment_reason": "Pasta, Mexican, noodles or aisle-2 frozen specialties",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Canned vegetables and tomatoes (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -20137,9 +20137,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/165799_EA_ml_primary_front_061224_VOILA_a8c41b9a7a4abd82942a2858489648d69d338dca.JPG",
     "url": "https://www.freshco.com/products/mazola-canola-oil-2.84-l",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Cooking oils (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -20461,9 +20461,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000006898379_VOILA_092b3e3df1b1cd66662a696158fa59f21301b709.JPG",
     "url": "https://www.freshco.com/products/reinhart-s-apple-cider-vinegar-500-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Vinegar (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -20569,9 +20569,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/754000000025700000000023085844_VOILA_1fd3adf39e16e4fb0bd0964bcbe18a6cd46a7e46.JPG",
     "url": "https://www.freshco.com/products/unico-canned-tomatoes-796-ml",
-    "aisle": "other",
-    "assignment_reason": "No reliable aisle rule matched",
-    "confidence": "review"
+    "aisle": 0,
+    "assignment_reason": "Canned vegetables and tomatoes (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -25861,9 +25861,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/607250_EA_ml_primary_front_na_040825_VOILA_862d6220b0222ca8a7e77d30c304ef20f4036994.JPG",
     "url": "https://www.freshco.com/products/compliments-plant-based-salad-dressing-caesar-kreamy-350-ml",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Shelf-stable salad dressing (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -25879,9 +25879,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/607324_EA_ml_primary_front_na_040825_VOILA_9e2c50dc4951526507ae527e84ca187d14a9f9c9.JPG",
     "url": "https://www.freshco.com/products/compliments-plant-based-salad-dressing-ranch-350-ml",
-    "aisle": "other",
-    "assignment_reason": "Fresh/refrigerated or separate store section",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Shelf-stable salad dressing (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -26383,9 +26383,9 @@
     "in_stock": true,
     "image_url": "https://media.sobeys.com/original/629736_EA_ml_primary_front_021023_VOILA_d2a2ba33e5a0db6b2e59d9fd838e736f639db044.JPG",
     "url": "https://www.freshco.com/products/hellmann-s-gluten-free-vegan-dressing---sandwich-spread-710-ml",
-    "aisle": 5,
-    "assignment_reason": "Breakfast spreads, hot drinks or shelf-stable beverages",
-    "confidence": "medium"
+    "aisle": 0,
+    "assignment_reason": "Shelf-stable salad dressing (Aisle 0 photo)",
+    "confidence": "store-photo-category"
   },
   {
     "store_id": "8962",
@@ -31569,6 +31569,132 @@
     "url": "",
     "aisle": "bakery",
     "assignment_reason": "Roti: Bakery section",
+    "confidence": "location-guide"
+  },
+  {
+    "store_id": "8962",
+    "product_id": "guide-aisle0-1",
+    "upc": "",
+    "name": "Aisle 0 guide: Cooking oil and cooking spray",
+    "brand": "Store section guide",
+    "department": "Aisle 0",
+    "category": "Canola, vegetable, corn, sunflower and olive oils; aerosol cooking sprays",
+    "subcategory": "",
+    "size": "",
+    "price": null,
+    "in_stock": null,
+    "image_url": "",
+    "url": "",
+    "aisle": 0,
+    "assignment_reason": "Category visible in user-provided aisle photos; guide only",
+    "confidence": "location-guide"
+  },
+  {
+    "store_id": "8962",
+    "product_id": "guide-aisle0-2",
+    "upc": "",
+    "name": "Aisle 0 guide: Vinegar and apple cider vinegar",
+    "brand": "Store section guide",
+    "department": "Aisle 0",
+    "category": "White vinegar, balsamic vinegar, apple cider vinegar",
+    "subcategory": "",
+    "size": "",
+    "price": null,
+    "in_stock": null,
+    "image_url": "",
+    "url": "",
+    "aisle": 0,
+    "assignment_reason": "Category visible in user-provided aisle photos; guide only",
+    "confidence": "location-guide"
+  },
+  {
+    "store_id": "8962",
+    "product_id": "guide-aisle0-3",
+    "upc": "",
+    "name": "Aisle 0 guide: Shelf-stable salad dressing",
+    "brand": "Store section guide",
+    "department": "Aisle 0",
+    "category": "Kraft and Compliments ranch, Caesar, Italian, Thousand Island and other bottled dressings",
+    "subcategory": "",
+    "size": "",
+    "price": null,
+    "in_stock": null,
+    "image_url": "",
+    "url": "",
+    "aisle": 0,
+    "assignment_reason": "Category visible in user-provided aisle photos; guide only",
+    "confidence": "location-guide"
+  },
+  {
+    "store_id": "8962",
+    "product_id": "guide-aisle0-4",
+    "upc": "",
+    "name": "Aisle 0 guide: Mayonnaise and sandwich spreads",
+    "brand": "Store section guide",
+    "department": "Aisle 0",
+    "category": "Hellmann’s, Compliments and other shelf-stable mayonnaise",
+    "subcategory": "",
+    "size": "",
+    "price": null,
+    "in_stock": null,
+    "image_url": "",
+    "url": "",
+    "aisle": 0,
+    "assignment_reason": "Category visible in user-provided aisle photos; guide only",
+    "confidence": "location-guide"
+  },
+  {
+    "store_id": "8962",
+    "product_id": "guide-aisle0-5",
+    "upc": "",
+    "name": "Aisle 0 guide: Mustard, ketchup and hot sauce",
+    "brand": "Store section guide",
+    "department": "Aisle 0",
+    "category": "French’s mustard, Heinz ketchup, Tabasco and similar condiments",
+    "subcategory": "",
+    "size": "",
+    "price": null,
+    "in_stock": null,
+    "image_url": "",
+    "url": "",
+    "aisle": 0,
+    "assignment_reason": "Category visible in user-provided aisle photos; guide only",
+    "confidence": "location-guide"
+  },
+  {
+    "store_id": "8962",
+    "product_id": "guide-aisle0-6",
+    "upc": "",
+    "name": "Aisle 0 guide: Pickles, olives and relish",
+    "brand": "Store section guide",
+    "department": "Aisle 0",
+    "category": "Jarred dill pickles, sweet pickles, green olives, relish",
+    "subcategory": "",
+    "size": "",
+    "price": null,
+    "in_stock": null,
+    "image_url": "",
+    "url": "",
+    "aisle": 0,
+    "assignment_reason": "Category visible in user-provided aisle photos; guide only",
+    "confidence": "location-guide"
+  },
+  {
+    "store_id": "8962",
+    "product_id": "guide-aisle0-7",
+    "upc": "",
+    "name": "Aisle 0 guide: Canned vegetables",
+    "brand": "Store section guide",
+    "department": "Aisle 0",
+    "category": "Canned corn, peas, green beans, mixed vegetables and mushrooms",
+    "subcategory": "",
+    "size": "",
+    "price": null,
+    "in_stock": null,
+    "image_url": "",
+    "url": "",
+    "aisle": 0,
+    "assignment_reason": "Category visible in user-provided aisle photos; guide only",
     "confidence": "location-guide"
   }
 ]

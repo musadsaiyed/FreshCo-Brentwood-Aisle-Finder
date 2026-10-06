@@ -191,3 +191,10 @@ The website includes **12 manually added product-family guides** for Deep frozen
 ### Expanded bakery classification
 
 Bread, buns, bakery rolls, tortillas, pita, bagels and related bread products in the existing catalog are mapped to **Bakery**. Naan and paratha remain in **Aisle 2**. Tortilla chips, breaded meats, spring rolls and egg rolls are excluded from the bakery rule.
+
+
+## Aisle 0 — Brentwood store-photo update (October 2026)
+
+Seven user-provided shelf photographs confirm that Aisle 0 carries cooking oils and cooking sprays; vinegar; shelf-stable salad dressings; mayonnaise; mustard; ketchup; hot sauces; jarred pickles, olives and relish; and canned vegetables. Matching existing product records were reassigned to Aisle 0. Seven clearly labeled **category guides** cover photo-confirmed product families not fully represented in the source catalog. These guides are **not verified UPC-level product listings**.
+
+Refrigerated salad dressings, frozen vegetables, flavoured snack chips, and other products with similar words remain in their original sections unless individually confirmed. All earlier Brentwood-specific assignments are preserved.
